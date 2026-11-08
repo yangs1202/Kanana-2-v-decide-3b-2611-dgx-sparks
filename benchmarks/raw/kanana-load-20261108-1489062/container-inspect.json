@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "97a6721a1a6ad36370bcf6c0f4cecb5bd5e6dfe7797f718f348c2f75f3e800f4",
+    "Created": "2026-11-08T04:41:21.528747437Z",
+    "State": {
+      "Status": "running",
+      "Running": true,
+      "Paused": false,
+      "Restarting": false,
+      "OOMKilled": false,
+      "Dead": false,
+      "Pid": 2888075,
+      "ExitCode": 0,
+      "Error": "",
+      "StartedAt": "2026-11-08T04:41:21.607154972Z",
+      "FinishedAt": "0001-01-01T00:00:00Z"
+    },
+    "Image": "sha256:349154e3f5a2cf08d1971453a9ed568f3ceed703e74569540ba7d9eafc44f2c5",
+    "Name": "/kanana-load-20261108",
+    "RestartCount": 0,
+    "Config": {
+      "Image": "kanana-memory:20261108-direct-accelerate112",
+      "WorkingDir": "/workspace"
+    }
+  }
+]

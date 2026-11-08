@@ -1,0 +1,142 @@
+{
+  "phase": "mixed-c4-run2",
+  "seconds": 55.22567853600776,
+  "result": [
+    {
+      "seconds": 41.83258271800878,
+      "response": {
+        "model": "kanana-2-v-decide-3b-2611",
+        "answers": {
+          "category": {
+            "type": "choice",
+            "choice": "exchange",
+            "confidence": 0.6874395571763996,
+            "probabilities": {
+              "exchange": 0.7916263714509331,
+              "delivery": 0.2022234904712972,
+              "payment": 0.006150138077769792
+            }
+          }
+        },
+        "usage": {
+          "billing_units": 1,
+          "input_tokens": 20480,
+          "output_tokens": 0
+        }
+      }
+    },
+    {
+      "seconds": 28.223456302992417,
+      "response": {
+        "model": "kanana-2-v-decide-3b-2611",
+        "answers": {
+          "category": {
+            "type": "choice",
+            "choice": "exchange",
+            "confidence": 0.6874395571763996,
+            "probabilities": {
+              "exchange": 0.7916263714509331,
+              "delivery": 0.2022234904712972,
+              "payment": 0.006150138077769792
+            }
+          }
+        },
+        "usage": {
+          "billing_units": 1,
+          "input_tokens": 20480,
+          "output_tokens": 0
+        }
+      }
+    },
+    {
+      "seconds": 14.369960733994958,
+      "response": {
+        "model": "kanana-2-v-decide-3b-2611",
+        "answers": {
+          "category": {
+            "type": "choice",
+            "choice": "exchange",
+            "confidence": 0.6874395571763996,
+            "probabilities": {
+              "exchange": 0.7916263714509331,
+              "delivery": 0.2022234904712972,
+              "payment": 0.006150138077769792
+            }
+          }
+        },
+        "usage": {
+          "billing_units": 1,
+          "input_tokens": 20480,
+          "output_tokens": 0
+        }
+      }
+    },
+    {
+      "seconds": 55.22409910600982,
+      "response": {
+        "model": "kanana-2-v-decide-3b-2611",
+        "answers": {
+          "category": {
+            "type": "choice",
+            "choice": "exchange",
+            "confidence": 0.6874395571763996,
+            "probabilities": {
+              "exchange": 0.7916263714509331,
+              "delivery": 0.2022234904712972,
+              "payment": 0.006150138077769792
+            }
+          }
+        },
+        "usage": {
+          "billing_units": 1,
+          "input_tokens": 20480,
+          "output_tokens": 0
+        }
+      }
+    }
+  ],
+  "min_available": 107871469568,
+  "system_delta_gib": 16.295368194580078,
+  "after": {
+    "time": 1794113215.47533,
+    "MemAvailable": 108793544704,
+    "SwapFree": 16811278336,
+    "VmHWM": 8215580672,
+    "VmRSS": 3914518528
+  },
+  "rss_peak": 4800262144,
+  "cuda_allocated": 7364509696,
+  "cuda_reserved": 12694061056,
+  "cuda_peak_allocated": 10928399360,
+  "cuda_peak_reserved": 12694061056,
+  "forwards": [
+    {
+      "tokens": 20480,
+      "pixels": [
+        64000,
+        1536
+      ]
+    },
+    {
+      "tokens": 20480,
+      "pixels": [
+        64000,
+        1536
+      ]
+    },
+    {
+      "tokens": 20480,
+      "pixels": [
+        64000,
+        1536
+      ]
+    },
+    {
+      "tokens": 20480,
+      "pixels": [
+        64000,
+        1536
+      ]
+    }
+  ]
+}

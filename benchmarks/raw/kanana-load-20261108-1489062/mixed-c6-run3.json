@@ -1,0 +1,202 @@
+{
+  "phase": "mixed-c6-run3",
+  "seconds": 85.74167105900415,
+  "result": [
+    {
+      "seconds": 28.99804181899526,
+      "response": {
+        "model": "kanana-2-v-decide-3b-2611",
+        "answers": {
+          "category": {
+            "type": "choice",
+            "choice": "exchange",
+            "confidence": 0.6874395571763996,
+            "probabilities": {
+              "exchange": 0.7916263714509331,
+              "delivery": 0.2022234904712972,
+              "payment": 0.006150138077769792
+            }
+          }
+        },
+        "usage": {
+          "billing_units": 1,
+          "input_tokens": 20480,
+          "output_tokens": 0
+        }
+      }
+    },
+    {
+      "seconds": 14.227272832999006,
+      "response": {
+        "model": "kanana-2-v-decide-3b-2611",
+        "answers": {
+          "category": {
+            "type": "choice",
+            "choice": "exchange",
+            "confidence": 0.6874395571763996,
+            "probabilities": {
+              "exchange": 0.7916263714509331,
+              "delivery": 0.2022234904712972,
+              "payment": 0.006150138077769792
+            }
+          }
+        },
+        "usage": {
+          "billing_units": 1,
+          "input_tokens": 20480,
+          "output_tokens": 0
+        }
+      }
+    },
+    {
+      "seconds": 57.682182824995834,
+      "response": {
+        "model": "kanana-2-v-decide-3b-2611",
+        "answers": {
+          "category": {
+            "type": "choice",
+            "choice": "exchange",
+            "confidence": 0.6874395571763996,
+            "probabilities": {
+              "exchange": 0.7916263714509331,
+              "delivery": 0.2022234904712972,
+              "payment": 0.006150138077769792
+            }
+          }
+        },
+        "usage": {
+          "billing_units": 1,
+          "input_tokens": 20480,
+          "output_tokens": 0
+        }
+      }
+    },
+    {
+      "seconds": 85.73787148899282,
+      "response": {
+        "model": "kanana-2-v-decide-3b-2611",
+        "answers": {
+          "category": {
+            "type": "choice",
+            "choice": "exchange",
+            "confidence": 0.6874395571763996,
+            "probabilities": {
+              "exchange": 0.7916263714509331,
+              "delivery": 0.2022234904712972,
+              "payment": 0.006150138077769792
+            }
+          }
+        },
+        "usage": {
+          "billing_units": 1,
+          "input_tokens": 20480,
+          "output_tokens": 0
+        }
+      }
+    },
+    {
+      "seconds": 42.997683367997524,
+      "response": {
+        "model": "kanana-2-v-decide-3b-2611",
+        "answers": {
+          "category": {
+            "type": "choice",
+            "choice": "exchange",
+            "confidence": 0.6874395571763996,
+            "probabilities": {
+              "exchange": 0.7916263714509331,
+              "delivery": 0.2022234904712972,
+              "payment": 0.006150138077769792
+            }
+          }
+        },
+        "usage": {
+          "billing_units": 1,
+          "input_tokens": 20480,
+          "output_tokens": 0
+        }
+      }
+    },
+    {
+      "seconds": 72.36614406200533,
+      "response": {
+        "model": "kanana-2-v-decide-3b-2611",
+        "answers": {
+          "category": {
+            "type": "choice",
+            "choice": "exchange",
+            "confidence": 0.6874395571763996,
+            "probabilities": {
+              "exchange": 0.7916263714509331,
+              "delivery": 0.2022234904712972,
+              "payment": 0.006150138077769792
+            }
+          }
+        },
+        "usage": {
+          "billing_units": 1,
+          "input_tokens": 20480,
+          "output_tokens": 0
+        }
+      }
+    }
+  ],
+  "min_available": 107150766080,
+  "system_delta_gib": 16.966575622558594,
+  "after": {
+    "time": 1794113528.3525743,
+    "MemAvailable": 108129906688,
+    "SwapFree": 16811384832,
+    "VmHWM": 8215580672,
+    "VmRSS": 4552134656
+  },
+  "rss_peak": 5395173376,
+  "cuda_allocated": 7364509696,
+  "cuda_reserved": 12694061056,
+  "cuda_peak_allocated": 10928399360,
+  "cuda_peak_reserved": 12694061056,
+  "forwards": [
+    {
+      "tokens": 20480,
+      "pixels": [
+        64000,
+        1536
+      ]
+    },
+    {
+      "tokens": 20480,
+      "pixels": [
+        64000,
+        1536
+      ]
+    },
+    {
+      "tokens": 20480,
+      "pixels": [
+        64000,
+        1536
+      ]
+    },
+    {
+      "tokens": 20480,
+      "pixels": [
+        64000,
+        1536
+      ]
+    },
+    {
+      "tokens": 20480,
+      "pixels": [
+        64000,
+        1536
+      ]
+    },
+    {
+      "tokens": 20480,
+      "pixels": [
+        64000,
+        1536
+      ]
+    }
+  ]
+}

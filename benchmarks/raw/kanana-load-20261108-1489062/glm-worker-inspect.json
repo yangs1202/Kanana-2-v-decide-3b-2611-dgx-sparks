@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "37783b8ea6bfa76811a976a30f7f7afd1dc50446ec2432541e20dd9b45fc4593",
+    "Created": "2026-11-08T04:18:12.737750097Z",
+    "State": {
+      "Status": "running",
+      "Running": true,
+      "Paused": false,
+      "Restarting": false,
+      "OOMKilled": false,
+      "Dead": false,
+      "Pid": 2151535,
+      "ExitCode": 0,
+      "Error": "",
+      "StartedAt": "2026-11-08T04:53:50.686473137Z",
+      "FinishedAt": "2026-11-08T04:41:17.045213821Z"
+    },
+    "Image": "sha256:6f08848c663bdc3d60cacfc863c28f9764fb86ed0fd426abf25da0f44dc07e73",
+    "Name": "/glm53-spark",
+    "RestartCount": 0,
+    "Config": {
+      "Image": "tensorfold-glm53-spark:8734689e7a73",
+      "WorkingDir": "/workspace"
+    }
+  }
+]

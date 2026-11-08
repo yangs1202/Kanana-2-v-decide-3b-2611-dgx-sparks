@@ -1,0 +1,95 @@
+{
+  "requests": 336,
+  "conditions": "C1; 3 complete passes; default Decider probability temperature; existing GLM remains running; warmup excluded",
+  "forms": {
+    "odd": {
+      "correct": 27,
+      "total": 56,
+      "sections": {
+        "common": {
+          "correct": 17,
+          "total": 34,
+          "score": 38,
+          "max_score": 76
+        },
+        "speech": {
+          "correct": 8,
+          "total": 11,
+          "score": 16,
+          "max_score": 24
+        },
+        "language": {
+          "correct": 2,
+          "total": 11,
+          "score": 5,
+          "max_score": 24
+        }
+      },
+      "exams": {
+        "speech": {
+          "score": 54,
+          "correct": 25,
+          "total": 45,
+          "max_score": 100
+        },
+        "language": {
+          "score": 43,
+          "correct": 19,
+          "total": 45,
+          "max_score": 100
+        }
+      }
+    },
+    "even": {
+      "correct": 28,
+      "total": 56,
+      "sections": {
+        "common": {
+          "correct": 18,
+          "total": 34,
+          "score": 40,
+          "max_score": 76
+        },
+        "speech": {
+          "correct": 8,
+          "total": 11,
+          "score": 16,
+          "max_score": 24
+        },
+        "language": {
+          "correct": 2,
+          "total": 11,
+          "score": 5,
+          "max_score": 24
+        }
+      },
+      "exams": {
+        "speech": {
+          "score": 56,
+          "correct": 26,
+          "total": 45,
+          "max_score": 100
+        },
+        "language": {
+          "score": 45,
+          "correct": 20,
+          "total": 45,
+          "max_score": 100
+        }
+      }
+    }
+  },
+  "mean_seconds": 0.30916655773208257,
+  "median_seconds": 0.2711988687515259,
+  "p95_seconds": 0.6852736473083496,
+  "max_seconds": 0.8924376964569092,
+  "stable_cases": 112,
+  "min_mem_available_gib": 6.785419464111328,
+  "max_input_tokens": 2063,
+  "pass_mean_seconds": {
+    "1": 0.43977869195597513,
+    "2": 0.16624173734869277,
+    "3": 0.3214792438915798
+  },
+  "cross_form_same_selected_text": 55
+}

@@ -1,0 +1,43 @@
+{
+  "pass_": true,
+  "seconds": 0.27111059200251475,
+  "response": {
+    "model": "kanana-2-v-decide-3b-2611",
+    "answers": {
+      "intent": {
+        "type": "choice",
+        "choice": "exchange",
+        "confidence": 0.9652818642810925,
+        "probabilities": {
+          "exchange": 0.976854576187395,
+          "cancel": 0.0056523278919979455,
+          "other": 0.01749309592060712
+        }
+      },
+      "damaged": {
+        "type": "noul",
+        "noul": 0.9114890291045772
+      },
+      "urgency": {
+        "type": "score",
+        "score": 1.4134605348896518,
+        "confidence": 0.2149166249920061,
+        "legend": {
+          "0": "low",
+          "1": "medium",
+          "2": "high"
+        },
+        "probabilities": {
+          "0": 0.054964190891171966,
+          "1": 0.47661108332800406,
+          "2": 0.46842472578082395
+        }
+      }
+    },
+    "usage": {
+      "billing_units": 3,
+      "input_tokens": 228,
+      "output_tokens": 0
+    }
+  }
+}

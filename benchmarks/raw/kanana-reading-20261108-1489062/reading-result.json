@@ -1,0 +1,25 @@
+{
+  "seconds": 0.25377972099522594,
+  "response": {
+    "model": "kanana-2-v-decide-3b-2611",
+    "answers": {
+      "question_1": {
+        "type": "choice",
+        "choice": "1",
+        "confidence": 0.19724943572547202,
+        "probabilities": {
+          "1": 0.3577995485803776,
+          "2": 0.18257750223963085,
+          "3": 0.3025961204607931,
+          "4": 0.09959204577245656,
+          "5": 0.05743478294674189
+        }
+      }
+    },
+    "usage": {
+      "billing_units": 1,
+      "input_tokens": 767,
+      "output_tokens": 0
+    }
+  }
+}

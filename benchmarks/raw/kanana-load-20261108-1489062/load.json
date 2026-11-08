@@ -1,0 +1,22 @@
+{
+  "phase": "load",
+  "seconds": 54.552737049001735,
+  "result": {
+    "parameter_bytes": 7330861280
+  },
+  "min_available": 108388425728,
+  "system_delta_gib": 15.813915252685547,
+  "after": {
+    "time": 1794112941.208047,
+    "MemAvailable": 115679686656,
+    "SwapFree": 16795164672,
+    "VmHWM": 8215580672,
+    "VmRSS": 887390208
+  },
+  "rss_peak": 8207953920,
+  "cuda_allocated": 7330924032,
+  "cuda_reserved": 7333740544,
+  "cuda_peak_allocated": 7331643392,
+  "cuda_peak_reserved": 7333740544,
+  "forwards": []
+}

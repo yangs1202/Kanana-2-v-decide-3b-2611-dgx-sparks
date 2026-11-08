@@ -1,0 +1,3 @@
+# Preserve archived data and the upstream license byte-for-byte after publication.
+benchmarks/raw/** -text -whitespace
+docs/KANANA-LICENSE.txt -text -whitespace

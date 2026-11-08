@@ -1,0 +1,7 @@
+transformers==5.5.3
+accelerate==1.12.0
+pillow==12.1.1
+einops==0.8.2
+safetensors==0.7.0
+huggingface-hub==1.24.0
+tokenizers==0.22.2

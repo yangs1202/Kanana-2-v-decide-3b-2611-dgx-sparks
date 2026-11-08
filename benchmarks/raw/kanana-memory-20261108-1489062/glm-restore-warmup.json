@@ -1,0 +1,51 @@
+{
+  "id": "chatcmpl-90fc387d9cdb799050403a5233af53af",
+  "object": "chat.completion",
+  "created": 1794110332,
+  "model": "GLM-5.3-Flash",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "OK"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 11,
+    "completion_tokens": 2,
+    "total_tokens": 13,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    }
+  },
+  "exact_mode": "exact",
+  "tensorfold": {
+    "enable_thinking": false,
+    "reasoning_effort": "none",
+    "engine": "lanes",
+    "tokens_per_second": 8.974861681675478,
+    "seconds": 0.11142233,
+    "prefill_seconds": 0.113774089,
+    "prefill_widths": [],
+    "prefill_raised": [],
+    "time_to_first_token": 0.14600531,
+    "sampling": "greedy",
+    "drafts": true,
+    "token_sha": "694aab7656bc",
+    "token_sha256": "694aab7656bc7b81ce12cbb2c1e3c9aef9fcc02984c5636af295db3d35912d67",
+    "min_rows": 4
+  },
+  "speculative": {
+    "rounds": 1,
+    "drafted": 3,
+    "accepted": 1,
+    "acceptance_rate": 0.3333333333333333,
+    "tokens_per_round": 2.0
+  }
+}

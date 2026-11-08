@@ -1,0 +1,12 @@
+error: rank 1: another rank's process ended (its line closed); this rank stops instead of waiting on it
+info: p2p: rank 1 of 2: GPU 0 NVIDIA GB10 (0000000F:01:00.0); driver 580.178.04, CUDA driver API 13.3, NCCL 2.30.7
+info: p2p: peer access: TensorFold enables none itself (no cuCtxEnablePeerAccess); NCCL sets up its own peers
+info: p2p: NCCL transport (this rank's connections): rank 0 NET/IB (12 connections)
+info: checkpoint digest: 0.0 GiB read in 0.1 s, 83/83 cached files
+info: glm_mm decode windows: 6 pipeline stages (TF_GLM_MM_STAGES)
+info: weights: 8 readers read 156.4 GiB ahead of the loader
+info: glm: 282 linears packed (8/8 bits), 3.70 GiB freed
+warning: opt-in prompt numerics: absorb/expand tensor cores (TF_GLM_ABSORB_MMA), packed 8-bit linears on bf16 rows
+info: dflash2: drafter from /dflash2 (CC BY-NC-ND 4.0: non-commercial use only), linears at 4 bits, 0.57 GiB on the device
+info: RoCE all-gather: 2 HCA(s), shards up to 4096 KiB by RDMA writes
+info: the room this rank reports counts the 0.83 GiB free on the per-CPU page lists beyond their resting level (MemAvailable does not)

@@ -1,0 +1,9 @@
+.git
+.env
+benchmarks
+docs
+tests
+models
+results
+logs
+**/__pycache__

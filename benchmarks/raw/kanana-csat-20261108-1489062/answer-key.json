@@ -1,0 +1,453 @@
+{
+  "source": "https://www.suneung.re.kr/boardCnts/fileDown.do?fileSeq=46c7d36aa9208016099f9a4cf2e7cc2a",
+  "keys": {
+    "odd-common-1": {
+      "answer": "3",
+      "points": 2
+    },
+    "odd-common-2": {
+      "answer": "5",
+      "points": 2
+    },
+    "odd-common-3": {
+      "answer": "4",
+      "points": 3
+    },
+    "odd-common-4": {
+      "answer": "1",
+      "points": 2
+    },
+    "odd-common-5": {
+      "answer": "4",
+      "points": 2
+    },
+    "odd-common-6": {
+      "answer": "2",
+      "points": 2
+    },
+    "odd-common-7": {
+      "answer": "5",
+      "points": 2
+    },
+    "odd-common-8": {
+      "answer": "3",
+      "points": 3
+    },
+    "odd-common-9": {
+      "answer": "5",
+      "points": 2
+    },
+    "odd-common-10": {
+      "answer": "5",
+      "points": 2
+    },
+    "odd-common-11": {
+      "answer": "3",
+      "points": 2
+    },
+    "odd-common-12": {
+      "answer": "1",
+      "points": 3
+    },
+    "odd-common-13": {
+      "answer": "1",
+      "points": 2
+    },
+    "odd-common-14": {
+      "answer": "5",
+      "points": 2
+    },
+    "odd-common-15": {
+      "answer": "1",
+      "points": 2
+    },
+    "odd-common-16": {
+      "answer": "2",
+      "points": 2
+    },
+    "odd-common-17": {
+      "answer": "3",
+      "points": 3
+    },
+    "odd-common-18": {
+      "answer": "2",
+      "points": 2
+    },
+    "odd-common-19": {
+      "answer": "4",
+      "points": 2
+    },
+    "odd-common-20": {
+      "answer": "3",
+      "points": 2
+    },
+    "odd-common-21": {
+      "answer": "2",
+      "points": 3
+    },
+    "odd-common-22": {
+      "answer": "5",
+      "points": 2
+    },
+    "odd-common-23": {
+      "answer": "1",
+      "points": 3
+    },
+    "odd-common-24": {
+      "answer": "4",
+      "points": 2
+    },
+    "odd-common-25": {
+      "answer": "4",
+      "points": 2
+    },
+    "odd-common-26": {
+      "answer": "2",
+      "points": 2
+    },
+    "odd-common-27": {
+      "answer": "5",
+      "points": 2
+    },
+    "odd-common-28": {
+      "answer": "5",
+      "points": 2
+    },
+    "odd-common-29": {
+      "answer": "1",
+      "points": 2
+    },
+    "odd-common-30": {
+      "answer": "3",
+      "points": 3
+    },
+    "odd-common-31": {
+      "answer": "2",
+      "points": 2
+    },
+    "odd-common-32": {
+      "answer": "4",
+      "points": 2
+    },
+    "odd-common-33": {
+      "answer": "1",
+      "points": 2
+    },
+    "odd-common-34": {
+      "answer": "3",
+      "points": 3
+    },
+    "odd-speech-35": {
+      "answer": "2",
+      "points": 2
+    },
+    "odd-speech-36": {
+      "answer": "5",
+      "points": 2
+    },
+    "odd-speech-37": {
+      "answer": "3",
+      "points": 2
+    },
+    "odd-speech-38": {
+      "answer": "1",
+      "points": 2
+    },
+    "odd-speech-39": {
+      "answer": "2",
+      "points": 2
+    },
+    "odd-speech-40": {
+      "answer": "5",
+      "points": 3
+    },
+    "odd-speech-41": {
+      "answer": "4",
+      "points": 2
+    },
+    "odd-speech-42": {
+      "answer": "4",
+      "points": 2
+    },
+    "odd-speech-43": {
+      "answer": "3",
+      "points": 2
+    },
+    "odd-speech-44": {
+      "answer": "2",
+      "points": 2
+    },
+    "odd-speech-45": {
+      "answer": "5",
+      "points": 3
+    },
+    "odd-language-35": {
+      "answer": "3",
+      "points": 2
+    },
+    "odd-language-36": {
+      "answer": "2",
+      "points": 3
+    },
+    "odd-language-37": {
+      "answer": "4",
+      "points": 2
+    },
+    "odd-language-38": {
+      "answer": "4",
+      "points": 2
+    },
+    "odd-language-39": {
+      "answer": "1",
+      "points": 2
+    },
+    "odd-language-40": {
+      "answer": "2",
+      "points": 2
+    },
+    "odd-language-41": {
+      "answer": "4",
+      "points": 2
+    },
+    "odd-language-42": {
+      "answer": "5",
+      "points": 3
+    },
+    "odd-language-43": {
+      "answer": "2",
+      "points": 2
+    },
+    "odd-language-44": {
+      "answer": "4",
+      "points": 2
+    },
+    "odd-language-45": {
+      "answer": "3",
+      "points": 2
+    },
+    "even-common-1": {
+      "answer": "3",
+      "points": 2
+    },
+    "even-common-2": {
+      "answer": "5",
+      "points": 2
+    },
+    "even-common-3": {
+      "answer": "4",
+      "points": 3
+    },
+    "even-common-4": {
+      "answer": "1",
+      "points": 2
+    },
+    "even-common-5": {
+      "answer": "4",
+      "points": 2
+    },
+    "even-common-6": {
+      "answer": "2",
+      "points": 2
+    },
+    "even-common-7": {
+      "answer": "5",
+      "points": 2
+    },
+    "even-common-8": {
+      "answer": "3",
+      "points": 3
+    },
+    "even-common-9": {
+      "answer": "5",
+      "points": 2
+    },
+    "even-common-10": {
+      "answer": "5",
+      "points": 2
+    },
+    "even-common-11": {
+      "answer": "3",
+      "points": 2
+    },
+    "even-common-12": {
+      "answer": "1",
+      "points": 3
+    },
+    "even-common-13": {
+      "answer": "2",
+      "points": 2
+    },
+    "even-common-14": {
+      "answer": "5",
+      "points": 2
+    },
+    "even-common-15": {
+      "answer": "1",
+      "points": 2
+    },
+    "even-common-16": {
+      "answer": "2",
+      "points": 2
+    },
+    "even-common-17": {
+      "answer": "3",
+      "points": 3
+    },
+    "even-common-18": {
+      "answer": "1",
+      "points": 2
+    },
+    "even-common-19": {
+      "answer": "4",
+      "points": 2
+    },
+    "even-common-20": {
+      "answer": "3",
+      "points": 2
+    },
+    "even-common-21": {
+      "answer": "2",
+      "points": 3
+    },
+    "even-common-22": {
+      "answer": "5",
+      "points": 2
+    },
+    "even-common-23": {
+      "answer": "1",
+      "points": 3
+    },
+    "even-common-24": {
+      "answer": "4",
+      "points": 2
+    },
+    "even-common-25": {
+      "answer": "5",
+      "points": 2
+    },
+    "even-common-26": {
+      "answer": "2",
+      "points": 2
+    },
+    "even-common-27": {
+      "answer": "4",
+      "points": 2
+    },
+    "even-common-28": {
+      "answer": "5",
+      "points": 2
+    },
+    "even-common-29": {
+      "answer": "1",
+      "points": 2
+    },
+    "even-common-30": {
+      "answer": "3",
+      "points": 3
+    },
+    "even-common-31": {
+      "answer": "2",
+      "points": 2
+    },
+    "even-common-32": {
+      "answer": "4",
+      "points": 2
+    },
+    "even-common-33": {
+      "answer": "1",
+      "points": 2
+    },
+    "even-common-34": {
+      "answer": "3",
+      "points": 3
+    },
+    "even-speech-35": {
+      "answer": "2",
+      "points": 2
+    },
+    "even-speech-36": {
+      "answer": "5",
+      "points": 2
+    },
+    "even-speech-37": {
+      "answer": "3",
+      "points": 2
+    },
+    "even-speech-38": {
+      "answer": "1",
+      "points": 2
+    },
+    "even-speech-39": {
+      "answer": "2",
+      "points": 2
+    },
+    "even-speech-40": {
+      "answer": "5",
+      "points": 3
+    },
+    "even-speech-41": {
+      "answer": "4",
+      "points": 2
+    },
+    "even-speech-42": {
+      "answer": "4",
+      "points": 2
+    },
+    "even-speech-43": {
+      "answer": "3",
+      "points": 2
+    },
+    "even-speech-44": {
+      "answer": "2",
+      "points": 2
+    },
+    "even-speech-45": {
+      "answer": "5",
+      "points": 3
+    },
+    "even-language-35": {
+      "answer": "3",
+      "points": 2
+    },
+    "even-language-36": {
+      "answer": "2",
+      "points": 3
+    },
+    "even-language-37": {
+      "answer": "4",
+      "points": 2
+    },
+    "even-language-38": {
+      "answer": "4",
+      "points": 2
+    },
+    "even-language-39": {
+      "answer": "1",
+      "points": 2
+    },
+    "even-language-40": {
+      "answer": "2",
+      "points": 2
+    },
+    "even-language-41": {
+      "answer": "4",
+      "points": 2
+    },
+    "even-language-42": {
+      "answer": "5",
+      "points": 3
+    },
+    "even-language-43": {
+      "answer": "2",
+      "points": 2
+    },
+    "even-language-44": {
+      "answer": "4",
+      "points": 2
+    },
+    "even-language-45": {
+      "answer": "3",
+      "points": 2
+    }
+  }
+}

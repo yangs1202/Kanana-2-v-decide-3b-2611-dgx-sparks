@@ -1,0 +1,179 @@
+{
+  "phase": "mixed-c6-run1",
+  "start": 1794114878.0695324,
+  "end": 1794115116.6543994,
+  "seconds": 238.5848672389984,
+  "concurrency": 6,
+  "requests": [
+    {
+      "ok": true,
+      "response": {
+        "model": "kanana-2-v-decide-3b-2611",
+        "answers": {
+          "category": {
+            "type": "choice",
+            "choice": "exchange",
+            "confidence": 0.7167573438735585,
+            "probabilities": {
+              "exchange": 0.8111715625823723,
+              "delivery": 0.1832211256072009,
+              "payment": 0.0056073118104267555
+            }
+          }
+        },
+        "usage": {
+          "billing_units": 1,
+          "input_tokens": 20480,
+          "output_tokens": 0
+        }
+      },
+      "start": 1794114878.0697784,
+      "end": 1794115013.6091397,
+      "seconds": 135.5393614768982,
+      "service": "kanana"
+    },
+    {
+      "ok": true,
+      "response": {
+        "model": "kanana-2-v-decide-3b-2611",
+        "answers": {
+          "category": {
+            "type": "choice",
+            "choice": "exchange",
+            "confidence": 0.7167573438735585,
+            "probabilities": {
+              "exchange": 0.8111715625823723,
+              "delivery": 0.1832211256072009,
+              "payment": 0.0056073118104267555
+            }
+          }
+        },
+        "usage": {
+          "billing_units": 1,
+          "input_tokens": 20480,
+          "output_tokens": 0
+        }
+      },
+      "start": 1794114878.0703871,
+      "end": 1794115084.2454166,
+      "seconds": 206.1750295162201,
+      "service": "kanana"
+    },
+    {
+      "ok": true,
+      "response": {
+        "model": "kanana-2-v-decide-3b-2611",
+        "answers": {
+          "category": {
+            "type": "choice",
+            "choice": "exchange",
+            "confidence": 0.7167573438735585,
+            "probabilities": {
+              "exchange": 0.8111715625823723,
+              "delivery": 0.1832211256072009,
+              "payment": 0.0056073118104267555
+            }
+          }
+        },
+        "usage": {
+          "billing_units": 1,
+          "input_tokens": 20480,
+          "output_tokens": 0
+        }
+      },
+      "start": 1794114878.0708466,
+      "end": 1794114918.93647,
+      "seconds": 40.86562371253967,
+      "service": "kanana"
+    },
+    {
+      "ok": true,
+      "response": {
+        "model": "kanana-2-v-decide-3b-2611",
+        "answers": {
+          "category": {
+            "type": "choice",
+            "choice": "exchange",
+            "confidence": 0.7167573438735585,
+            "probabilities": {
+              "exchange": 0.8111715625823723,
+              "delivery": 0.1832211256072009,
+              "payment": 0.0056073118104267555
+            }
+          }
+        },
+        "usage": {
+          "billing_units": 1,
+          "input_tokens": 20480,
+          "output_tokens": 0
+        }
+      },
+      "start": 1794114878.0711362,
+      "end": 1794114963.8272927,
+      "seconds": 85.75615668296814,
+      "service": "kanana"
+    },
+    {
+      "ok": true,
+      "response": {
+        "model": "kanana-2-v-decide-3b-2611",
+        "answers": {
+          "category": {
+            "type": "choice",
+            "choice": "exchange",
+            "confidence": 0.7167573438735585,
+            "probabilities": {
+              "exchange": 0.8111715625823723,
+              "delivery": 0.1832211256072009,
+              "payment": 0.0056073118104267555
+            }
+          }
+        },
+        "usage": {
+          "billing_units": 1,
+          "input_tokens": 20480,
+          "output_tokens": 0
+        }
+      },
+      "start": 1794114878.0714107,
+      "end": 1794115116.653571,
+      "seconds": 238.5821602344513,
+      "service": "kanana"
+    },
+    {
+      "ok": true,
+      "response": {
+        "model": "kanana-2-v-decide-3b-2611",
+        "answers": {
+          "category": {
+            "type": "choice",
+            "choice": "exchange",
+            "confidence": 0.7167573438735585,
+            "probabilities": {
+              "exchange": 0.8111715625823723,
+              "delivery": 0.1832211256072009,
+              "payment": 0.0056073118104267555
+            }
+          }
+        },
+        "usage": {
+          "billing_units": 1,
+          "input_tokens": 20480,
+          "output_tokens": 0
+        }
+      },
+      "start": 1794114878.0717137,
+      "end": 1794115051.4018443,
+      "seconds": 173.33013105392456,
+      "service": "kanana"
+    }
+  ],
+  "min_available": 7070146560,
+  "after": {
+    "time": 1794115116.654394,
+    "MemAvailable": 7630770176,
+    "SwapFree": 16993107968,
+    "VmHWM": 8227381248,
+    "VmRSS": 3385102336
+  }
+}

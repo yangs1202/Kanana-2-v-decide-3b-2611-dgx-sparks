@@ -1,0 +1,62 @@
+{
+  "case": "warmup",
+  "run": 0,
+  "seconds": 2.8031730110087665,
+  "before": {
+    "MemTotal": 130659606528,
+    "MemAvailable": 115603775488,
+    "SwapFree": 16982044672,
+    "rss": 886460416
+  },
+  "after": {
+    "MemTotal": 130659606528,
+    "MemAvailable": 114679504896,
+    "SwapFree": 16982044672,
+    "rss": 1776390144
+  },
+  "min_available": 114679504896,
+  "peak_rss": 1776390144,
+  "cuda_allocated": 7364560384,
+  "cuda_reserved": 7394557952,
+  "cuda_peak_allocated": 7371166208,
+  "cuda_peak_reserved": 7394557952,
+  "result": {
+    "model": "/model",
+    "answers": {
+      "category": {
+        "type": "choice",
+        "choice": "exchange",
+        "confidence": 0.9514607821005497,
+        "probabilities": {
+          "exchange": 0.9676405214003665,
+          "delivery": 0.029610022867875202,
+          "payment": 0.0027494557317582994
+        }
+      },
+      "damaged": {
+        "type": "noul",
+        "noul": 0.9160103221651376
+      },
+      "sentiment": {
+        "type": "score",
+        "score": 0.10364422677997567,
+        "confidence": 0.8885483627263266,
+        "legend": {
+          "0": "부정적",
+          "1": "중립적",
+          "2": "긍정적"
+        },
+        "probabilities": {
+          "0": 0.9256989084842178,
+          "1": 0.04495795625158863,
+          "2": 0.029343135264193517
+        }
+      }
+    },
+    "usage": {
+      "billing_units": 3,
+      "input_tokens": 462,
+      "output_tokens": 0
+    }
+  }
+}

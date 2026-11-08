@@ -1,0 +1,141 @@
+[tensorfold] shutting down (SIGTERM): draining: new requests get 503; 1 request(s) in progress may finish within 20.0 s
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 503 -
+[tensorfold] PRIVATE_IP "GET /metrics HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 503 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 503 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 503 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 503 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 503 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 503 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 503 -
+info: dflash2: 4608 rounds, 0 contexts restarted
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 503 -
+[tensorfold] PRIVATE_IP "GET /metrics HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 503 -
+[tensorfold] shutting down: the drain deadline (TF_DRAIN_S): 1 request(s) still in progress end "server restarting: retry shortly" at the next round boundary
+warning: lane host: stopping at a round boundary: 1 running and 0 queued request(s) end (server restarting: retry shortly)
+info: kv pool idle: promised 0, free 2050 + store 0 == total 2050
+[tensorfold] ended chatcmpl-0bce7e42a9a7b6db0070ceee6a7bdc6e reason=error (server restarting: retry shortly) prompt=8482 tokens=15043 after=356.70s
+[tensorfold] PRIVATE_IP "POST /v1/chat/completions HTTP/1.1" 500 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] shutting down: exiting with 6 idle connection(s) still open
+info: p2p: rank 0 of 2: GPU 0 NVIDIA GB10 (0000000F:01:00.0); driver 580.178.04, CUDA driver API 13.3, NCCL 2.30.7
+info: p2p: peer access: TensorFold enables none itself (no cuCtxEnablePeerAccess); NCCL sets up its own peers
+info: p2p: NCCL transport (this rank's connections): rank 1 NET/IB (12 connections)
+info: checkpoint digest: 0.0 GiB read in 0.1 s, 83/83 cached files
+info: glm_mm decode windows: 6 pipeline stages (TF_GLM_MM_STAGES)
+info: weights: 8 readers read 156.4 GiB ahead of the loader
+info: glm: 282 linears packed (8/8 bits), 3.70 GiB freed
+warning: opt-in prompt numerics: absorb/expand tensor cores (TF_GLM_ABSORB_MMA), packed 8-bit linears on bf16 rows
+info: dflash2: drafter from /dflash2 (CC BY-NC-ND 4.0: non-commercial use only), linears at 4 bits, 0.57 GiB on the device
+info: RoCE all-gather: 2 HCA(s), shards up to 4096 KiB by RDMA writes
+info: the room this rank reports counts the 0.69 GiB free on the per-CPU page lists beyond their resting level (MemAvailable does not)
+info: the CUDA memory budget counts the 0.69 GiB free on the per-CPU page lists beyond their resting level (MemAvailable does not)
+info: prompt cache: the room funds 1.6 GiB of the 4.0 GiB --prompt-cache-gib asks, after 2050 pages for the streams; a lower --context or --parallel leaves more
+info: prompt cache: 1.6 GiB of device pages and 0.0 GiB of pinned host memory a rank (0.0 GiB over the 2 ranks)
+info: kv pool idle: promised 0, free 2050 + store 0 == total 2050
+info: glm: conversation states on disk in /state/learn/addb67b83cc39267 (0 states, 0 MiB of 65536 MiB; 2 ranks' parts)
+[tensorfold] warning: non-loopback server has no API key; requests are open
+[tensorfold] CUDA sm_121 device 0 (NVIDIA GB10, memory shared with the host): model 83.02 GiB; 8 streams at once, the engine's own and 7 more taking 2050 pages of 512 rows (6.24 GiB) as they need them (enough for one at a 524288-token window), 417 MiB fixed each, of 10.7 GiB left after a 20.0 GiB reserve; prompts in passes of up to 4096 rows, a 1.6 GiB prompt cache; own glue kernels
+[tensorfold] serving GLM-5.3-Flash at http://0.0.0.0:18888/v1 (sampling: temperature 1.0, top_p 0.95, top_k 20; drafts: DFlash2 (/dflash2) + copies; context: 524288; loaded in 101.0s)
+[tensorfold] PRIVATE_IP "GET /slots HTTP/1.1" 404 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /metrics HTTP/1.1" 200 -
+[tensorfold] 127.0.0.1 "GET /health HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /metrics HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /metrics HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /metrics HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /metrics HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /metrics HTTP/1.1" 200 -
+[tensorfold] 127.0.0.1 "GET /health HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /metrics HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /metrics HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /metrics HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /metrics HTTP/1.1" 200 -
+[tensorfold] 127.0.0.1 "GET /v1/models HTTP/1.1" 200 -
+info: prompt cache: 19 tokens, resumed at 0, kept 0; 0 states, 0 MiB and 1674 MiB spare of 1674 MiB (hits 0, misses 1, evicted 0, refused 0, failed 0)
+info: kv pool idle: promised 0, free 2050 + store 0 == total 2050
+[tensorfold] done chatcmpl-7978ddfc4388921d59685895e41f90ad prompt=19 cached=0 thinking=False effort=none tokens=2 sha=528b27cc4691 finish=stop rounds=1 accepted=1/1 ttft=0.134 decode=0.050 elapsed=0.184 queued=0.000 tok/s=20.0
+[tensorfold] 127.0.0.1 "POST /v1/chat/completions HTTP/1.1" 200 -
+[tensorfold] next turn: background prefill of 21 tokens stepped aside (queued 0.00s)
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /metrics HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /metrics HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /metrics HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /metrics HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /metrics HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /metrics HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /metrics HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /metrics HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /metrics HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /metrics HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /metrics HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /metrics HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /metrics HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /metrics HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /metrics HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /metrics HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /v1/models HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /health HTTP/1.1" 200 -
+[tensorfold] PRIVATE_IP "GET /metrics HTTP/1.1" 200 -

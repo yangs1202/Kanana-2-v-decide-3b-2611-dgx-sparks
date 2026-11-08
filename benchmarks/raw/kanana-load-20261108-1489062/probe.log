@@ -1,0 +1,118 @@
+IMPORT
+START load
+W1108 04:41:27.502000 1 torch/utils/_pytree.py:630] <enum 'KernelPreference'> is an Enum subclass and is now natively supported by torch.compile as an opaque value type. Calling register_constant() on Enum subclasses is deprecated and will be an error in a future release.
+W1108 04:41:27.533000 1 torch/utils/_pytree.py:630] <enum 'ScaleCalculationMode'> is an Enum subclass and is now natively supported by torch.compile as an opaque value type. Calling register_constant() on Enum subclasses is deprecated and will be an error in a future release.
+Loading weights:   0%|          | 0/687 [00:00<?, ?it/s]Loading weights:   0%|          | 1/687 [00:06<1:18:17,  6.85s/it]Loading weights:   1%|▏         | 9/687 [00:08<08:20,  1.35it/s]  Loading weights:   4%|▎         | 25/687 [00:08<02:25,  4.56it/s]Loading weights:   4%|▍         | 28/687 [00:09<02:25,  4.54it/s]Loading weights:   5%|▍         | 31/687 [00:09<02:02,  5.34it/s]Loading weights:   5%|▍         | 33/687 [00:09<01:51,  5.86it/s]Loading weights:   5%|▌         | 35/687 [00:11<03:11,  3.41it/s]Loading weights:   7%|▋         | 48/687 [00:11<01:18,  8.13it/s]Loading weights:   7%|▋         | 51/687 [00:12<01:49,  5.83it/s]Loading weights:   9%|▊         | 60/687 [00:17<03:22,  3.10it/s]Loading weights:   9%|▉         | 62/687 [00:19<04:07,  2.53it/s]Loading weights:  17%|█▋        | 115/687 [00:19<00:44, 12.99it/s]Loading weights:  18%|█▊        | 121/687 [00:20<00:42, 13.30it/s]Loading weights:  18%|█▊        | 126/687 [00:23<01:24,  6.61it/s]Loading weights:  22%|██▏       | 154/687 [00:24<00:42, 12.45it/s]Loading weights:  23%|██▎       | 161/687 [00:27<01:10,  7.50it/s]Loading weights:  26%|██▌       | 180/687 [00:27<00:45, 11.18it/s]Loading weights:  27%|██▋       | 186/687 [00:27<00:46, 10.86it/s]Loading weights:  28%|██▊       | 190/687 [00:29<01:06,  7.43it/s]Loading weights:  28%|██▊       | 193/687 [00:30<01:05,  7.56it/s]Loading weights:  30%|███       | 207/687 [00:30<00:38, 12.60it/s]Loading weights:  31%|███       | 212/687 [00:31<00:50,  9.41it/s]Loading weights:  31%|███▏      | 216/687 [00:31<00:44, 10.50it/s]Loading weights:  32%|███▏      | 220/687 [00:31<00:39, 11.73it/s]Loading weights:  32%|███▏      | 223/687 [00:32<00:40, 11.46it/s]Loading weights:  33%|███▎      | 226/687 [00:34<01:50,  4.17it/s]Loading weights:  38%|███▊      | 260/687 [00:37<00:52,  8.11it/s]Loading weights:  41%|████▏     | 284/687 [00:40<00:48,  8.23it/s]Loading weights:  45%|████▍     | 306/687 [00:40<00:30, 12.44it/s]Loading weights:  45%|████▌     | 311/687 [00:41<00:31, 12.03it/s]Loading weights:  46%|████▌     | 315/687 [00:41<00:34, 10.93it/s]Loading weights:  46%|████▋     | 318/687 [00:41<00:32, 11.25it/s]Loading weights:  47%|████▋     | 321/687 [00:42<00:31, 11.47it/s]Loading weights:  47%|████▋     | 324/687 [00:43<00:45,  7.93it/s]Loading weights:  48%|████▊     | 328/687 [00:43<00:39,  9.14it/s]Loading weights:  48%|████▊     | 330/687 [00:43<00:36,  9.73it/s]Loading weights:  48%|████▊     | 333/687 [00:43<00:38,  9.29it/s]Loading weights:  49%|████▉     | 335/687 [00:44<00:50,  6.92it/s]Loading weights:  49%|████▉     | 337/687 [00:44<00:47,  7.42it/s]Loading weights:  49%|████▉     | 339/687 [00:46<01:48,  3.20it/s]Loading weights:  55%|█████▌    | 380/687 [00:46<00:13, 22.03it/s]Loading weights:  56%|█████▋    | 388/687 [00:46<00:12, 23.88it/s]Loading weights:  59%|█████▉    | 404/687 [00:47<00:08, 34.31it/s]Loading weights:  60%|██████    | 413/687 [00:47<00:08, 30.46it/s]Loading weights:  63%|██████▎   | 430/687 [00:47<00:07, 33.49it/s]Loading weights:  66%|██████▌   | 454/687 [00:48<00:04, 49.05it/s]Loading weights:  68%|██████▊   | 468/687 [00:48<00:03, 55.21it/s]Loading weights:  69%|██████▉   | 477/687 [00:48<00:03, 54.02it/s]Loading weights:  71%|███████   | 485/687 [00:51<00:18, 11.12it/s]Loading weights:  91%|█████████ | 626/687 [00:51<00:00, 64.07it/s]Loading weights:  98%|█████████▊| 670/687 [00:52<00:00, 51.70it/s]Loading weights: 100%|██████████| 687/687 [00:52<00:00, 12.99it/s]
+{"phase": "load", "seconds": 54.552737049001735, "min_available": 108388425728, "system_delta_gib": 15.813915252685547, "after": {"time": 1794112941.208047, "MemAvailable": 115679686656, "SwapFree": 16795164672, "VmHWM": 8215580672, "VmRSS": 887390208}, "rss_peak": 8207953920, "cuda_allocated": 7330924032, "cuda_reserved": 7333740544, "cuda_peak_allocated": 7331643392, "cuda_peak_reserved": 7333740544}
+127.0.0.1 - - [08/Nov/2026 04:42:21] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:42:21] "GET /v1/models HTTP/1.1" 200 -
+START warmup
+127.0.0.1 - - [08/Nov/2026 04:42:23] "POST /v1/systemone HTTP/1.1" 200 -
+{"phase": "warmup", "seconds": 2.63229705800768, "min_available": 114725629952, "system_delta_gib": 9.911933898925781, "after": {"time": 1794112943.8664134, "MemAvailable": 114725679104, "SwapFree": 16795164672, "VmHWM": 8215580672, "VmRSS": 1763262464}, "rss_peak": 1763262464, "cuda_allocated": 7364509184, "cuda_reserved": 7394557952, "cuda_peak_allocated": 7371166208, "cuda_peak_reserved": 7394557952}
+START fixtures
+{"phase": "fixtures", "seconds": 0.3750575729936827, "min_available": 114594451456, "system_delta_gib": 10.034103393554688, "after": {"time": 1794112944.242113, "MemAvailable": 114594451456, "SwapFree": 16795164672, "VmHWM": 8215580672, "VmRSS": 1819471872}, "rss_peak": 1866096640, "cuda_allocated": 7364509184, "cuda_reserved": 7394557952, "cuda_peak_allocated": 7364509184, "cuda_peak_reserved": 7394557952}
+START short-c1-run1
+127.0.0.1 - - [08/Nov/2026 04:42:24] "POST /v1/systemone HTTP/1.1" 200 -
+{"phase": "short-c1-run1", "seconds": 0.03954268900270108, "min_available": 114594451456, "system_delta_gib": 10.034103393554688, "after": {"time": 1794112944.2822862, "MemAvailable": 114594451456, "SwapFree": 16795164672, "VmHWM": 8215580672, "VmRSS": 1817755648}, "rss_peak": 1819471872, "cuda_allocated": 7364509184, "cuda_reserved": 7394557952, "cuda_peak_allocated": 7371196928, "cuda_peak_reserved": 7394557952}
+START short-c1-run2
+127.0.0.1 - - [08/Nov/2026 04:42:24] "POST /v1/systemone HTTP/1.1" 200 -
+{"phase": "short-c1-run2", "seconds": 0.03949998499592766, "min_available": 114594193408, "system_delta_gib": 10.034343719482422, "after": {"time": 1794112944.3223343, "MemAvailable": 114594193408, "SwapFree": 16795164672, "VmHWM": 8215580672, "VmRSS": 1819860992}, "rss_peak": 1819860992, "cuda_allocated": 7364509184, "cuda_reserved": 7394557952, "cuda_peak_allocated": 7371196928, "cuda_peak_reserved": 7394557952}
+START short-c1-run3
+127.0.0.1 - - [08/Nov/2026 04:42:24] "POST /v1/systemone HTTP/1.1" 200 -
+{"phase": "short-c1-run3", "seconds": 0.03793060200405307, "min_available": 114594193408, "system_delta_gib": 10.034343719482422, "after": {"time": 1794112944.3607707, "MemAvailable": 114594193408, "SwapFree": 16795164672, "VmHWM": 8215580672, "VmRSS": 1819869184}, "rss_peak": 1819873280, "cuda_allocated": 7364509184, "cuda_reserved": 7394557952, "cuda_peak_allocated": 7371196928, "cuda_peak_reserved": 7394557952}
+START long-c1-run1
+Token indices sequence length is longer than the specified maximum sequence length for this model (21678 > 20480). Running this sequence through the model will result in indexing errors
+127.0.0.1 - - [08/Nov/2026 04:42:29] "POST /v1/systemone HTTP/1.1" 200 -
+{"phase": "long-c1-run1", "seconds": 4.8292831080034375, "min_available": 112650801152, "system_delta_gib": 11.844268798828125, "after": {"time": 1794112949.190597, "MemAvailable": 112651472896, "SwapFree": 16795164672, "VmHWM": 8215580672, "VmRSS": 1907105792}, "rss_peak": 1907126272, "cuda_allocated": 7364509184, "cuda_reserved": 9302966272, "cuda_peak_allocated": 8801549824, "cuda_peak_reserved": 9302966272}
+START long-c1-run2
+127.0.0.1 - - [08/Nov/2026 04:42:33] "POST /v1/systemone HTTP/1.1" 200 -
+{"phase": "long-c1-run2", "seconds": 4.577756988001056, "min_available": 112651472896, "system_delta_gib": 11.843643188476562, "after": {"time": 1794112953.7689993, "MemAvailable": 112710766592, "SwapFree": 16795164672, "VmHWM": 8215580672, "VmRSS": 1912000512}, "rss_peak": 1912012800, "cuda_allocated": 7364509184, "cuda_reserved": 9302966272, "cuda_peak_allocated": 8801549824, "cuda_peak_reserved": 9302966272}
+START long-c1-run3
+127.0.0.1 - - [08/Nov/2026 04:42:38] "POST /v1/systemone HTTP/1.1" 200 -
+{"phase": "long-c1-run3", "seconds": 4.589384114005952, "min_available": 112710537216, "system_delta_gib": 11.78863525390625, "after": {"time": 1794112958.3590329, "MemAvailable": 112816828416, "SwapFree": 16795164672, "VmHWM": 8215580672, "VmRSS": 1912545280}, "rss_peak": 1912557568, "cuda_allocated": 7364509184, "cuda_reserved": 9302966272, "cuda_peak_allocated": 8801549824, "cuda_peak_reserved": 9302966272}
+START images10-c1-run1
+127.0.0.1 - - [08/Nov/2026 04:42:46] "POST /v1/systemone HTTP/1.1" 200 -
+{"phase": "images10-c1-run1", "seconds": 7.8770448790019145, "min_available": 108019507200, "system_delta_gib": 16.15749740600586, "after": {"time": 1794112966.246148, "MemAvailable": 108613988352, "SwapFree": 16795164672, "VmHWM": 8215580672, "VmRSS": 2513223680}, "rss_peak": 3270012928, "cuda_allocated": 7364509696, "cuda_reserved": 12694061056, "cuda_peak_allocated": 10905922048, "cuda_peak_reserved": 12694061056}
+START images10-c1-run2
+127.0.0.1 - - [08/Nov/2026 04:42:53] "POST /v1/systemone HTTP/1.1" 200 -
+{"phase": "images10-c1-run2", "seconds": 7.3180145809892565, "min_available": 107666313216, "system_delta_gib": 16.486434936523438, "after": {"time": 1794112973.5649164, "MemAvailable": 107934175232, "SwapFree": 16795164672, "VmHWM": 8215580672, "VmRSS": 3401170944}, "rss_peak": 3477123072, "cuda_allocated": 7364509696, "cuda_reserved": 12694061056, "cuda_peak_allocated": 10905922560, "cuda_peak_reserved": 12694061056}
+START images10-c1-run3
+127.0.0.1 - - [08/Nov/2026 04:43:00] "POST /v1/systemone HTTP/1.1" 200 -
+{"phase": "images10-c1-run3", "seconds": 7.318027770001208, "min_available": 107758809088, "system_delta_gib": 16.400291442871094, "after": {"time": 1794112980.8836684, "MemAvailable": 108406898688, "SwapFree": 16795164672, "VmHWM": 8215580672, "VmRSS": 2778415104}, "rss_peak": 3682136064, "cuda_allocated": 7364509696, "cuda_reserved": 12694061056, "cuda_peak_allocated": 10905922560, "cuda_peak_reserved": 12694061056}
+START mixed-c1-run1
+127.0.0.1 - - [08/Nov/2026 04:43:15] "POST /v1/systemone HTTP/1.1" 200 -
+{"phase": "mixed-c1-run1", "seconds": 14.522453683995991, "min_available": 107821637632, "system_delta_gib": 16.341777801513672, "after": {"time": 1794112995.4068441, "MemAvailable": 109060759552, "SwapFree": 16795164672, "VmHWM": 8215580672, "VmRSS": 2666385408}, "rss_peak": 3639476224, "cuda_allocated": 7364509696, "cuda_reserved": 12694061056, "cuda_peak_allocated": 10928399360, "cuda_peak_reserved": 12694061056}
+START mixed-c1-run2
+127.0.0.1 - - [08/Nov/2026 04:43:28] "POST /v1/systemone HTTP/1.1" 200 -
+{"phase": "mixed-c1-run2", "seconds": 13.264164317995892, "min_available": 107968749568, "system_delta_gib": 16.204769134521484, "after": {"time": 1794113008.671803, "MemAvailable": 108546760704, "SwapFree": 16795164672, "VmHWM": 8215580672, "VmRSS": 2869739520}, "rss_peak": 3735576576, "cuda_allocated": 7364509696, "cuda_reserved": 12694061056, "cuda_peak_allocated": 10928399360, "cuda_peak_reserved": 12694061056}
+START mixed-c1-run3
+127.0.0.1 - - [08/Nov/2026 04:43:41] "POST /v1/systemone HTTP/1.1" 200 -
+{"phase": "mixed-c1-run3", "seconds": 13.24223335699935, "min_available": 107926118400, "system_delta_gib": 16.24447250366211, "after": {"time": 1794113021.9148123, "MemAvailable": 108602343424, "SwapFree": 16811102208, "VmHWM": 8215580672, "VmRSS": 3349663744}, "rss_peak": 3893411840, "cuda_allocated": 7364509696, "cuda_reserved": 12694061056, "cuda_peak_allocated": 10928399360, "cuda_peak_reserved": 12694061056}
+START mixed-c2-run1
+127.0.0.1 - - [08/Nov/2026 04:43:55] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:44:08] "POST /v1/systemone HTTP/1.1" 200 -
+{"phase": "mixed-c2-run1", "seconds": 27.074555599989253, "min_available": 108119494656, "system_delta_gib": 16.064376831054688, "after": {"time": 1794113048.9901268, "MemAvailable": 109233700864, "SwapFree": 16811155456, "VmHWM": 8215580672, "VmRSS": 3226112000}, "rss_peak": 4097396736, "cuda_allocated": 7364509696, "cuda_reserved": 12694061056, "cuda_peak_allocated": 10928399360, "cuda_peak_reserved": 12694061056}
+START mixed-c2-run2
+127.0.0.1 - - [08/Nov/2026 04:44:22] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:44:37] "POST /v1/systemone HTTP/1.1" 200 -
+{"phase": "mixed-c2-run2", "seconds": 28.500400221993914, "min_available": 108406067200, "system_delta_gib": 15.7974853515625, "after": {"time": 1794113077.4913855, "MemAvailable": 109492756480, "SwapFree": 16811278336, "VmHWM": 8215580672, "VmRSS": 3178569728}, "rss_peak": 4113883136, "cuda_allocated": 7364509696, "cuda_reserved": 12694061056, "cuda_peak_allocated": 10928399360, "cuda_peak_reserved": 12694061056}
+START mixed-c2-run3
+127.0.0.1 - - [08/Nov/2026 04:44:50] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:45:04] "POST /v1/systemone HTTP/1.1" 200 -
+{"phase": "mixed-c2-run3", "seconds": 26.815475257011713, "min_available": 108232081408, "system_delta_gib": 15.959522247314453, "after": {"time": 1794113104.30767, "MemAvailable": 109299974144, "SwapFree": 16811278336, "VmHWM": 8215580672, "VmRSS": 3452018688}, "rss_peak": 4360257536, "cuda_allocated": 7364509696, "cuda_reserved": 12694061056, "cuda_peak_allocated": 10928399360, "cuda_peak_reserved": 12694061056}
+START mixed-c4-run1
+127.0.0.1 - - [08/Nov/2026 04:45:18] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:45:32] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:45:46] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:46:00] "POST /v1/systemone HTTP/1.1" 200 -
+{"phase": "mixed-c4-run1", "seconds": 55.93963679000444, "min_available": 108019470336, "system_delta_gib": 16.15753173828125, "after": {"time": 1794113160.248204, "MemAvailable": 109116116992, "SwapFree": 16811278336, "VmHWM": 8215580672, "VmRSS": 3586990080}, "rss_peak": 4501299200, "cuda_allocated": 7364509696, "cuda_reserved": 12694061056, "cuda_peak_allocated": 10928399360, "cuda_peak_reserved": 12694061056}
+START mixed-c4-run2
+127.0.0.1 - - [08/Nov/2026 04:46:14] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:46:28] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:46:42] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:46:55] "POST /v1/systemone HTTP/1.1" 200 -
+{"phase": "mixed-c4-run2", "seconds": 55.22567853600776, "min_available": 107871469568, "system_delta_gib": 16.295368194580078, "after": {"time": 1794113215.47533, "MemAvailable": 108793544704, "SwapFree": 16811278336, "VmHWM": 8215580672, "VmRSS": 3914518528}, "rss_peak": 4800262144, "cuda_allocated": 7364509696, "cuda_reserved": 12694061056, "cuda_peak_allocated": 10928399360, "cuda_peak_reserved": 12694061056}
+START mixed-c4-run3
+127.0.0.1 - - [08/Nov/2026 04:47:09] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:47:23] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:47:38] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:47:51] "POST /v1/systemone HTTP/1.1" 200 -
+{"phase": "mixed-c4-run3", "seconds": 56.30261417099973, "min_available": 107773308928, "system_delta_gib": 16.38678741455078, "after": {"time": 1794113271.7793953, "MemAvailable": 108222758912, "SwapFree": 16811278336, "VmHWM": 8215580672, "VmRSS": 4404969472}, "rss_peak": 4851572736, "cuda_allocated": 7364509696, "cuda_reserved": 12694061056, "cuda_peak_allocated": 10928399360, "cuda_peak_reserved": 12694061056}
+START mixed-c6-run1
+127.0.0.1 - - [08/Nov/2026 04:48:06] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:48:20] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:48:35] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:48:48] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:49:03] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:49:16] "POST /v1/systemone HTTP/1.1" 200 -
+{"phase": "mixed-c6-run1", "seconds": 85.18132879899349, "min_available": 107528863744, "system_delta_gib": 16.614444732666016, "after": {"time": 1794113356.9623754, "MemAvailable": 108465197056, "SwapFree": 16811384832, "VmHWM": 8215580672, "VmRSS": 4250836992}, "rss_peak": 5124399104, "cuda_allocated": 7364509696, "cuda_reserved": 12694061056, "cuda_peak_allocated": 10928399360, "cuda_peak_reserved": 12694061056}
+START mixed-c6-run2
+127.0.0.1 - - [08/Nov/2026 04:49:31] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:49:46] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:49:59] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:50:14] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:50:29] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:50:42] "POST /v1/systemone HTTP/1.1" 200 -
+{"phase": "mixed-c6-run2", "seconds": 85.64514624900767, "min_available": 107249475584, "system_delta_gib": 16.874645233154297, "after": {"time": 1794113442.6092186, "MemAvailable": 108287664128, "SwapFree": 16811384832, "VmHWM": 8215580672, "VmRSS": 4388638720}, "rss_peak": 5293731840, "cuda_allocated": 7364509696, "cuda_reserved": 12694061056, "cuda_peak_allocated": 10928399360, "cuda_peak_reserved": 12694061056}
+START mixed-c6-run3
+127.0.0.1 - - [08/Nov/2026 04:50:56] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:51:11] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:51:25] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:51:40] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:51:54] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:52:08] "POST /v1/systemone HTTP/1.1" 200 -
+{"phase": "mixed-c6-run3", "seconds": 85.74167105900415, "min_available": 107150766080, "system_delta_gib": 16.966575622558594, "after": {"time": 1794113528.3525743, "MemAvailable": 108129906688, "SwapFree": 16811384832, "VmHWM": 8215580672, "VmRSS": 4552134656}, "rss_peak": 5395173376, "cuda_allocated": 7364509696, "cuda_reserved": 12694061056, "cuda_peak_allocated": 10928399360, "cuda_peak_reserved": 12694061056}
+START sustained-60s
+127.0.0.1 - - [08/Nov/2026 04:52:22] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:52:22] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:52:36] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:52:36] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:52:50] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:52:50] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:53:04] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:53:04] "POST /v1/systemone HTTP/1.1" 200 -
+127.0.0.1 - - [08/Nov/2026 04:53:18] "POST /v1/systemone HTTP/1.1" 200 -
+{"phase": "sustained-60s", "seconds": 70.22360060900974, "min_available": 106983690240, "system_delta_gib": 17.122177124023438, "after": {"time": 1794113598.577874, "MemAvailable": 107947462656, "SwapFree": 16811433984, "VmHWM": 8215580672, "VmRSS": 4646137856}, "rss_peak": 5632585728, "cuda_allocated": 7364509696, "cuda_reserved": 12694061056, "cuda_peak_allocated": 10928399360, "cuda_peak_reserved": 12694061056}
+START idle-30s
+{"phase": "idle-30s", "seconds": 30.000621122002485, "min_available": 108077207552, "system_delta_gib": 16.103759765625, "after": {"time": 1794113628.5801718, "MemAvailable": 108116647936, "SwapFree": 16811487232, "VmHWM": 8215580672, "VmRSS": 4645941248}, "rss_peak": 4645941248, "cuda_allocated": 7364509696, "cuda_reserved": 12694061056, "cuda_peak_allocated": 7364509696, "cuda_peak_reserved": 12694061056}
+COMPLETE {"baseline": {"time": 1794112882.0512874, "MemAvailable": 125368487936, "SwapFree": 16795164672, "VmHWM": 20922368, "VmRSS": 20922368}, "requests": 57, "peak_system_delta_gib": 17.122177124023438, "final": {"time": 1794113628.582592, "MemAvailable": 108116647936, "SwapFree": 16811487232, "VmHWM": 8215580672, "VmRSS": 4645941248}, "max_query_tokens": 20480, "candidate_cache_entries": 3, "request_median_seconds": 14.521477536007296, "torch": "2.13.0a0+9186a08b2c.nv26.07", "transformers": "5.5.3", "model_commit": "1489062def4145ae3a0a9261fbac4f4d88a8c6d1", "server_serialized": true, "allocator_cache_cleared_between_phases": false}

@@ -1,0 +1,35 @@
+{
+  "health": {
+    "status": "ready",
+    "model": "kanana-2-v-decide-3b-2611",
+    "max_input_tokens": 20480,
+    "modalities": [
+      "text",
+      "image"
+    ],
+    "authentication": false,
+    "backend": "transformers",
+    "truncate_inputs": true,
+    "truncate_question_candidates": true
+  },
+  "response": {
+    "model": "kanana-2-v-decide-3b-2611",
+    "answers": {
+      "warmup": {
+        "type": "choice",
+        "choice": "1",
+        "confidence": 0.9917089340540092,
+        "probabilities": {
+          "1": 0.9958544670270046,
+          "2": 0.004145532972995438
+        }
+      }
+    },
+    "usage": {
+      "billing_units": 1,
+      "input_tokens": 124,
+      "output_tokens": 0
+    }
+  },
+  "performance_sample": false
+}

@@ -1,0 +1,8 @@
+{
+  "pdf_sha256": "ddb1ede52e317cb67c94172b39aad24b0150bf888455be33f8e333010ce16a0a",
+  "answer_sha256": "e5912f96dca0cb54d05b6c5f3147cb79ab34f9a931462264a5b57f90e581aac8",
+  "text_conversion": "PyMuPDF column clips plus manually transcribed visual supplements",
+  "pages": 40,
+  "cases": 112,
+  "unique_questions": 56
+}

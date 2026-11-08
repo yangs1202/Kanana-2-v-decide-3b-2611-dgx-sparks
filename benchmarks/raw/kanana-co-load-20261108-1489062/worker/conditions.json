@@ -1,0 +1,19 @@
+{
+  "image_seed": 2611,
+  "generator": "Python random.Random.randbytes",
+  "images": 10,
+  "image_size": [
+    1280,
+    1280
+  ],
+  "jpeg_quality": 90,
+  "glm_concurrency": 2,
+  "glm_max_tokens": 128,
+  "glm_payload_bytes": 26281,
+  "payload_bytes": {
+    "short": 297,
+    "long": 138820,
+    "images10": 19589835,
+    "mixed": 19728358
+  }
+}

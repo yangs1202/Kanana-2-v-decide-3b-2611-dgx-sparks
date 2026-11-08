@@ -1,0 +1,44 @@
+{
+  "phase": "short-c1-run3",
+  "start": 1794114778.9017193,
+  "end": 1794114778.9919684,
+  "seconds": 0.09024906158447266,
+  "concurrency": 1,
+  "requests": [
+    {
+      "ok": true,
+      "response": {
+        "model": "kanana-2-v-decide-3b-2611",
+        "answers": {
+          "category": {
+            "type": "choice",
+            "choice": "exchange",
+            "confidence": 0.9389698535471309,
+            "probabilities": {
+              "exchange": 0.9593132356980872,
+              "delivery": 0.03767286753027873,
+              "payment": 0.0030138967716339736
+            }
+          }
+        },
+        "usage": {
+          "billing_units": 1,
+          "input_tokens": 90,
+          "output_tokens": 0
+        }
+      },
+      "start": 1794114778.9018843,
+      "end": 1794114778.9915295,
+      "seconds": 0.0896453857421875,
+      "service": "kanana"
+    }
+  ],
+  "min_available": 15247560704,
+  "after": {
+    "time": 1794114778.9919667,
+    "MemAvailable": 15247560704,
+    "SwapFree": 17030742016,
+    "VmHWM": 8227381248,
+    "VmRSS": 1763987456
+  }
+}

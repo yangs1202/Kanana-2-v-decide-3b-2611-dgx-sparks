@@ -1,0 +1,2354 @@
+[
+  {
+    "id": "odd-common-1",
+    "form": "odd",
+    "section": "common",
+    "number": 1,
+    "answer": "3",
+    "points": 2,
+    "predictions": [
+      "3",
+      "3",
+      "3"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.09618282318115234,
+    "input_tokens": [
+      651,
+      607,
+      607
+    ]
+  },
+  {
+    "id": "odd-common-2",
+    "form": "odd",
+    "section": "common",
+    "number": 2,
+    "answer": "5",
+    "points": 2,
+    "predictions": [
+      "5",
+      "5",
+      "5"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.13611268997192383,
+    "input_tokens": [
+      811,
+      601,
+      601
+    ]
+  },
+  {
+    "id": "odd-common-3",
+    "form": "odd",
+    "section": "common",
+    "number": 3,
+    "answer": "4",
+    "points": 3,
+    "predictions": [
+      "4",
+      "4",
+      "4"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.17461109161376953,
+    "input_tokens": [
+      1054,
+      799,
+      799
+    ]
+  },
+  {
+    "id": "odd-common-4",
+    "form": "odd",
+    "section": "common",
+    "number": 4,
+    "answer": "1",
+    "points": 2,
+    "predictions": [
+      "1",
+      "1",
+      "1"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.23351947466532388,
+    "input_tokens": [
+      1478,
+      1212,
+      1212
+    ]
+  },
+  {
+    "id": "odd-common-5",
+    "form": "odd",
+    "section": "common",
+    "number": 5,
+    "answer": "4",
+    "points": 2,
+    "predictions": [
+      "4",
+      "4",
+      "4"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.2383591334025065,
+    "input_tokens": [
+      1438,
+      1191,
+      1191
+    ]
+  },
+  {
+    "id": "odd-common-6",
+    "form": "odd",
+    "section": "common",
+    "number": 6,
+    "answer": "2",
+    "points": 2,
+    "predictions": [
+      "2",
+      "2",
+      "2"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.22671850522359213,
+    "input_tokens": [
+      1397,
+      1173,
+      1173
+    ]
+  },
+  {
+    "id": "odd-common-7",
+    "form": "odd",
+    "section": "common",
+    "number": 7,
+    "answer": "5",
+    "points": 2,
+    "predictions": [
+      "2",
+      "2",
+      "2"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.22842669486999512,
+    "input_tokens": [
+      1408,
+      1175,
+      1175
+    ]
+  },
+  {
+    "id": "odd-common-8",
+    "form": "odd",
+    "section": "common",
+    "number": 8,
+    "answer": "3",
+    "points": 3,
+    "predictions": [
+      "4",
+      "4",
+      "4"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.2704034646352132,
+    "input_tokens": [
+      1802,
+      1461,
+      1461
+    ]
+  },
+  {
+    "id": "odd-common-9",
+    "form": "odd",
+    "section": "common",
+    "number": 9,
+    "answer": "5",
+    "points": 2,
+    "predictions": [
+      "3",
+      "3",
+      "3"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.23414254188537598,
+    "input_tokens": [
+      1260,
+      1107,
+      1107
+    ]
+  },
+  {
+    "id": "odd-common-10",
+    "form": "odd",
+    "section": "common",
+    "number": 10,
+    "answer": "5",
+    "points": 2,
+    "predictions": [
+      "5",
+      "5",
+      "5"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.2017981211344401,
+    "input_tokens": [
+      1297,
+      1060,
+      1060
+    ]
+  },
+  {
+    "id": "odd-common-11",
+    "form": "odd",
+    "section": "common",
+    "number": 11,
+    "answer": "3",
+    "points": 2,
+    "predictions": [
+      "1",
+      "1",
+      "1"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.20302812258402506,
+    "input_tokens": [
+      1309,
+      1068,
+      1068
+    ]
+  },
+  {
+    "id": "odd-common-12",
+    "form": "odd",
+    "section": "common",
+    "number": 12,
+    "answer": "1",
+    "points": 3,
+    "predictions": [
+      "5",
+      "5",
+      "5"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.2637186845143636,
+    "input_tokens": [
+      1574,
+      1287,
+      1287
+    ]
+  },
+  {
+    "id": "odd-common-13",
+    "form": "odd",
+    "section": "common",
+    "number": 13,
+    "answer": "1",
+    "points": 2,
+    "predictions": [
+      "4",
+      "4",
+      "4"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.2107845147450765,
+    "input_tokens": [
+      1337,
+      1085,
+      1085
+    ]
+  },
+  {
+    "id": "odd-common-14",
+    "form": "odd",
+    "section": "common",
+    "number": 14,
+    "answer": "5",
+    "points": 2,
+    "predictions": [
+      "4",
+      "4",
+      "4"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.18531330426534018,
+    "input_tokens": [
+      1095,
+      902,
+      902
+    ]
+  },
+  {
+    "id": "odd-common-15",
+    "form": "odd",
+    "section": "common",
+    "number": 15,
+    "answer": "1",
+    "points": 2,
+    "predictions": [
+      "1",
+      "1",
+      "1"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.19004058837890625,
+    "input_tokens": [
+      1178,
+      946,
+      946
+    ]
+  },
+  {
+    "id": "odd-common-16",
+    "form": "odd",
+    "section": "common",
+    "number": 16,
+    "answer": "2",
+    "points": 2,
+    "predictions": [
+      "4",
+      "4",
+      "4"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.19483057657877603,
+    "input_tokens": [
+      1307,
+      1016,
+      1016
+    ]
+  },
+  {
+    "id": "odd-common-17",
+    "form": "odd",
+    "section": "common",
+    "number": 17,
+    "answer": "3",
+    "points": 3,
+    "predictions": [
+      "3",
+      "3",
+      "3"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.24284259478251138,
+    "input_tokens": [
+      1437,
+      1151,
+      1151
+    ]
+  },
+  {
+    "id": "odd-common-18",
+    "form": "odd",
+    "section": "common",
+    "number": 18,
+    "answer": "2",
+    "points": 2,
+    "predictions": [
+      "2",
+      "2",
+      "2"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.26473021507263184,
+    "input_tokens": [
+      1739,
+      1508,
+      1508
+    ]
+  },
+  {
+    "id": "odd-common-19",
+    "form": "odd",
+    "section": "common",
+    "number": 19,
+    "answer": "4",
+    "points": 2,
+    "predictions": [
+      "5",
+      "5",
+      "5"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.27462100982666016,
+    "input_tokens": [
+      1793,
+      1536,
+      1536
+    ]
+  },
+  {
+    "id": "odd-common-20",
+    "form": "odd",
+    "section": "common",
+    "number": 20,
+    "answer": "3",
+    "points": 2,
+    "predictions": [
+      "3",
+      "3",
+      "3"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.3033875624338786,
+    "input_tokens": [
+      1744,
+      1511,
+      1511
+    ]
+  },
+  {
+    "id": "odd-common-21",
+    "form": "odd",
+    "section": "common",
+    "number": 21,
+    "answer": "2",
+    "points": 3,
+    "predictions": [
+      "2",
+      "2",
+      "2"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.4216423034667969,
+    "input_tokens": [
+      2063,
+      1715,
+      1715
+    ]
+  },
+  {
+    "id": "odd-common-22",
+    "form": "odd",
+    "section": "common",
+    "number": 22,
+    "answer": "5",
+    "points": 2,
+    "predictions": [
+      "2",
+      "2",
+      "2"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.3089999357859294,
+    "input_tokens": [
+      1349,
+      1137,
+      1137
+    ]
+  },
+  {
+    "id": "odd-common-23",
+    "form": "odd",
+    "section": "common",
+    "number": 23,
+    "answer": "1",
+    "points": 3,
+    "predictions": [
+      "1",
+      "1",
+      "1"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.35500319798787433,
+    "input_tokens": [
+      1765,
+      1402,
+      1402
+    ]
+  },
+  {
+    "id": "odd-common-24",
+    "form": "odd",
+    "section": "common",
+    "number": 24,
+    "answer": "4",
+    "points": 2,
+    "predictions": [
+      "2",
+      "2",
+      "2"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.31233787536621094,
+    "input_tokens": [
+      1531,
+      1229,
+      1229
+    ]
+  },
+  {
+    "id": "odd-common-25",
+    "form": "odd",
+    "section": "common",
+    "number": 25,
+    "answer": "4",
+    "points": 2,
+    "predictions": [
+      "4",
+      "4",
+      "4"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.30447570482889813,
+    "input_tokens": [
+      1458,
+      1194,
+      1194
+    ]
+  },
+  {
+    "id": "odd-common-26",
+    "form": "odd",
+    "section": "common",
+    "number": 26,
+    "answer": "2",
+    "points": 2,
+    "predictions": [
+      "3",
+      "3",
+      "3"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.3103446165720622,
+    "input_tokens": [
+      1521,
+      1247,
+      1247
+    ]
+  },
+  {
+    "id": "odd-common-27",
+    "form": "odd",
+    "section": "common",
+    "number": 27,
+    "answer": "5",
+    "points": 2,
+    "predictions": [
+      "2",
+      "2",
+      "2"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.3159153461456299,
+    "input_tokens": [
+      1463,
+      1245,
+      1245
+    ]
+  },
+  {
+    "id": "odd-common-28",
+    "form": "odd",
+    "section": "common",
+    "number": 28,
+    "answer": "5",
+    "points": 2,
+    "predictions": [
+      "5",
+      "5",
+      "5"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.3171807924906413,
+    "input_tokens": [
+      1489,
+      1260,
+      1260
+    ]
+  },
+  {
+    "id": "odd-common-29",
+    "form": "odd",
+    "section": "common",
+    "number": 29,
+    "answer": "1",
+    "points": 2,
+    "predictions": [
+      "5",
+      "5",
+      "5"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.3070387840270996,
+    "input_tokens": [
+      1432,
+      1230,
+      1230
+    ]
+  },
+  {
+    "id": "odd-common-30",
+    "form": "odd",
+    "section": "common",
+    "number": 30,
+    "answer": "3",
+    "points": 3,
+    "predictions": [
+      "4",
+      "4",
+      "4"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.42388375600179035,
+    "input_tokens": [
+      1766,
+      1447,
+      1447
+    ]
+  },
+  {
+    "id": "odd-common-31",
+    "form": "odd",
+    "section": "common",
+    "number": 31,
+    "answer": "2",
+    "points": 2,
+    "predictions": [
+      "2",
+      "2",
+      "2"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.35397791862487793,
+    "input_tokens": [
+      1095,
+      878,
+      878
+    ]
+  },
+  {
+    "id": "odd-common-32",
+    "form": "odd",
+    "section": "common",
+    "number": 32,
+    "answer": "4",
+    "points": 2,
+    "predictions": [
+      "4",
+      "4",
+      "4"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.38006075223286945,
+    "input_tokens": [
+      1192,
+      928,
+      928
+    ]
+  },
+  {
+    "id": "odd-common-33",
+    "form": "odd",
+    "section": "common",
+    "number": 33,
+    "answer": "1",
+    "points": 2,
+    "predictions": [
+      "4",
+      "4",
+      "4"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.3547224998474121,
+    "input_tokens": [
+      1104,
+      884,
+      884
+    ]
+  },
+  {
+    "id": "odd-common-34",
+    "form": "odd",
+    "section": "common",
+    "number": 34,
+    "answer": "3",
+    "points": 3,
+    "predictions": [
+      "2",
+      "2",
+      "2"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.4702149232228597,
+    "input_tokens": [
+      1470,
+      1125,
+      1125
+    ]
+  },
+  {
+    "id": "odd-speech-35",
+    "form": "odd",
+    "section": "speech",
+    "number": 35,
+    "answer": "2",
+    "points": 2,
+    "predictions": [
+      "2",
+      "2",
+      "2"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.33895150820414227,
+    "input_tokens": [
+      969,
+      784,
+      784
+    ]
+  },
+  {
+    "id": "odd-speech-36",
+    "form": "odd",
+    "section": "speech",
+    "number": 36,
+    "answer": "5",
+    "points": 2,
+    "predictions": [
+      "3",
+      "3",
+      "3"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.3669993082682292,
+    "input_tokens": [
+      1159,
+      889,
+      889
+    ]
+  },
+  {
+    "id": "odd-speech-37",
+    "form": "odd",
+    "section": "speech",
+    "number": 37,
+    "answer": "3",
+    "points": 2,
+    "predictions": [
+      "3",
+      "3",
+      "3"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.37353912989298504,
+    "input_tokens": [
+      1160,
+      943,
+      943
+    ]
+  },
+  {
+    "id": "odd-speech-38",
+    "form": "odd",
+    "section": "speech",
+    "number": 38,
+    "answer": "1",
+    "points": 2,
+    "predictions": [
+      "1",
+      "1",
+      "1"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.5124178727467855,
+    "input_tokens": [
+      1546,
+      1309,
+      1309
+    ]
+  },
+  {
+    "id": "odd-speech-39",
+    "form": "odd",
+    "section": "speech",
+    "number": 39,
+    "answer": "2",
+    "points": 2,
+    "predictions": [
+      "2",
+      "2",
+      "2"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.4689304033915202,
+    "input_tokens": [
+      1480,
+      1278,
+      1278
+    ]
+  },
+  {
+    "id": "odd-speech-40",
+    "form": "odd",
+    "section": "speech",
+    "number": 40,
+    "answer": "5",
+    "points": 3,
+    "predictions": [
+      "1",
+      "1",
+      "1"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.5151649316151937,
+    "input_tokens": [
+      1642,
+      1361,
+      1361
+    ]
+  },
+  {
+    "id": "odd-speech-41",
+    "form": "odd",
+    "section": "speech",
+    "number": 41,
+    "answer": "4",
+    "points": 2,
+    "predictions": [
+      "4",
+      "4",
+      "4"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.46910881996154785,
+    "input_tokens": [
+      1455,
+      1261,
+      1261
+    ]
+  },
+  {
+    "id": "odd-speech-42",
+    "form": "odd",
+    "section": "speech",
+    "number": 42,
+    "answer": "4",
+    "points": 2,
+    "predictions": [
+      "4",
+      "4",
+      "4"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.5330765247344971,
+    "input_tokens": [
+      1652,
+      1430,
+      1430
+    ]
+  },
+  {
+    "id": "odd-speech-43",
+    "form": "odd",
+    "section": "speech",
+    "number": 43,
+    "answer": "3",
+    "points": 2,
+    "predictions": [
+      "3",
+      "3",
+      "3"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.3738291263580322,
+    "input_tokens": [
+      1213,
+      952,
+      952
+    ]
+  },
+  {
+    "id": "odd-speech-44",
+    "form": "odd",
+    "section": "speech",
+    "number": 44,
+    "answer": "2",
+    "points": 2,
+    "predictions": [
+      "2",
+      "2",
+      "2"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.33429590861002606,
+    "input_tokens": [
+      1007,
+      823,
+      823
+    ]
+  },
+  {
+    "id": "odd-speech-45",
+    "form": "odd",
+    "section": "speech",
+    "number": 45,
+    "answer": "5",
+    "points": 3,
+    "predictions": [
+      "2",
+      "2",
+      "2"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.3896636168162028,
+    "input_tokens": [
+      1286,
+      973,
+      973
+    ]
+  },
+  {
+    "id": "odd-language-35",
+    "form": "odd",
+    "section": "language",
+    "number": 35,
+    "answer": "3",
+    "points": 2,
+    "predictions": [
+      "2",
+      "2",
+      "2"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.3814423084259033,
+    "input_tokens": [
+      1271,
+      1038,
+      1038
+    ]
+  },
+  {
+    "id": "odd-language-36",
+    "form": "odd",
+    "section": "language",
+    "number": 36,
+    "answer": "2",
+    "points": 3,
+    "predictions": [
+      "3",
+      "3",
+      "3"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.5113744735717773,
+    "input_tokens": [
+      1594,
+      1304,
+      1304
+    ]
+  },
+  {
+    "id": "odd-language-37",
+    "form": "odd",
+    "section": "language",
+    "number": 37,
+    "answer": "4",
+    "points": 2,
+    "predictions": [
+      "3",
+      "3",
+      "3"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.2239527702331543,
+    "input_tokens": [
+      403,
+      210,
+      210
+    ]
+  },
+  {
+    "id": "odd-language-38",
+    "form": "odd",
+    "section": "language",
+    "number": 38,
+    "answer": "4",
+    "points": 2,
+    "predictions": [
+      "4",
+      "4",
+      "4"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.2504297097524007,
+    "input_tokens": [
+      568,
+      361,
+      361
+    ]
+  },
+  {
+    "id": "odd-language-39",
+    "form": "odd",
+    "section": "language",
+    "number": 39,
+    "answer": "1",
+    "points": 2,
+    "predictions": [
+      "4",
+      "4",
+      "4"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.2459120750427246,
+    "input_tokens": [
+      600,
+      331,
+      331
+    ]
+  },
+  {
+    "id": "odd-language-40",
+    "form": "odd",
+    "section": "language",
+    "number": 40,
+    "answer": "2",
+    "points": 2,
+    "predictions": [
+      "5",
+      "5",
+      "5"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.518885612487793,
+    "input_tokens": [
+      1615,
+      1383,
+      1383
+    ]
+  },
+  {
+    "id": "odd-language-41",
+    "form": "odd",
+    "section": "language",
+    "number": 41,
+    "answer": "4",
+    "points": 2,
+    "predictions": [
+      "5",
+      "5",
+      "5"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.5249656041463217,
+    "input_tokens": [
+      1668,
+      1413,
+      1413
+    ]
+  },
+  {
+    "id": "odd-language-42",
+    "form": "odd",
+    "section": "language",
+    "number": 42,
+    "answer": "5",
+    "points": 3,
+    "predictions": [
+      "5",
+      "5",
+      "5"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.5217018127441406,
+    "input_tokens": [
+      1786,
+      1481,
+      1481
+    ]
+  },
+  {
+    "id": "odd-language-43",
+    "form": "odd",
+    "section": "language",
+    "number": 43,
+    "answer": "2",
+    "points": 2,
+    "predictions": [
+      "5",
+      "5",
+      "5"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.5211561520894369,
+    "input_tokens": [
+      1659,
+      1406,
+      1406
+    ]
+  },
+  {
+    "id": "odd-language-44",
+    "form": "odd",
+    "section": "language",
+    "number": 44,
+    "answer": "4",
+    "points": 2,
+    "predictions": [
+      "1",
+      "1",
+      "1"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.4601302941640218,
+    "input_tokens": [
+      1406,
+      1146,
+      1146
+    ]
+  },
+  {
+    "id": "odd-language-45",
+    "form": "odd",
+    "section": "language",
+    "number": 45,
+    "answer": "3",
+    "points": 2,
+    "predictions": [
+      "4",
+      "4",
+      "4"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.4533243974049886,
+    "input_tokens": [
+      1438,
+      1166,
+      1166
+    ]
+  },
+  {
+    "id": "even-common-1",
+    "form": "even",
+    "section": "common",
+    "number": 1,
+    "answer": "3",
+    "points": 2,
+    "predictions": [
+      "3",
+      "3",
+      "3"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.15503398577372232,
+    "input_tokens": [
+      607,
+      607,
+      607
+    ]
+  },
+  {
+    "id": "even-common-2",
+    "form": "even",
+    "section": "common",
+    "number": 2,
+    "answer": "5",
+    "points": 2,
+    "predictions": [
+      "5",
+      "5",
+      "5"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.15403056144714355,
+    "input_tokens": [
+      601,
+      601,
+      601
+    ]
+  },
+  {
+    "id": "even-common-3",
+    "form": "even",
+    "section": "common",
+    "number": 3,
+    "answer": "4",
+    "points": 3,
+    "predictions": [
+      "4",
+      "4",
+      "4"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.215635617574056,
+    "input_tokens": [
+      799,
+      799,
+      799
+    ]
+  },
+  {
+    "id": "even-common-4",
+    "form": "even",
+    "section": "common",
+    "number": 4,
+    "answer": "1",
+    "points": 2,
+    "predictions": [
+      "1",
+      "1",
+      "1"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.3229408264160156,
+    "input_tokens": [
+      1212,
+      1212,
+      1212
+    ]
+  },
+  {
+    "id": "even-common-5",
+    "form": "even",
+    "section": "common",
+    "number": 5,
+    "answer": "4",
+    "points": 2,
+    "predictions": [
+      "4",
+      "4",
+      "4"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.32476266225179035,
+    "input_tokens": [
+      1191,
+      1191,
+      1191
+    ]
+  },
+  {
+    "id": "even-common-6",
+    "form": "even",
+    "section": "common",
+    "number": 6,
+    "answer": "2",
+    "points": 2,
+    "predictions": [
+      "2",
+      "2",
+      "2"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.3174130121866862,
+    "input_tokens": [
+      1173,
+      1173,
+      1173
+    ]
+  },
+  {
+    "id": "even-common-7",
+    "form": "even",
+    "section": "common",
+    "number": 7,
+    "answer": "5",
+    "points": 2,
+    "predictions": [
+      "2",
+      "2",
+      "2"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.3186139265696208,
+    "input_tokens": [
+      1175,
+      1175,
+      1175
+    ]
+  },
+  {
+    "id": "even-common-8",
+    "form": "even",
+    "section": "common",
+    "number": 8,
+    "answer": "3",
+    "points": 3,
+    "predictions": [
+      "4",
+      "4",
+      "4"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.3897382418314616,
+    "input_tokens": [
+      1461,
+      1461,
+      1461
+    ]
+  },
+  {
+    "id": "even-common-9",
+    "form": "even",
+    "section": "common",
+    "number": 9,
+    "answer": "5",
+    "points": 2,
+    "predictions": [
+      "3",
+      "3",
+      "3"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.2790539264678955,
+    "input_tokens": [
+      1107,
+      1107,
+      1107
+    ]
+  },
+  {
+    "id": "even-common-10",
+    "form": "even",
+    "section": "common",
+    "number": 10,
+    "answer": "5",
+    "points": 2,
+    "predictions": [
+      "5",
+      "5",
+      "5"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.2713640530904134,
+    "input_tokens": [
+      1060,
+      1060,
+      1060
+    ]
+  },
+  {
+    "id": "even-common-11",
+    "form": "even",
+    "section": "common",
+    "number": 11,
+    "answer": "3",
+    "points": 2,
+    "predictions": [
+      "1",
+      "1",
+      "1"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.2701714038848877,
+    "input_tokens": [
+      1068,
+      1068,
+      1068
+    ]
+  },
+  {
+    "id": "even-common-12",
+    "form": "even",
+    "section": "common",
+    "number": 12,
+    "answer": "1",
+    "points": 3,
+    "predictions": [
+      "5",
+      "5",
+      "5"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.37603235244750977,
+    "input_tokens": [
+      1287,
+      1287,
+      1287
+    ]
+  },
+  {
+    "id": "even-common-13",
+    "form": "even",
+    "section": "common",
+    "number": 13,
+    "answer": "2",
+    "points": 2,
+    "predictions": [
+      "2",
+      "2",
+      "2"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.33295615514119464,
+    "input_tokens": [
+      1186,
+      1085,
+      1085
+    ]
+  },
+  {
+    "id": "even-common-14",
+    "form": "even",
+    "section": "common",
+    "number": 14,
+    "answer": "5",
+    "points": 2,
+    "predictions": [
+      "4",
+      "4",
+      "4"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.238142728805542,
+    "input_tokens": [
+      902,
+      902,
+      902
+    ]
+  },
+  {
+    "id": "even-common-15",
+    "form": "even",
+    "section": "common",
+    "number": 15,
+    "answer": "1",
+    "points": 2,
+    "predictions": [
+      "1",
+      "1",
+      "1"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.2461078961690267,
+    "input_tokens": [
+      946,
+      946,
+      946
+    ]
+  },
+  {
+    "id": "even-common-16",
+    "form": "even",
+    "section": "common",
+    "number": 16,
+    "answer": "2",
+    "points": 2,
+    "predictions": [
+      "4",
+      "4",
+      "4"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.25115132331848145,
+    "input_tokens": [
+      1016,
+      1016,
+      1016
+    ]
+  },
+  {
+    "id": "even-common-17",
+    "form": "even",
+    "section": "common",
+    "number": 17,
+    "answer": "3",
+    "points": 3,
+    "predictions": [
+      "3",
+      "3",
+      "3"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.33745725949605304,
+    "input_tokens": [
+      1151,
+      1151,
+      1151
+    ]
+  },
+  {
+    "id": "even-common-18",
+    "form": "even",
+    "section": "common",
+    "number": 18,
+    "answer": "1",
+    "points": 2,
+    "predictions": [
+      "1",
+      "1",
+      "1"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.4523582458496094,
+    "input_tokens": [
+      1598,
+      1508,
+      1508
+    ]
+  },
+  {
+    "id": "even-common-19",
+    "form": "even",
+    "section": "common",
+    "number": 19,
+    "answer": "4",
+    "points": 2,
+    "predictions": [
+      "5",
+      "5",
+      "5"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.4033994674682617,
+    "input_tokens": [
+      1536,
+      1536,
+      1536
+    ]
+  },
+  {
+    "id": "even-common-20",
+    "form": "even",
+    "section": "common",
+    "number": 20,
+    "answer": "3",
+    "points": 2,
+    "predictions": [
+      "3",
+      "3",
+      "3"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.39690208435058594,
+    "input_tokens": [
+      1511,
+      1511,
+      1511
+    ]
+  },
+  {
+    "id": "even-common-21",
+    "form": "even",
+    "section": "common",
+    "number": 21,
+    "answer": "2",
+    "points": 3,
+    "predictions": [
+      "2",
+      "2",
+      "2"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.4637139638264974,
+    "input_tokens": [
+      1715,
+      1715,
+      1715
+    ]
+  },
+  {
+    "id": "even-common-22",
+    "form": "even",
+    "section": "common",
+    "number": 22,
+    "answer": "5",
+    "points": 2,
+    "predictions": [
+      "2",
+      "2",
+      "2"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.32752402623494464,
+    "input_tokens": [
+      1137,
+      1137,
+      1137
+    ]
+  },
+  {
+    "id": "even-common-23",
+    "form": "even",
+    "section": "common",
+    "number": 23,
+    "answer": "1",
+    "points": 3,
+    "predictions": [
+      "1",
+      "1",
+      "1"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.39237014452616376,
+    "input_tokens": [
+      1402,
+      1402,
+      1402
+    ]
+  },
+  {
+    "id": "even-common-24",
+    "form": "even",
+    "section": "common",
+    "number": 24,
+    "answer": "4",
+    "points": 2,
+    "predictions": [
+      "2",
+      "2",
+      "2"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.32718125979105633,
+    "input_tokens": [
+      1229,
+      1229,
+      1229
+    ]
+  },
+  {
+    "id": "even-common-25",
+    "form": "even",
+    "section": "common",
+    "number": 25,
+    "answer": "5",
+    "points": 2,
+    "predictions": [
+      "5",
+      "5",
+      "5"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.3814493815104167,
+    "input_tokens": [
+      1304,
+      1194,
+      1194
+    ]
+  },
+  {
+    "id": "even-common-26",
+    "form": "even",
+    "section": "common",
+    "number": 26,
+    "answer": "2",
+    "points": 2,
+    "predictions": [
+      "3",
+      "3",
+      "3"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.32970277468363446,
+    "input_tokens": [
+      1247,
+      1247,
+      1247
+    ]
+  },
+  {
+    "id": "even-common-27",
+    "form": "even",
+    "section": "common",
+    "number": 27,
+    "answer": "4",
+    "points": 2,
+    "predictions": [
+      "2",
+      "2",
+      "2"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.3847857316335042,
+    "input_tokens": [
+      1337,
+      1245,
+      1245
+    ]
+  },
+  {
+    "id": "even-common-28",
+    "form": "even",
+    "section": "common",
+    "number": 28,
+    "answer": "5",
+    "points": 2,
+    "predictions": [
+      "5",
+      "5",
+      "5"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.3466379642486572,
+    "input_tokens": [
+      1260,
+      1260,
+      1260
+    ]
+  },
+  {
+    "id": "even-common-29",
+    "form": "even",
+    "section": "common",
+    "number": 29,
+    "answer": "1",
+    "points": 2,
+    "predictions": [
+      "5",
+      "5",
+      "5"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.28367145856221515,
+    "input_tokens": [
+      1230,
+      1230,
+      1230
+    ]
+  },
+  {
+    "id": "even-common-30",
+    "form": "even",
+    "section": "common",
+    "number": 30,
+    "answer": "3",
+    "points": 3,
+    "predictions": [
+      "4",
+      "4",
+      "4"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.3546310265858968,
+    "input_tokens": [
+      1447,
+      1447,
+      1447
+    ]
+  },
+  {
+    "id": "even-common-31",
+    "form": "even",
+    "section": "common",
+    "number": 31,
+    "answer": "2",
+    "points": 2,
+    "predictions": [
+      "2",
+      "2",
+      "2"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.2218137582143148,
+    "input_tokens": [
+      878,
+      878,
+      878
+    ]
+  },
+  {
+    "id": "even-common-32",
+    "form": "even",
+    "section": "common",
+    "number": 32,
+    "answer": "4",
+    "points": 2,
+    "predictions": [
+      "4",
+      "4",
+      "4"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.24254775047302246,
+    "input_tokens": [
+      928,
+      928,
+      928
+    ]
+  },
+  {
+    "id": "even-common-33",
+    "form": "even",
+    "section": "common",
+    "number": 33,
+    "answer": "1",
+    "points": 2,
+    "predictions": [
+      "4",
+      "4",
+      "4"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.230104128519694,
+    "input_tokens": [
+      884,
+      884,
+      884
+    ]
+  },
+  {
+    "id": "even-common-34",
+    "form": "even",
+    "section": "common",
+    "number": 34,
+    "answer": "3",
+    "points": 3,
+    "predictions": [
+      "2",
+      "2",
+      "2"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.3341277440388997,
+    "input_tokens": [
+      1125,
+      1125,
+      1125
+    ]
+  },
+  {
+    "id": "even-speech-35",
+    "form": "even",
+    "section": "speech",
+    "number": 35,
+    "answer": "2",
+    "points": 2,
+    "predictions": [
+      "2",
+      "2",
+      "2"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.20347913106282553,
+    "input_tokens": [
+      784,
+      784,
+      784
+    ]
+  },
+  {
+    "id": "even-speech-36",
+    "form": "even",
+    "section": "speech",
+    "number": 36,
+    "answer": "5",
+    "points": 2,
+    "predictions": [
+      "3",
+      "3",
+      "3"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.2272956371307373,
+    "input_tokens": [
+      889,
+      889,
+      889
+    ]
+  },
+  {
+    "id": "even-speech-37",
+    "form": "even",
+    "section": "speech",
+    "number": 37,
+    "answer": "3",
+    "points": 2,
+    "predictions": [
+      "3",
+      "3",
+      "3"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.24698551495869955,
+    "input_tokens": [
+      943,
+      943,
+      943
+    ]
+  },
+  {
+    "id": "even-speech-38",
+    "form": "even",
+    "section": "speech",
+    "number": 38,
+    "answer": "1",
+    "points": 2,
+    "predictions": [
+      "1",
+      "1",
+      "1"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.39328813552856445,
+    "input_tokens": [
+      1309,
+      1309,
+      1309
+    ]
+  },
+  {
+    "id": "even-speech-39",
+    "form": "even",
+    "section": "speech",
+    "number": 39,
+    "answer": "2",
+    "points": 2,
+    "predictions": [
+      "2",
+      "2",
+      "2"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.35355408986409503,
+    "input_tokens": [
+      1278,
+      1278,
+      1278
+    ]
+  },
+  {
+    "id": "even-speech-40",
+    "form": "even",
+    "section": "speech",
+    "number": 40,
+    "answer": "5",
+    "points": 3,
+    "predictions": [
+      "1",
+      "1",
+      "1"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.39034612973531085,
+    "input_tokens": [
+      1361,
+      1361,
+      1361
+    ]
+  },
+  {
+    "id": "even-speech-41",
+    "form": "even",
+    "section": "speech",
+    "number": 41,
+    "answer": "4",
+    "points": 2,
+    "predictions": [
+      "4",
+      "4",
+      "4"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.33902541796366376,
+    "input_tokens": [
+      1261,
+      1261,
+      1261
+    ]
+  },
+  {
+    "id": "even-speech-42",
+    "form": "even",
+    "section": "speech",
+    "number": 42,
+    "answer": "4",
+    "points": 2,
+    "predictions": [
+      "4",
+      "4",
+      "4"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.40157612164815265,
+    "input_tokens": [
+      1430,
+      1430,
+      1430
+    ]
+  },
+  {
+    "id": "even-speech-43",
+    "form": "even",
+    "section": "speech",
+    "number": 43,
+    "answer": "3",
+    "points": 2,
+    "predictions": [
+      "3",
+      "3",
+      "3"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.25185275077819824,
+    "input_tokens": [
+      952,
+      952,
+      952
+    ]
+  },
+  {
+    "id": "even-speech-44",
+    "form": "even",
+    "section": "speech",
+    "number": 44,
+    "answer": "2",
+    "points": 2,
+    "predictions": [
+      "2",
+      "2",
+      "2"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.2118072509765625,
+    "input_tokens": [
+      823,
+      823,
+      823
+    ]
+  },
+  {
+    "id": "even-speech-45",
+    "form": "even",
+    "section": "speech",
+    "number": 45,
+    "answer": "5",
+    "points": 3,
+    "predictions": [
+      "2",
+      "2",
+      "2"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.25725889205932617,
+    "input_tokens": [
+      973,
+      973,
+      973
+    ]
+  },
+  {
+    "id": "even-language-35",
+    "form": "even",
+    "section": "language",
+    "number": 35,
+    "answer": "3",
+    "points": 2,
+    "predictions": [
+      "2",
+      "2",
+      "2"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.2681550979614258,
+    "input_tokens": [
+      1038,
+      1038,
+      1038
+    ]
+  },
+  {
+    "id": "even-language-36",
+    "form": "even",
+    "section": "language",
+    "number": 36,
+    "answer": "2",
+    "points": 3,
+    "predictions": [
+      "3",
+      "3",
+      "3"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.37551530202229816,
+    "input_tokens": [
+      1304,
+      1304,
+      1304
+    ]
+  },
+  {
+    "id": "even-language-37",
+    "form": "even",
+    "section": "language",
+    "number": 37,
+    "answer": "4",
+    "points": 2,
+    "predictions": [
+      "3",
+      "3",
+      "3"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.07777659098307292,
+    "input_tokens": [
+      210,
+      210,
+      210
+    ]
+  },
+  {
+    "id": "even-language-38",
+    "form": "even",
+    "section": "language",
+    "number": 38,
+    "answer": "4",
+    "points": 2,
+    "predictions": [
+      "4",
+      "4",
+      "4"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.06773757934570312,
+    "input_tokens": [
+      361,
+      361,
+      361
+    ]
+  },
+  {
+    "id": "even-language-39",
+    "form": "even",
+    "section": "language",
+    "number": 39,
+    "answer": "1",
+    "points": 2,
+    "predictions": [
+      "4",
+      "4",
+      "4"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.06137625376383463,
+    "input_tokens": [
+      331,
+      331,
+      331
+    ]
+  },
+  {
+    "id": "even-language-40",
+    "form": "even",
+    "section": "language",
+    "number": 40,
+    "answer": "2",
+    "points": 2,
+    "predictions": [
+      "5",
+      "5",
+      "5"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.2136100927988688,
+    "input_tokens": [
+      1383,
+      1383,
+      1383
+    ]
+  },
+  {
+    "id": "even-language-41",
+    "form": "even",
+    "section": "language",
+    "number": 41,
+    "answer": "4",
+    "points": 2,
+    "predictions": [
+      "5",
+      "5",
+      "5"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.22227605183919272,
+    "input_tokens": [
+      1413,
+      1413,
+      1413
+    ]
+  },
+  {
+    "id": "even-language-42",
+    "form": "even",
+    "section": "language",
+    "number": 42,
+    "answer": "5",
+    "points": 3,
+    "predictions": [
+      "5",
+      "5",
+      "5"
+    ],
+    "correct": true,
+    "stable": true,
+    "mean_seconds": 0.2175006866455078,
+    "input_tokens": [
+      1481,
+      1481,
+      1481
+    ]
+  },
+  {
+    "id": "even-language-43",
+    "form": "even",
+    "section": "language",
+    "number": 43,
+    "answer": "2",
+    "points": 2,
+    "predictions": [
+      "5",
+      "5",
+      "5"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.2135012944539388,
+    "input_tokens": [
+      1406,
+      1406,
+      1406
+    ]
+  },
+  {
+    "id": "even-language-44",
+    "form": "even",
+    "section": "language",
+    "number": 44,
+    "answer": "4",
+    "points": 2,
+    "predictions": [
+      "1",
+      "1",
+      "1"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.18252038955688477,
+    "input_tokens": [
+      1146,
+      1146,
+      1146
+    ]
+  },
+  {
+    "id": "even-language-45",
+    "form": "even",
+    "section": "language",
+    "number": 45,
+    "answer": "3",
+    "points": 2,
+    "predictions": [
+      "4",
+      "4",
+      "4"
+    ],
+    "correct": false,
+    "stable": true,
+    "mean_seconds": 0.17806673049926758,
+    "input_tokens": [
+      1166,
+      1166,
+      1166
+    ]
+  }
+]

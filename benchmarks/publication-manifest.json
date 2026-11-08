@@ -1,0 +1,1716 @@
+{
+  "files": [
+    {
+      "path": "kanana-co-load-20261108-1489062/leader/glm-health-after.json",
+      "original_sha256": "377a477c52809642abdf8e0351fee157b9e2281e19401516432282117732ec6e",
+      "published_sha256": "377a477c52809642abdf8e0351fee157b9e2281e19401516432282117732ec6e",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/leader/glm-leader-after.log",
+      "original_sha256": "f9533c22cdb900eb367ebe0f1b91d87b04912352d774402e0c4098de7e990879",
+      "published_sha256": "463a5d53365354abbdb03f4bcdac0c1fbc360b8fe3ce12a8ee80dc1ad2a83ce1",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/leader/glm-smoke-after.json",
+      "original_sha256": "61673e779b336c06bf3bcb1448f9eaa44a52d597cfaf19faa851988f2a587d42",
+      "published_sha256": "61673e779b336c06bf3bcb1448f9eaa44a52d597cfaf19faa851988f2a587d42",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/leader/inspect-leader-after.json",
+      "original_sha256": "f0df7268e77eb5ff1a33de901fc645ee132add989fa07dfed199190e2a32fba8",
+      "published_sha256": "bcc2bfdd54b1c9916cbe7aff594ea22550d31cc3ccc1881d069b725cfba93e21",
+      "handling": "inspect: allowlist only; no Env, mounts, network, labels"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/leader/kernel-leader-after.log",
+      "original_sha256": "19c4e28b2f54ea8f217db4e622b0a5c758efa7b77ce2dc0394b6d159568c0b2e",
+      "published_sha256": "19c4e28b2f54ea8f217db4e622b0a5c758efa7b77ce2dc0394b6d159568c0b2e",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/complete",
+      "original_sha256": "9f56e761d79bfdb34304a012586cb04d16b435ef6130091a97702e559260a2f2",
+      "published_sha256": "9f56e761d79bfdb34304a012586cb04d16b435ef6130091a97702e559260a2f2",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/conditions.json",
+      "original_sha256": "440fc090ab21c212994b2e175060a390ffdf026f5afe61de44f7543c40d8a401",
+      "published_sha256": "440fc090ab21c212994b2e175060a390ffdf026f5afe61de44f7543c40d8a401",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/glm-health.json",
+      "original_sha256": "8ddbe42a93804d24ba32e8cc218102650b9dc12eb2fbd9581367c5bea72107d0",
+      "published_sha256": "8ddbe42a93804d24ba32e8cc218102650b9dc12eb2fbd9581367c5bea72107d0",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/glm-v1-models.json",
+      "original_sha256": "880afe2d9adee2ddf840eb44b5156463efa4fb95436fd9a5b4991d8af088bda6",
+      "published_sha256": "880afe2d9adee2ddf840eb44b5156463efa4fb95436fd9a5b4991d8af088bda6",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/glm-worker-after.log",
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "published_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/images10-c1-run1.json",
+      "original_sha256": "bbbe3db26eaaf20a77f4d6984fb49083b075a0c108a93ed11a3d788f56dd2a08",
+      "published_sha256": "bbbe3db26eaaf20a77f4d6984fb49083b075a0c108a93ed11a3d788f56dd2a08",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/images10-c1-run2.json",
+      "original_sha256": "d944d9b277daa3ce8f31eaeb1a7615970452967082e836a130d0645be86c3ab4",
+      "published_sha256": "d944d9b277daa3ce8f31eaeb1a7615970452967082e836a130d0645be86c3ab4",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/images10-c1-run3.json",
+      "original_sha256": "ac63244819da828c58976267ef6a431d77e549b30c36fb152859411354eec14f",
+      "published_sha256": "ac63244819da828c58976267ef6a431d77e549b30c36fb152859411354eec14f",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/inspect-after.json",
+      "original_sha256": "f681ed574428424843dac3350d3800b58b833452adc4a407afdf766b77cc8b4e",
+      "published_sha256": "2bb09cfd60161b2df271e9df26d0df647a7723eacc93d482d1b6e4fac63a7177",
+      "handling": "inspect: allowlist only; no Env, mounts, network, labels"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/inspect-before.json",
+      "original_sha256": "0c4f50c2c7e9105f460640e71bf9fe75611b4510dbba7b301ea5f74b77bd1850",
+      "published_sha256": "2bb09cfd60161b2df271e9df26d0df647a7723eacc93d482d1b6e4fac63a7177",
+      "handling": "inspect: allowlist only; no Env, mounts, network, labels"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/kanana-after.log",
+      "original_sha256": "d171834fb53c7af140f1be72e16057e698274abbe5c1437d40c85a604fb49f90",
+      "published_sha256": "d171834fb53c7af140f1be72e16057e698274abbe5c1437d40c85a604fb49f90",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/kanana-health-after.json",
+      "original_sha256": "c7ec9cbb45b8d980aadd30b4fbfda42c4e63935b33f53f914a7da9a092ab0fe7",
+      "published_sha256": "c7ec9cbb45b8d980aadd30b4fbfda42c4e63935b33f53f914a7da9a092ab0fe7",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/kanana-health.json",
+      "original_sha256": "c7ec9cbb45b8d980aadd30b4fbfda42c4e63935b33f53f914a7da9a092ab0fe7",
+      "published_sha256": "c7ec9cbb45b8d980aadd30b4fbfda42c4e63935b33f53f914a7da9a092ab0fe7",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/kanana-smoke-after.json",
+      "original_sha256": "36c34bb6993935e159a6b43f762939d814ab674abb7f3097e6ebf37d5a693d3b",
+      "published_sha256": "36c34bb6993935e159a6b43f762939d814ab674abb7f3097e6ebf37d5a693d3b",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/kanana-v1-models.json",
+      "original_sha256": "fe1d954bcc28271e43620d6369fefadbe20bc410c803e339d0bd8ee019d2a760",
+      "published_sha256": "fe1d954bcc28271e43620d6369fefadbe20bc410c803e339d0bd8ee019d2a760",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/kernel-worker-after.log",
+      "original_sha256": "19c4e28b2f54ea8f217db4e622b0a5c758efa7b77ce2dc0394b6d159568c0b2e",
+      "published_sha256": "19c4e28b2f54ea8f217db4e622b0a5c758efa7b77ce2dc0394b6d159568c0b2e",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/long-c1-run1.json",
+      "original_sha256": "2d6e10eb21d88aeae99b98cd9e683458c87965137decaebe71c5b893a257f61e",
+      "published_sha256": "2d6e10eb21d88aeae99b98cd9e683458c87965137decaebe71c5b893a257f61e",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/long-c1-run2.json",
+      "original_sha256": "a1d65e0841eb806a11ecb3d2a7bb4fba06a6a5253ea2ac449928786684b03f7b",
+      "published_sha256": "a1d65e0841eb806a11ecb3d2a7bb4fba06a6a5253ea2ac449928786684b03f7b",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/long-c1-run3.json",
+      "original_sha256": "c83d907d8168fc05c46f5dd1a977b614bfeef79ea9a59572f40553bdb5618973",
+      "published_sha256": "c83d907d8168fc05c46f5dd1a977b614bfeef79ea9a59572f40553bdb5618973",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/memory.jsonl",
+      "original_sha256": "2ce10a565994152203e11247beb6af14ba271bf89338381c19d2afda9a55ac9b",
+      "published_sha256": "2ce10a565994152203e11247beb6af14ba271bf89338381c19d2afda9a55ac9b",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/mixed-c6-run1.json",
+      "original_sha256": "5037628c9bf6dbc3c50134d398e407cfb8da2c06b1bd5b9528ccb97410aeb04a",
+      "published_sha256": "5037628c9bf6dbc3c50134d398e407cfb8da2c06b1bd5b9528ccb97410aeb04a",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/mixed-c6-run2.json",
+      "original_sha256": "00296daf8f09020764803b93cbec8103d48f17e36dbf5a8a9a9a3bf261b30584",
+      "published_sha256": "00296daf8f09020764803b93cbec8103d48f17e36dbf5a8a9a9a3bf261b30584",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/mixed-c6-run3.json",
+      "original_sha256": "e0e1a8066b699cc3efb01b342beec71022791dca1caa5bba7eaad79a9560f3c8",
+      "published_sha256": "e0e1a8066b699cc3efb01b342beec71022791dca1caa5bba7eaad79a9560f3c8",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/probe.log",
+      "original_sha256": "8dfca31cf06d6eed43d9c10977194f26d91bf46c3839d9ebd0e1aa6d71146096",
+      "published_sha256": "8dfca31cf06d6eed43d9c10977194f26d91bf46c3839d9ebd0e1aa6d71146096",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/requests.jsonl",
+      "original_sha256": "883eedc4b62ecf961fb86e8b2e80436c7ba762b928eecd1680a33d40d6afe9e7",
+      "published_sha256": "883eedc4b62ecf961fb86e8b2e80436c7ba762b928eecd1680a33d40d6afe9e7",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/short-c1-run1.json",
+      "original_sha256": "7a97b08458bc75c287dc0065ff42d264d33bf860732e5591683db9a4e892ad67",
+      "published_sha256": "7a97b08458bc75c287dc0065ff42d264d33bf860732e5591683db9a4e892ad67",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/short-c1-run2.json",
+      "original_sha256": "e795ce4311ff91ff959ec95758e99e2193df24129c97c43101e23fc448037c62",
+      "published_sha256": "e795ce4311ff91ff959ec95758e99e2193df24129c97c43101e23fc448037c62",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/short-c1-run3.json",
+      "original_sha256": "9143e59a2c6e647c22e94350f40296d2124b0623a782c82ecde2e6398e6c661c",
+      "published_sha256": "9143e59a2c6e647c22e94350f40296d2124b0623a782c82ecde2e6398e6c661c",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/started",
+      "original_sha256": "a6d8d9b0bea5d86b6592f3f7c6f7d027ab3ec24004538b79167b85e589b08f2e",
+      "published_sha256": "a6d8d9b0bea5d86b6592f3f7c6f7d027ab3ec24004538b79167b85e589b08f2e",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/summary.json",
+      "original_sha256": "bc6c2f62bd8b6d933bc70fcbe025093b6de213a3d7f0371ed0a145d0f80f578f",
+      "published_sha256": "bc6c2f62bd8b6d933bc70fcbe025093b6de213a3d7f0371ed0a145d0f80f578f",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/sustained-c1-run1.json",
+      "original_sha256": "e6ae7a802a82ae1f5e717df310e583ffea773f8e97406a06ab6f56951592c037",
+      "published_sha256": "e6ae7a802a82ae1f5e717df310e583ffea773f8e97406a06ab6f56951592c037",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/sustained-c1-run2.json",
+      "original_sha256": "8b21d331b542f5a82504e52111d40e95ddb7d0a5d7c5c1ef293d5c0c770b9da6",
+      "published_sha256": "8b21d331b542f5a82504e52111d40e95ddb7d0a5d7c5c1ef293d5c0c770b9da6",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/sustained-c1-run3.json",
+      "original_sha256": "dedd0d65074b86ae4259a92c70128fbb7576a5fd9bfd646a85bd6a1105fba7c2",
+      "published_sha256": "dedd0d65074b86ae4259a92c70128fbb7576a5fd9bfd646a85bd6a1105fba7c2",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-coexist-20261108-1489062/leader/glm-health.json",
+      "original_sha256": "8ddbe42a93804d24ba32e8cc218102650b9dc12eb2fbd9581367c5bea72107d0",
+      "published_sha256": "8ddbe42a93804d24ba32e8cc218102650b9dc12eb2fbd9581367c5bea72107d0",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-coexist-20261108-1489062/leader/glm-leader.log",
+      "original_sha256": "33bfbd0f45b4fd908fbb2595453e1005c3083a43ea06a40ced7f66b2ba1fe147",
+      "published_sha256": "70e3960677043fac27b5713ee1e0b84de69767c0a4fdd1de51b12da0c9647111",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-coexist-20261108-1489062/leader/glm-smoke.json",
+      "original_sha256": "3aba9d3f9032419b3c2dd1e089c50e52913647399ff64a72ba6123c47906a99f",
+      "published_sha256": "3aba9d3f9032419b3c2dd1e089c50e52913647399ff64a72ba6123c47906a99f",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-coexist-20261108-1489062/leader/kernel-leader.log",
+      "original_sha256": "19c4e28b2f54ea8f217db4e622b0a5c758efa7b77ce2dc0394b6d159568c0b2e",
+      "published_sha256": "19c4e28b2f54ea8f217db4e622b0a5c758efa7b77ce2dc0394b6d159568c0b2e",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-coexist-20261108-1489062/worker/glm-worker.log",
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "published_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-coexist-20261108-1489062/worker/health.json",
+      "original_sha256": "c7ec9cbb45b8d980aadd30b4fbfda42c4e63935b33f53f914a7da9a092ab0fe7",
+      "published_sha256": "c7ec9cbb45b8d980aadd30b4fbfda42c4e63935b33f53f914a7da9a092ab0fe7",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-coexist-20261108-1489062/worker/kanana.log",
+      "original_sha256": "815261d2ae929ed244905fcfa1409679217b102551707ce2f9e5629992601612",
+      "published_sha256": "815261d2ae929ed244905fcfa1409679217b102551707ce2f9e5629992601612",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-coexist-20261108-1489062/worker/kernel.log",
+      "original_sha256": "19c4e28b2f54ea8f217db4e622b0a5c758efa7b77ce2dc0394b6d159568c0b2e",
+      "published_sha256": "19c4e28b2f54ea8f217db4e622b0a5c758efa7b77ce2dc0394b6d159568c0b2e",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-coexist-20261108-1489062/worker/meminfo-before",
+      "original_sha256": "2c6568bf41c5a0986ba72fe7e74a5e80ad3efe08aa410984b2ed18c56f491e24",
+      "published_sha256": "2c6568bf41c5a0986ba72fe7e74a5e80ad3efe08aa410984b2ed18c56f491e24",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-coexist-20261108-1489062/worker/memory.jsonl",
+      "original_sha256": "a7a02e069ee59bc4f82dc40f439d5d98c527def1fac8dacf2e7a90c13d4fec50",
+      "published_sha256": "a7a02e069ee59bc4f82dc40f439d5d98c527def1fac8dacf2e7a90c13d4fec50",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-coexist-20261108-1489062/worker/models.json",
+      "original_sha256": "fe1d954bcc28271e43620d6369fefadbe20bc410c803e339d0bd8ee019d2a760",
+      "published_sha256": "fe1d954bcc28271e43620d6369fefadbe20bc410c803e339d0bd8ee019d2a760",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-coexist-20261108-1489062/worker/started",
+      "original_sha256": "b87003be143e7bf6fb337f3d87519f148b3a859589a7da15da725edeb89ccd65",
+      "published_sha256": "b87003be143e7bf6fb337f3d87519f148b3a859589a7da15da725edeb89ccd65",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-coexist-20261108-1489062/worker/warmup.json",
+      "original_sha256": "b649c9c3f8bc04d4590a84c324453512e7f4929b00165a5ef4ef689acd1df582",
+      "published_sha256": "b649c9c3f8bc04d4590a84c324453512e7f4929b00165a5ef4ef689acd1df582",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-csat-20261108-1489062/answer-key.json",
+      "original_sha256": "7b318ddf51ce3301f3ff166c26d88a4cd0c884024ae4cbe48cac4ac9ceaad799",
+      "published_sha256": "7b318ddf51ce3301f3ff166c26d88a4cd0c884024ae4cbe48cac4ac9ceaad799",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-csat-20261108-1489062/cases.json",
+      "original_sha256": "4e033218e16580fa56524658cea25669b43e9a4e3cdc919478f2da3d5f46f5fa",
+      "published_sha256": "4e033218e16580fa56524658cea25669b43e9a4e3cdc919478f2da3d5f46f5fa",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-csat-20261108-1489062/graded.csv",
+      "original_sha256": "3b40d98c21fd61daa267c2a9b7b1d737e22eb374f25a74c396d06328cdad98f7",
+      "published_sha256": "3b40d98c21fd61daa267c2a9b7b1d737e22eb374f25a74c396d06328cdad98f7",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-csat-20261108-1489062/graded.json",
+      "original_sha256": "475a2fb723c69ae71b0dd7d95a1e6136a7df9be18e9ec861faf3178d20a7172e",
+      "published_sha256": "475a2fb723c69ae71b0dd7d95a1e6136a7df9be18e9ec861faf3178d20a7172e",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-csat-20261108-1489062/kanana-csat-2026-11-08.md",
+      "original_sha256": "dab242e6e5e494c594a784b2dc8097ef169317003cb2b73f601f641676a45a76",
+      "published_sha256": "360840dd2fe66307600a249bc885f9a020b38eefb1466852ac17a5d340a3da20",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-csat-20261108-1489062/kanana-csat-20261108-1489062-run-1.jsonl",
+      "original_sha256": "58250c87faede8142d279a8314ce24000551ce3af9f423a52588021f23b6b7fd",
+      "published_sha256": "58250c87faede8142d279a8314ce24000551ce3af9f423a52588021f23b6b7fd",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-csat-20261108-1489062/kanana-csat-20261108-1489062-run-2.jsonl",
+      "original_sha256": "2d23dd359d0acc5fe09636f7d4090604b7ad9a81124a01b2b5b0de997782af9e",
+      "published_sha256": "2d23dd359d0acc5fe09636f7d4090604b7ad9a81124a01b2b5b0de997782af9e",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-csat-20261108-1489062/kanana-csat-20261108-1489062-run-3.jsonl",
+      "original_sha256": "d25fbaebc25ad162eb845cf446a5b96f556676c8134657e5338ef80353572822",
+      "published_sha256": "d25fbaebc25ad162eb845cf446a5b96f556676c8134657e5338ef80353572822",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-csat-20261108-1489062/kanana-csat-supplements-2026-11-08.json",
+      "original_sha256": "4ee3a2b1ae0a20b6d01f358231cc2e6db7e547533ce070d1756942a9eb1a92e3",
+      "published_sha256": "4ee3a2b1ae0a20b6d01f358231cc2e6db7e547533ce070d1756942a9eb1a92e3",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-csat-20261108-1489062/results.jsonl",
+      "original_sha256": "b530ee003297d2d122d38aa5206afd8dcee701029f5b4c5f917885222b42b3e0",
+      "published_sha256": "b530ee003297d2d122d38aa5206afd8dcee701029f5b4c5f917885222b42b3e0",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-csat-20261108-1489062/run.log",
+      "original_sha256": "bbf76cb37ce54e73c837d8253fe4c197c9eb7283af6a0ffd9a7d5361ed4531bc",
+      "published_sha256": "bbf76cb37ce54e73c837d8253fe4c197c9eb7283af6a0ffd9a7d5361ed4531bc",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-csat-20261108-1489062/source.json",
+      "original_sha256": "2859a736c9b0e68ef5a00faf1af7b3de00a56a0cd2fa1ab925cb63704c09f859",
+      "published_sha256": "2859a736c9b0e68ef5a00faf1af7b3de00a56a0cd2fa1ab925cb63704c09f859",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-csat-20261108-1489062/summary.json",
+      "original_sha256": "152099fffa274338074fb122e3c8ac12485b76ab9686a1eb28be0f67422550a6",
+      "published_sha256": "152099fffa274338074fb122e3c8ac12485b76ab9686a1eb28be0f67422550a6",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-csat-20261108-1489062/warmup.json",
+      "original_sha256": "1278821ae05c3f58a19e06c50cc7368961f65f9d2c1427ee5e93e0af974c9366",
+      "published_sha256": "1278821ae05c3f58a19e06c50cc7368961f65f9d2c1427ee5e93e0af974c9366",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/glm-after.log",
+      "original_sha256": "e340aa469fbd7676897cf596547b8bf92d8dc39e092d807ae9101c3ed3466550",
+      "published_sha256": "7f04e16ee52829715f7e5efcd3a45dc0ae09adf8c2c11d1c6a18f86c4b6e0268",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/glm-health.json",
+      "original_sha256": "ebc8359872ac5c48ee0fb8931c549a29881ed6f4fb6967085429600a0bcbc2dd",
+      "published_sha256": "ebc8359872ac5c48ee0fb8931c549a29881ed6f4fb6967085429600a0bcbc2dd",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/glm-memory-guard.log",
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "published_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/glm-smoke.json",
+      "original_sha256": "edd248909d19d06a72829a5896dec1a8a2fca5369aebb11825b5435618ed0e42",
+      "published_sha256": "edd248909d19d06a72829a5896dec1a8a2fca5369aebb11825b5435618ed0e42",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/glm-worker-after.log",
+      "original_sha256": "d016d63e2e9b5b51e1d672760c79c3b6d7bf79ae8209e9a0d791e73f97825ae4",
+      "published_sha256": "d016d63e2e9b5b51e1d672760c79c3b6d7bf79ae8209e9a0d791e73f97825ae4",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/rollout.log",
+      "original_sha256": "7975cece1decf6c190508eb181d8d50f4a6d7eabc94396d96339a58934481304",
+      "published_sha256": "7975cece1decf6c190508eb181d8d50f4a6d7eabc94396d96339a58934481304",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/complete",
+      "original_sha256": "9f56e761d79bfdb34304a012586cb04d16b435ef6130091a97702e559260a2f2",
+      "published_sha256": "9f56e761d79bfdb34304a012586cb04d16b435ef6130091a97702e559260a2f2",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/fixture-1280.png",
+      "original_sha256": "ed88071a0be0b10af1c7ac4269bd7cc94aeec1581098d6ad07ec110e134dfb06",
+      "published_sha256": "ed88071a0be0b10af1c7ac4269bd7cc94aeec1581098d6ad07ec110e134dfb06",
+      "handling": "unchanged binary synthetic fixture"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/fixture-512.png",
+      "original_sha256": "3e97670e355d78262a9fd885357a66336e5b0b0b65382a77a443b0ff3f3e9d85",
+      "published_sha256": "3e97670e355d78262a9fd885357a66336e5b0b0b65382a77a443b0ff3f3e9d85",
+      "handling": "unchanged binary synthetic fixture"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/health.json",
+      "original_sha256": "90b3d08532137de5d1cf0a779a506df3d16e5ff50e6ef8258681a5aac5c6e815",
+      "published_sha256": "90b3d08532137de5d1cf0a779a506df3d16e5ff50e6ef8258681a5aac5c6e815",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/http-smoke.json",
+      "original_sha256": "12bbae80da7e7145e96899ebf9aaf2735cfb3b3c664a77d938bf403949f6d596",
+      "published_sha256": "12bbae80da7e7145e96899ebf9aaf2735cfb3b3c664a77d938bf403949f6d596",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/kanana-memory-20261108-1489062-image-1280x1280-n1-run1.json",
+      "original_sha256": "b5d33c52d47075317c073cf33c7c505c2ce32be20f218671720a3aadd7fb0f61",
+      "published_sha256": "b5d33c52d47075317c073cf33c7c505c2ce32be20f218671720a3aadd7fb0f61",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/kanana-memory-20261108-1489062-image-1280x1280-n1-run2.json",
+      "original_sha256": "610696ab076ab0986f2d80f22a76dff9cab9574e458b492a48e0cb8d054ca435",
+      "published_sha256": "610696ab076ab0986f2d80f22a76dff9cab9574e458b492a48e0cb8d054ca435",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/kanana-memory-20261108-1489062-image-1280x1280-n1-run3.json",
+      "original_sha256": "6f6d7f8819fd83626141d5069c43a798d02ee3512b1a62a672729e1881fa9d7e",
+      "published_sha256": "6f6d7f8819fd83626141d5069c43a798d02ee3512b1a62a672729e1881fa9d7e",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/kanana-memory-20261108-1489062-image-512x512-n1-run1.json",
+      "original_sha256": "a5b81082a23fa25ebd13f3940a5bd3cdd7c788ee6e79b0097cd66f4a802e6684",
+      "published_sha256": "a5b81082a23fa25ebd13f3940a5bd3cdd7c788ee6e79b0097cd66f4a802e6684",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/kanana-memory-20261108-1489062-image-512x512-n1-run2.json",
+      "original_sha256": "b6705cf344129044d3c6104ac3db328fe966d9afcf8cd9c360d2073bb4cf9b29",
+      "published_sha256": "b6705cf344129044d3c6104ac3db328fe966d9afcf8cd9c360d2073bb4cf9b29",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/kanana-memory-20261108-1489062-image-512x512-n1-run3.json",
+      "original_sha256": "2c75fda7b9a52b67fe53b0cea1f475d286fba785e184ced4e52f69ce5c9240af",
+      "published_sha256": "2c75fda7b9a52b67fe53b0cea1f475d286fba785e184ced4e52f69ce5c9240af",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/kanana-memory-20261108-1489062-image-512x512-n10-run1.json",
+      "original_sha256": "86dcc8abf54db1a1d143eef92f696dc8f558b2b4e308d64a78794ea6dbf9aecd",
+      "published_sha256": "86dcc8abf54db1a1d143eef92f696dc8f558b2b4e308d64a78794ea6dbf9aecd",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/kanana-memory-20261108-1489062-image-512x512-n10-run2.json",
+      "original_sha256": "6399f4f0f6015cf9c6c19aaee64c3f1d98f6f3b850ff6344ecf3c1d39a029668",
+      "published_sha256": "6399f4f0f6015cf9c6c19aaee64c3f1d98f6f3b850ff6344ecf3c1d39a029668",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/kanana-memory-20261108-1489062-image-512x512-n10-run3.json",
+      "original_sha256": "64b442ee4261d271d6245f083d5cb0187a934224968821d1f3bd47c83bf69c60",
+      "published_sha256": "64b442ee4261d271d6245f083d5cb0187a934224968821d1f3bd47c83bf69c60",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/kanana-memory-20261108-1489062-load-run0.json",
+      "original_sha256": "53de79cb1a3a7efd29a5c7ea05b2d412f0d554f69c697f3cb8681b968734e9cf",
+      "published_sha256": "53de79cb1a3a7efd29a5c7ea05b2d412f0d554f69c697f3cb8681b968734e9cf",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/kanana-memory-20261108-1489062-text-20000-run1.json",
+      "original_sha256": "81733dbee21114a2c11a52b47c2b20dd829bab6cc0d50bd9b57733721c19b164",
+      "published_sha256": "81733dbee21114a2c11a52b47c2b20dd829bab6cc0d50bd9b57733721c19b164",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/kanana-memory-20261108-1489062-text-20000-run2.json",
+      "original_sha256": "1aa9cc2da2c81494cd4315c5eeaed2b60428279595d41de0082d2cf6628c1b48",
+      "published_sha256": "1aa9cc2da2c81494cd4315c5eeaed2b60428279595d41de0082d2cf6628c1b48",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/kanana-memory-20261108-1489062-text-20000-run3.json",
+      "original_sha256": "10167bdb7bd6adbcce9a6f1a7f389a705a532ffb24508e8ab6b02f91501b91fc",
+      "published_sha256": "10167bdb7bd6adbcce9a6f1a7f389a705a532ffb24508e8ab6b02f91501b91fc",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/kanana-memory-20261108-1489062-text-2048-run1.json",
+      "original_sha256": "124fbe2c8e034ae970fe4ef2bb4aa101e19c2d90acac8b6c45d3b5bea396c2fc",
+      "published_sha256": "124fbe2c8e034ae970fe4ef2bb4aa101e19c2d90acac8b6c45d3b5bea396c2fc",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/kanana-memory-20261108-1489062-text-2048-run2.json",
+      "original_sha256": "dfd5029584cd054677be4e10dc1be5d34f6926dc6547be4ca6f658a2d038cf7f",
+      "published_sha256": "dfd5029584cd054677be4e10dc1be5d34f6926dc6547be4ca6f658a2d038cf7f",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/kanana-memory-20261108-1489062-text-2048-run3.json",
+      "original_sha256": "7619800c2f4412f853f5772e88a6c54e3ae00e024ff1d03b69b18695ca68a8d6",
+      "published_sha256": "7619800c2f4412f853f5772e88a6c54e3ae00e024ff1d03b69b18695ca68a8d6",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/kanana-memory-20261108-1489062-text-256-run1.json",
+      "original_sha256": "01309326669b6bb5b3874cb145ea079b37942ed35eb76a8c97078fede1fcc201",
+      "published_sha256": "01309326669b6bb5b3874cb145ea079b37942ed35eb76a8c97078fede1fcc201",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/kanana-memory-20261108-1489062-text-256-run2.json",
+      "original_sha256": "24c66ec3691790e4d508dca942a7d2babba2347dd34ee2c11a3846744dff0d73",
+      "published_sha256": "24c66ec3691790e4d508dca942a7d2babba2347dd34ee2c11a3846744dff0d73",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/kanana-memory-20261108-1489062-text-256-run3.json",
+      "original_sha256": "93996e57e5eb12de8a8c80a13495552c5e71a785ab4bd12e13128f56a53db9e4",
+      "published_sha256": "93996e57e5eb12de8a8c80a13495552c5e71a785ab4bd12e13128f56a53db9e4",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/kanana-memory-20261108-1489062-text-8192-run1.json",
+      "original_sha256": "c3bd5faecfd149296677fbb1de7f0046225fbaac4c1e6aec4c6efcb3e6cd7e08",
+      "published_sha256": "c3bd5faecfd149296677fbb1de7f0046225fbaac4c1e6aec4c6efcb3e6cd7e08",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/kanana-memory-20261108-1489062-text-8192-run2.json",
+      "original_sha256": "3685900ea627330225c7cfc9554f391634bb64bd8df7412feb9396977da8ac95",
+      "published_sha256": "3685900ea627330225c7cfc9554f391634bb64bd8df7412feb9396977da8ac95",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/kanana-memory-20261108-1489062-text-8192-run3.json",
+      "original_sha256": "4d0fc8f219a0a2060566b16b092457a08c5f7fda2b3922016ac9c9549f3e8f8a",
+      "published_sha256": "4d0fc8f219a0a2060566b16b092457a08c5f7fda2b3922016ac9c9549f3e8f8a",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/kanana-memory-20261108-1489062-text-short-cached-run1.json",
+      "original_sha256": "7bd50d44720f97f2feb539a4f23993bea0868244185692e44fa5d3252d29d248",
+      "published_sha256": "7bd50d44720f97f2feb539a4f23993bea0868244185692e44fa5d3252d29d248",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/kanana-memory-20261108-1489062-text-short-cached-run2.json",
+      "original_sha256": "1e6d539236be20736ee99e7efb141ce2e90f8add4a96a80fb4e6c1d558146909",
+      "published_sha256": "1e6d539236be20736ee99e7efb141ce2e90f8add4a96a80fb4e6c1d558146909",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/kanana-memory-20261108-1489062-text-short-cached-run3.json",
+      "original_sha256": "27f9b7a3a768fb87875ee2c2956572064d2e71a5afcc5d8795d75e3c8ca943a9",
+      "published_sha256": "27f9b7a3a768fb87875ee2c2956572064d2e71a5afcc5d8795d75e3c8ca943a9",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/kanana-memory-20261108-1489062-warmup-run0.json",
+      "original_sha256": "6ce9f9707918d3d0021c1fb93d58954fd94b0aeffd6424137244f56cd6f3c713",
+      "published_sha256": "6ce9f9707918d3d0021c1fb93d58954fd94b0aeffd6424137244f56cd6f3c713",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/metadata.json",
+      "original_sha256": "8afa2c8e7e79d9c439724ced002d544d3593d075ae60d861afd32d8f8b00e90b",
+      "published_sha256": "8afa2c8e7e79d9c439724ced002d544d3593d075ae60d861afd32d8f8b00e90b",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/v1-models.json",
+      "original_sha256": "fe1d954bcc28271e43620d6369fefadbe20bc410c803e339d0bd8ee019d2a760",
+      "published_sha256": "fe1d954bcc28271e43620d6369fefadbe20bc410c803e339d0bd8ee019d2a760",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1.log",
+      "original_sha256": "b0ace4ab1eb69e9fb18492a623bc9e3011f595cf8f5d885265802e7f8da96ecd",
+      "published_sha256": "b0ace4ab1eb69e9fb18492a623bc9e3011f595cf8f5d885265802e7f8da96ecd",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/complete",
+      "original_sha256": "9f56e761d79bfdb34304a012586cb04d16b435ef6130091a97702e559260a2f2",
+      "published_sha256": "9f56e761d79bfdb34304a012586cb04d16b435ef6130091a97702e559260a2f2",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/fixture-1280.png",
+      "original_sha256": "ed88071a0be0b10af1c7ac4269bd7cc94aeec1581098d6ad07ec110e134dfb06",
+      "published_sha256": "ed88071a0be0b10af1c7ac4269bd7cc94aeec1581098d6ad07ec110e134dfb06",
+      "handling": "unchanged binary synthetic fixture"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/fixture-512.png",
+      "original_sha256": "3e97670e355d78262a9fd885357a66336e5b0b0b65382a77a443b0ff3f3e9d85",
+      "published_sha256": "3e97670e355d78262a9fd885357a66336e5b0b0b65382a77a443b0ff3f3e9d85",
+      "handling": "unchanged binary synthetic fixture"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/health.json",
+      "original_sha256": "90b3d08532137de5d1cf0a779a506df3d16e5ff50e6ef8258681a5aac5c6e815",
+      "published_sha256": "90b3d08532137de5d1cf0a779a506df3d16e5ff50e6ef8258681a5aac5c6e815",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/http-smoke.json",
+      "original_sha256": "12bbae80da7e7145e96899ebf9aaf2735cfb3b3c664a77d938bf403949f6d596",
+      "published_sha256": "12bbae80da7e7145e96899ebf9aaf2735cfb3b3c664a77d938bf403949f6d596",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/kanana-memory-20261108-1489062-image-1280x1280-n1-run1.json",
+      "original_sha256": "7e34f1fb672e8bcb1f6d0ebea78f2d402fd542e108966c74d8f48cd42dfacd6c",
+      "published_sha256": "7e34f1fb672e8bcb1f6d0ebea78f2d402fd542e108966c74d8f48cd42dfacd6c",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/kanana-memory-20261108-1489062-image-1280x1280-n1-run2.json",
+      "original_sha256": "6196614d8ae215449cdb54306338e1e1d4d4f8ffd6d6fd1085ff1c8555914c64",
+      "published_sha256": "6196614d8ae215449cdb54306338e1e1d4d4f8ffd6d6fd1085ff1c8555914c64",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/kanana-memory-20261108-1489062-image-1280x1280-n1-run3.json",
+      "original_sha256": "1e9bd2aa9d1c709e5fcc0887015809dd0544a7395f2a55964b526099ba82ced6",
+      "published_sha256": "1e9bd2aa9d1c709e5fcc0887015809dd0544a7395f2a55964b526099ba82ced6",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/kanana-memory-20261108-1489062-image-512x512-n1-run1.json",
+      "original_sha256": "099251aa2785bd359b1fe21c630191d6786f8512d96355ccff097ade74890d75",
+      "published_sha256": "099251aa2785bd359b1fe21c630191d6786f8512d96355ccff097ade74890d75",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/kanana-memory-20261108-1489062-image-512x512-n1-run2.json",
+      "original_sha256": "78b1ff1f05ece4d2ad3f0fb88ceda497befd4becdcf3f9bb4a2968a6cd196f9e",
+      "published_sha256": "78b1ff1f05ece4d2ad3f0fb88ceda497befd4becdcf3f9bb4a2968a6cd196f9e",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/kanana-memory-20261108-1489062-image-512x512-n1-run3.json",
+      "original_sha256": "8a3fb261b1bcf3cd209debc71beea6946e946d015c13927a8158c9b75e9f4c3f",
+      "published_sha256": "8a3fb261b1bcf3cd209debc71beea6946e946d015c13927a8158c9b75e9f4c3f",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/kanana-memory-20261108-1489062-image-512x512-n10-run1.json",
+      "original_sha256": "49b5a291e6ed606f951af501a9ddf46a956cc74ff1192506750524ef3f94285e",
+      "published_sha256": "49b5a291e6ed606f951af501a9ddf46a956cc74ff1192506750524ef3f94285e",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/kanana-memory-20261108-1489062-image-512x512-n10-run2.json",
+      "original_sha256": "9adc3ea2c46ddeeeccd84d4f7a79295008dc0b61f333178266f50d55a39bd89d",
+      "published_sha256": "9adc3ea2c46ddeeeccd84d4f7a79295008dc0b61f333178266f50d55a39bd89d",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/kanana-memory-20261108-1489062-image-512x512-n10-run3.json",
+      "original_sha256": "c1956eebac8c58739e21dc9155cd78b9db60a3a3cc6a26cd3f43f59d91503124",
+      "published_sha256": "c1956eebac8c58739e21dc9155cd78b9db60a3a3cc6a26cd3f43f59d91503124",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/kanana-memory-20261108-1489062-load-run0.json",
+      "original_sha256": "248f77bf6450e579c82cfef37bef5c4e8f9dd0f29d4e676309d24f101af3c35f",
+      "published_sha256": "248f77bf6450e579c82cfef37bef5c4e8f9dd0f29d4e676309d24f101af3c35f",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/kanana-memory-20261108-1489062-text-20000-run1.json",
+      "original_sha256": "47cd9b5ef18bd9ed8395d25e55536c9ea462cc634182c9aa82029117bc8422de",
+      "published_sha256": "47cd9b5ef18bd9ed8395d25e55536c9ea462cc634182c9aa82029117bc8422de",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/kanana-memory-20261108-1489062-text-20000-run2.json",
+      "original_sha256": "d023f3fee1979d085ea141e6ea7f50d7910743d4b81715f0956b0f4e362c91de",
+      "published_sha256": "d023f3fee1979d085ea141e6ea7f50d7910743d4b81715f0956b0f4e362c91de",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/kanana-memory-20261108-1489062-text-20000-run3.json",
+      "original_sha256": "6a39d91a2c592230d9ac7579a50c14214bf16603142d5c6053b7dbd6e9a02653",
+      "published_sha256": "6a39d91a2c592230d9ac7579a50c14214bf16603142d5c6053b7dbd6e9a02653",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/kanana-memory-20261108-1489062-text-2048-run1.json",
+      "original_sha256": "9efc8c381909428f77b2a8e627ae16f5338836defe2bf744f3d6cbd47397141f",
+      "published_sha256": "9efc8c381909428f77b2a8e627ae16f5338836defe2bf744f3d6cbd47397141f",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/kanana-memory-20261108-1489062-text-2048-run2.json",
+      "original_sha256": "ac2bcd545083d8bda55c687cb6fb42dd31f0dd36baba3bd7d33f68b872265715",
+      "published_sha256": "ac2bcd545083d8bda55c687cb6fb42dd31f0dd36baba3bd7d33f68b872265715",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/kanana-memory-20261108-1489062-text-2048-run3.json",
+      "original_sha256": "402d5012552844ad8a0e5bdca239d950bb4eac46ab0cca3843d06f8282439769",
+      "published_sha256": "402d5012552844ad8a0e5bdca239d950bb4eac46ab0cca3843d06f8282439769",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/kanana-memory-20261108-1489062-text-256-run1.json",
+      "original_sha256": "41b3875420733ded38d3051b16b0084c29c9fe528b16ee7804c8d5da140d5c4d",
+      "published_sha256": "41b3875420733ded38d3051b16b0084c29c9fe528b16ee7804c8d5da140d5c4d",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/kanana-memory-20261108-1489062-text-256-run2.json",
+      "original_sha256": "cbbf06e7ba96c423dafcde93695203caac261fd3dba565415734c4d28f66e037",
+      "published_sha256": "cbbf06e7ba96c423dafcde93695203caac261fd3dba565415734c4d28f66e037",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/kanana-memory-20261108-1489062-text-256-run3.json",
+      "original_sha256": "3a752f03acc456a890bfe25c5d57b24511ca973b8c548e947264427fa068564a",
+      "published_sha256": "3a752f03acc456a890bfe25c5d57b24511ca973b8c548e947264427fa068564a",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/kanana-memory-20261108-1489062-text-8192-run1.json",
+      "original_sha256": "4320f3081439684b1ab7bede5a83718a501db63b235d7650acf2d84f313bfdae",
+      "published_sha256": "4320f3081439684b1ab7bede5a83718a501db63b235d7650acf2d84f313bfdae",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/kanana-memory-20261108-1489062-text-8192-run2.json",
+      "original_sha256": "0e9443fb65bed3cfba9a9fd6de51edec64f77c0ef12e5a653306079e028737db",
+      "published_sha256": "0e9443fb65bed3cfba9a9fd6de51edec64f77c0ef12e5a653306079e028737db",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/kanana-memory-20261108-1489062-text-8192-run3.json",
+      "original_sha256": "1457241dd35e203b87db456687ff6e38b60c7bcceefb570d5f78ac7a9f4c7542",
+      "published_sha256": "1457241dd35e203b87db456687ff6e38b60c7bcceefb570d5f78ac7a9f4c7542",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/kanana-memory-20261108-1489062-text-short-cached-run1.json",
+      "original_sha256": "559ba185344274b7b93af35b5759d6c0c779f9ecef58e1a7de058ac46ae0bf94",
+      "published_sha256": "559ba185344274b7b93af35b5759d6c0c779f9ecef58e1a7de058ac46ae0bf94",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/kanana-memory-20261108-1489062-text-short-cached-run2.json",
+      "original_sha256": "b3e6a1cb7ed51e050d4c016b601c48369ee3896f737b5631b5e113650a2ccc24",
+      "published_sha256": "b3e6a1cb7ed51e050d4c016b601c48369ee3896f737b5631b5e113650a2ccc24",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/kanana-memory-20261108-1489062-text-short-cached-run3.json",
+      "original_sha256": "4afe7e453d24cf8e4c12297d02c2d2ad821265a44a6541f9a079ad0af8077a28",
+      "published_sha256": "4afe7e453d24cf8e4c12297d02c2d2ad821265a44a6541f9a079ad0af8077a28",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/kanana-memory-20261108-1489062-warmup-run0.json",
+      "original_sha256": "5a03b1b9010dab06279bb6cb8fc1e94be8f7bc99c19ddf96589ac1db17114f9c",
+      "published_sha256": "5a03b1b9010dab06279bb6cb8fc1e94be8f7bc99c19ddf96589ac1db17114f9c",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/metadata.json",
+      "original_sha256": "9122c2dfd02abbc926b7c3be358fb70ffc7dca6b2115d58024d8554c6c506300",
+      "published_sha256": "9122c2dfd02abbc926b7c3be358fb70ffc7dca6b2115d58024d8554c6c506300",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/v1-models.json",
+      "original_sha256": "fe1d954bcc28271e43620d6369fefadbe20bc410c803e339d0bd8ee019d2a760",
+      "published_sha256": "fe1d954bcc28271e43620d6369fefadbe20bc410c803e339d0bd8ee019d2a760",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2.log",
+      "original_sha256": "50aecc75bf349eb39792c4956da36cc6bdddc2f736d54a4be24d601e185355fe",
+      "published_sha256": "50aecc75bf349eb39792c4956da36cc6bdddc2f736d54a4be24d601e185355fe",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/complete",
+      "original_sha256": "9f56e761d79bfdb34304a012586cb04d16b435ef6130091a97702e559260a2f2",
+      "published_sha256": "9f56e761d79bfdb34304a012586cb04d16b435ef6130091a97702e559260a2f2",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/fixture-1280.png",
+      "original_sha256": "ed88071a0be0b10af1c7ac4269bd7cc94aeec1581098d6ad07ec110e134dfb06",
+      "published_sha256": "ed88071a0be0b10af1c7ac4269bd7cc94aeec1581098d6ad07ec110e134dfb06",
+      "handling": "unchanged binary synthetic fixture"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/fixture-512.png",
+      "original_sha256": "3e97670e355d78262a9fd885357a66336e5b0b0b65382a77a443b0ff3f3e9d85",
+      "published_sha256": "3e97670e355d78262a9fd885357a66336e5b0b0b65382a77a443b0ff3f3e9d85",
+      "handling": "unchanged binary synthetic fixture"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/health.json",
+      "original_sha256": "90b3d08532137de5d1cf0a779a506df3d16e5ff50e6ef8258681a5aac5c6e815",
+      "published_sha256": "90b3d08532137de5d1cf0a779a506df3d16e5ff50e6ef8258681a5aac5c6e815",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/http-smoke.json",
+      "original_sha256": "12bbae80da7e7145e96899ebf9aaf2735cfb3b3c664a77d938bf403949f6d596",
+      "published_sha256": "12bbae80da7e7145e96899ebf9aaf2735cfb3b3c664a77d938bf403949f6d596",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/kanana-memory-20261108-1489062-image-1280x1280-n1-run1.json",
+      "original_sha256": "fb8d9e4d7ad131c34e61969bdbe880d560439244cdf17e660485086bf5017945",
+      "published_sha256": "fb8d9e4d7ad131c34e61969bdbe880d560439244cdf17e660485086bf5017945",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/kanana-memory-20261108-1489062-image-1280x1280-n1-run2.json",
+      "original_sha256": "86ab624a44effae3fbdb5c2960d2efd93211d30255ee97006a85370e4fd58326",
+      "published_sha256": "86ab624a44effae3fbdb5c2960d2efd93211d30255ee97006a85370e4fd58326",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/kanana-memory-20261108-1489062-image-1280x1280-n1-run3.json",
+      "original_sha256": "7dca5c300881fcb895b0a186478d7bb4740ea07eeaf824af97d531797710e5bf",
+      "published_sha256": "7dca5c300881fcb895b0a186478d7bb4740ea07eeaf824af97d531797710e5bf",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/kanana-memory-20261108-1489062-image-512x512-n1-run1.json",
+      "original_sha256": "80e9c2d93f130fbe406c86350557cc2699a396e78cd2e8692450c10a19b8b398",
+      "published_sha256": "80e9c2d93f130fbe406c86350557cc2699a396e78cd2e8692450c10a19b8b398",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/kanana-memory-20261108-1489062-image-512x512-n1-run2.json",
+      "original_sha256": "c72d93188fa91f33e916ed5daa5a27a4cd09021213b6615635b9fac26a95869f",
+      "published_sha256": "c72d93188fa91f33e916ed5daa5a27a4cd09021213b6615635b9fac26a95869f",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/kanana-memory-20261108-1489062-image-512x512-n1-run3.json",
+      "original_sha256": "6ae52a41d30f29aeac18604df6dc30a16eee92d6e9b5100dedfa3dd1564c8c1d",
+      "published_sha256": "6ae52a41d30f29aeac18604df6dc30a16eee92d6e9b5100dedfa3dd1564c8c1d",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/kanana-memory-20261108-1489062-image-512x512-n10-run1.json",
+      "original_sha256": "82cfd17f2303a5801fb500fff88008fc549b7127d5d42d806163da6dea4c9689",
+      "published_sha256": "82cfd17f2303a5801fb500fff88008fc549b7127d5d42d806163da6dea4c9689",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/kanana-memory-20261108-1489062-image-512x512-n10-run2.json",
+      "original_sha256": "15b64f93821dc5e109491400f1e5ef14b09a65eb57715fb685fb5a31b723f07c",
+      "published_sha256": "15b64f93821dc5e109491400f1e5ef14b09a65eb57715fb685fb5a31b723f07c",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/kanana-memory-20261108-1489062-image-512x512-n10-run3.json",
+      "original_sha256": "fe69eb6306c0770900e4f04f2648d31bf787b33824a7e1bfbbb536485c35134b",
+      "published_sha256": "fe69eb6306c0770900e4f04f2648d31bf787b33824a7e1bfbbb536485c35134b",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/kanana-memory-20261108-1489062-load-run0.json",
+      "original_sha256": "3041bfe21745c7f2dfc1095a7a49e535cd288a4d6ef3b732a6d7e5f0a220af96",
+      "published_sha256": "3041bfe21745c7f2dfc1095a7a49e535cd288a4d6ef3b732a6d7e5f0a220af96",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/kanana-memory-20261108-1489062-text-20000-run1.json",
+      "original_sha256": "1f93dce437658ff5c47720144f42e38c04c6d56b6e73633387529d09c2aa7723",
+      "published_sha256": "1f93dce437658ff5c47720144f42e38c04c6d56b6e73633387529d09c2aa7723",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/kanana-memory-20261108-1489062-text-20000-run2.json",
+      "original_sha256": "c1d83d6a53099e65bf084fedfe423818dfcc908b6d1ba6e746a114977cc2a2fa",
+      "published_sha256": "c1d83d6a53099e65bf084fedfe423818dfcc908b6d1ba6e746a114977cc2a2fa",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/kanana-memory-20261108-1489062-text-20000-run3.json",
+      "original_sha256": "2f176fdf207f8fa0f982dea3ce58237816b8c9337a70f7f7d10c770087715477",
+      "published_sha256": "2f176fdf207f8fa0f982dea3ce58237816b8c9337a70f7f7d10c770087715477",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/kanana-memory-20261108-1489062-text-2048-run1.json",
+      "original_sha256": "ce2c1cfe125bed5e8e2d76c2c1f6bb80e5fb08479e96acb1ef76323719260317",
+      "published_sha256": "ce2c1cfe125bed5e8e2d76c2c1f6bb80e5fb08479e96acb1ef76323719260317",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/kanana-memory-20261108-1489062-text-2048-run2.json",
+      "original_sha256": "fc5e5dcc29043229f03678fb99fbf9284c2a4f4a54b129323b28f341c5068580",
+      "published_sha256": "fc5e5dcc29043229f03678fb99fbf9284c2a4f4a54b129323b28f341c5068580",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/kanana-memory-20261108-1489062-text-2048-run3.json",
+      "original_sha256": "61b2d7ce17a27472e6f7a773fe75e4426806c4c7ca98394c61c347f3d5a58ba2",
+      "published_sha256": "61b2d7ce17a27472e6f7a773fe75e4426806c4c7ca98394c61c347f3d5a58ba2",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/kanana-memory-20261108-1489062-text-256-run1.json",
+      "original_sha256": "6b50bc24b9b1f99dd3cb46d40db197e4cf01fc7e29c62294688c94e1ce2429d3",
+      "published_sha256": "6b50bc24b9b1f99dd3cb46d40db197e4cf01fc7e29c62294688c94e1ce2429d3",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/kanana-memory-20261108-1489062-text-256-run2.json",
+      "original_sha256": "fbc0efb375c21400640d49a93c4a9cb0a3d3aff1ec1c3775ef63245e586141e4",
+      "published_sha256": "fbc0efb375c21400640d49a93c4a9cb0a3d3aff1ec1c3775ef63245e586141e4",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/kanana-memory-20261108-1489062-text-256-run3.json",
+      "original_sha256": "5df1232bff3b9757cacd453d1bceb170dd60f8e94bcfad71bfd60c38c69634f0",
+      "published_sha256": "5df1232bff3b9757cacd453d1bceb170dd60f8e94bcfad71bfd60c38c69634f0",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/kanana-memory-20261108-1489062-text-8192-run1.json",
+      "original_sha256": "12b703c4012d8090db2c1f275e3ff45385335541c02f5b5453430277506404a6",
+      "published_sha256": "12b703c4012d8090db2c1f275e3ff45385335541c02f5b5453430277506404a6",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/kanana-memory-20261108-1489062-text-8192-run2.json",
+      "original_sha256": "c34befda3b038a44cb3813a34e5e61553e20b0c743e962585b69f306e3102d32",
+      "published_sha256": "c34befda3b038a44cb3813a34e5e61553e20b0c743e962585b69f306e3102d32",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/kanana-memory-20261108-1489062-text-8192-run3.json",
+      "original_sha256": "d8fe64552de1bba2e4637c97887aec76695f42055e13859fd2e341139b51d4c4",
+      "published_sha256": "d8fe64552de1bba2e4637c97887aec76695f42055e13859fd2e341139b51d4c4",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/kanana-memory-20261108-1489062-text-short-cached-run1.json",
+      "original_sha256": "ae1757f3e0aa31a2070aa88718361342aa3b128943ff173cea289b2a048a44d8",
+      "published_sha256": "ae1757f3e0aa31a2070aa88718361342aa3b128943ff173cea289b2a048a44d8",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/kanana-memory-20261108-1489062-text-short-cached-run2.json",
+      "original_sha256": "8e70c127d15063339ff618cb1239bc2325f4ed8cbf1bcb9aa2cce15fea9e2c0c",
+      "published_sha256": "8e70c127d15063339ff618cb1239bc2325f4ed8cbf1bcb9aa2cce15fea9e2c0c",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/kanana-memory-20261108-1489062-text-short-cached-run3.json",
+      "original_sha256": "6cdf5fc72bf1b7b5ab34ac13291c827449634cd022fe1115ccebbbf9c22070bd",
+      "published_sha256": "6cdf5fc72bf1b7b5ab34ac13291c827449634cd022fe1115ccebbbf9c22070bd",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/kanana-memory-20261108-1489062-warmup-run0.json",
+      "original_sha256": "083152f65c5e0db8c48e1d963815b357234d9ee948f83f1efb5495778545639c",
+      "published_sha256": "083152f65c5e0db8c48e1d963815b357234d9ee948f83f1efb5495778545639c",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/metadata.json",
+      "original_sha256": "1e76db06d361e23aa0c089f9a0920f730890f931d2d93a42c23e8ef9412f0164",
+      "published_sha256": "1e76db06d361e23aa0c089f9a0920f730890f931d2d93a42c23e8ef9412f0164",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/v1-models.json",
+      "original_sha256": "fe1d954bcc28271e43620d6369fefadbe20bc410c803e339d0bd8ee019d2a760",
+      "published_sha256": "fe1d954bcc28271e43620d6369fefadbe20bc410c803e339d0bd8ee019d2a760",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3.log",
+      "original_sha256": "08d190346736a5ed120bbb42a938e9fe99f85155fc26338126817a6ce3effc10",
+      "published_sha256": "08d190346736a5ed120bbb42a938e9fe99f85155fc26338126817a6ce3effc10",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/started",
+      "original_sha256": "f2cf707bc0ac482091d7db4ff778abd527df084f85da8fc4b68bb61e2d5e6d02",
+      "published_sha256": "f2cf707bc0ac482091d7db4ff778abd527df084f85da8fc4b68bb61e2d5e6d02",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/complete",
+      "original_sha256": "9f56e761d79bfdb34304a012586cb04d16b435ef6130091a97702e559260a2f2",
+      "published_sha256": "9f56e761d79bfdb34304a012586cb04d16b435ef6130091a97702e559260a2f2",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/container-inspect.json",
+      "original_sha256": "1e2cdbc9109141a9a882f374d0fc95786ff2e03c1f1bc912cb8d4a32715193cb",
+      "published_sha256": "4a01e83e4ed963b06e13264c281caa72b808b86de4f7f22db344f919458e5ce9",
+      "handling": "inspect: allowlist only; no Env, mounts, network, labels"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/fixtures.json",
+      "original_sha256": "0a1daa22ebd02b48f4ac41a47b9d0a043f532eb14dca0937ffc49d2f91e3d91b",
+      "published_sha256": "0a1daa22ebd02b48f4ac41a47b9d0a043f532eb14dca0937ffc49d2f91e3d91b",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/glm-after.log",
+      "original_sha256": "e6589a78768b8aa265374211b010763f93168779c25492eca8701eeaf33ab748",
+      "published_sha256": "75616035401c4e60a8d232693456833fadf9f5a5d80842ef7f7bbc81e5bdcb5d",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/glm-health.json",
+      "original_sha256": "45c9b1039a14bfdb5b234ce4aa28fc7bc1a87081f0555114d48ef4595132dcbc",
+      "published_sha256": "45c9b1039a14bfdb5b234ce4aa28fc7bc1a87081f0555114d48ef4595132dcbc",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/glm-inspect.json",
+      "original_sha256": "f0df7268e77eb5ff1a33de901fc645ee132add989fa07dfed199190e2a32fba8",
+      "published_sha256": "bcc2bfdd54b1c9916cbe7aff594ea22550d31cc3ccc1881d069b725cfba93e21",
+      "handling": "inspect: allowlist only; no Env, mounts, network, labels"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/glm-memory-guard.log",
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "published_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/glm-models.json",
+      "original_sha256": "4a325dfc979dbed10e8b0fffeb424e8eab19f6b4b1a0ac82627bf413ec5d3498",
+      "published_sha256": "4a325dfc979dbed10e8b0fffeb424e8eab19f6b4b1a0ac82627bf413ec5d3498",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/glm-smoke.json",
+      "original_sha256": "b0b4a799cab3450ad946a25f6ebfb3f5e1fb3bb759ec1c7b6407ae65d841f9bb",
+      "published_sha256": "b0b4a799cab3450ad946a25f6ebfb3f5e1fb3bb759ec1c7b6407ae65d841f9bb",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/glm-worker-after.log",
+      "original_sha256": "14ff706025b81509d3f8c0c5a18d97a149cca9cd26b93a05f5107d3aec1941a4",
+      "published_sha256": "14ff706025b81509d3f8c0c5a18d97a149cca9cd26b93a05f5107d3aec1941a4",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/glm-worker-inspect.json",
+      "original_sha256": "f71caaaebe98711408a202c74372e723e23a6e2d2fffd7748f42675e543e6f22",
+      "published_sha256": "2af663784dbff751dea2f4ce3a404d65229b9795f3e07384386a9e7993d185cb",
+      "handling": "inspect: allowlist only; no Env, mounts, network, labels"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/health.json",
+      "original_sha256": "c7ec9cbb45b8d980aadd30b4fbfda42c4e63935b33f53f914a7da9a092ab0fe7",
+      "published_sha256": "c7ec9cbb45b8d980aadd30b4fbfda42c4e63935b33f53f914a7da9a092ab0fe7",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/idle-30s.json",
+      "original_sha256": "e17ce93b56cecf5619710625ec82aebf4cd49b5c409ee5d0b34c02746b0d48b0",
+      "published_sha256": "e17ce93b56cecf5619710625ec82aebf4cd49b5c409ee5d0b34c02746b0d48b0",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/images10-c1-run1.json",
+      "original_sha256": "652667c9efa8333312103c7598e31cfca7273621a57a89095e99d5650036e8ac",
+      "published_sha256": "652667c9efa8333312103c7598e31cfca7273621a57a89095e99d5650036e8ac",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/images10-c1-run2.json",
+      "original_sha256": "b7e0b6379d37106a081632054b94fc586eee71bbdebc796894b0a614d5891a99",
+      "published_sha256": "b7e0b6379d37106a081632054b94fc586eee71bbdebc796894b0a614d5891a99",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/images10-c1-run3.json",
+      "original_sha256": "666d33a8378490fc2c595a818c1a9704f1e9b634808c0c6682b8191264e397b0",
+      "published_sha256": "666d33a8378490fc2c595a818c1a9704f1e9b634808c0c6682b8191264e397b0",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/kernel-after.log",
+      "original_sha256": "19c4e28b2f54ea8f217db4e622b0a5c758efa7b77ce2dc0394b6d159568c0b2e",
+      "published_sha256": "19c4e28b2f54ea8f217db4e622b0a5c758efa7b77ce2dc0394b6d159568c0b2e",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/kernel-worker-after.log",
+      "original_sha256": "19c4e28b2f54ea8f217db4e622b0a5c758efa7b77ce2dc0394b6d159568c0b2e",
+      "published_sha256": "19c4e28b2f54ea8f217db4e622b0a5c758efa7b77ce2dc0394b6d159568c0b2e",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/load.json",
+      "original_sha256": "7e98179ca06dd2dc95bd9e8d7df17d801203afccac1b5d65210b22f49125a491",
+      "published_sha256": "7e98179ca06dd2dc95bd9e8d7df17d801203afccac1b5d65210b22f49125a491",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/long-c1-run1.json",
+      "original_sha256": "b40d202932d018e9f2770ee66f9df1d4311bcef694dbf4e8a846c54988a75f3a",
+      "published_sha256": "b40d202932d018e9f2770ee66f9df1d4311bcef694dbf4e8a846c54988a75f3a",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/long-c1-run2.json",
+      "original_sha256": "e7732e0348cdaa2223c904289ce2c5b9bf9de347f563c38b8ef80578dea22e0c",
+      "published_sha256": "e7732e0348cdaa2223c904289ce2c5b9bf9de347f563c38b8ef80578dea22e0c",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/long-c1-run3.json",
+      "original_sha256": "f2e6e80877202650f01cdec42998970ce4c1d96e84ac28c83779e6ac8d48a6ac",
+      "published_sha256": "f2e6e80877202650f01cdec42998970ce4c1d96e84ac28c83779e6ac8d48a6ac",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/memory.jsonl",
+      "original_sha256": "2006ba0bc3a06cd6426542c2b8930472cd0ebaa48634599319b3b42f16a1a23a",
+      "published_sha256": "2006ba0bc3a06cd6426542c2b8930472cd0ebaa48634599319b3b42f16a1a23a",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/mixed-c1-run1.json",
+      "original_sha256": "2c69a5b5407ad73b018208c11d1d8ade5b8eec03a5bc44863013d50ab3c348b1",
+      "published_sha256": "2c69a5b5407ad73b018208c11d1d8ade5b8eec03a5bc44863013d50ab3c348b1",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/mixed-c1-run2.json",
+      "original_sha256": "7e09281f68486dddd00665a23e61d4a7bfa95c3b7843c186fba1fcc111c0ac45",
+      "published_sha256": "7e09281f68486dddd00665a23e61d4a7bfa95c3b7843c186fba1fcc111c0ac45",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/mixed-c1-run3.json",
+      "original_sha256": "ee86d7bc1357689fa2cdd4ed8b360f5ce98253e915391a7846eab00cb4ec4df7",
+      "published_sha256": "ee86d7bc1357689fa2cdd4ed8b360f5ce98253e915391a7846eab00cb4ec4df7",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/mixed-c2-run1.json",
+      "original_sha256": "c2c00f8f71502b2562c63d8fd48f23b8bf30f3d176ef1631f97fd177aebb9f0f",
+      "published_sha256": "c2c00f8f71502b2562c63d8fd48f23b8bf30f3d176ef1631f97fd177aebb9f0f",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/mixed-c2-run2.json",
+      "original_sha256": "28accd069175c95cf6260a83e1cb50ce19973d83f7776ded306c285b48da723c",
+      "published_sha256": "28accd069175c95cf6260a83e1cb50ce19973d83f7776ded306c285b48da723c",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/mixed-c2-run3.json",
+      "original_sha256": "cf641cf937e0a5cbf7e163deda02dbe7a88a1e5553f2b456e95be28cdc212ff8",
+      "published_sha256": "cf641cf937e0a5cbf7e163deda02dbe7a88a1e5553f2b456e95be28cdc212ff8",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/mixed-c4-run1.json",
+      "original_sha256": "18c1d93bce4a5f0d8ad169de4711ed63f53b46f695d2f0e2e04a52bbaf4cf805",
+      "published_sha256": "18c1d93bce4a5f0d8ad169de4711ed63f53b46f695d2f0e2e04a52bbaf4cf805",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/mixed-c4-run2.json",
+      "original_sha256": "b33020265edf50f76508555be557c756d693acce91f0ec28a8bac31040231121",
+      "published_sha256": "b33020265edf50f76508555be557c756d693acce91f0ec28a8bac31040231121",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/mixed-c4-run3.json",
+      "original_sha256": "e9c580f0dae4ce280a0c96c215a24a9609d6964603cd096c28600d12aea4e09e",
+      "published_sha256": "e9c580f0dae4ce280a0c96c215a24a9609d6964603cd096c28600d12aea4e09e",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/mixed-c6-run1.json",
+      "original_sha256": "0434a657291479e063cffc8f698dfe3ba2d8734d6e495a0cd4804f5dda76183a",
+      "published_sha256": "0434a657291479e063cffc8f698dfe3ba2d8734d6e495a0cd4804f5dda76183a",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/mixed-c6-run2.json",
+      "original_sha256": "133f0bce026ed637bccb986d796e3df9aadc6ef27c3ae5ca5cb8ada7d84f221b",
+      "published_sha256": "133f0bce026ed637bccb986d796e3df9aadc6ef27c3ae5ca5cb8ada7d84f221b",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/mixed-c6-run3.json",
+      "original_sha256": "7683156f4007c78f3b6a909479c124cd7d87091cea5a0a9e61b486e0ce0bf0d3",
+      "published_sha256": "7683156f4007c78f3b6a909479c124cd7d87091cea5a0a9e61b486e0ce0bf0d3",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/probe.log",
+      "original_sha256": "f305d95750d8dc8eb0b5f4f9a97cbd3512c25493033d1729dc3746871f81dd19",
+      "published_sha256": "f305d95750d8dc8eb0b5f4f9a97cbd3512c25493033d1729dc3746871f81dd19",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/rollout.log",
+      "original_sha256": "4d6b366c82c8f5a6b592f1c5f813e08d4a2214742512ddc1bcab108f3e7d457f",
+      "published_sha256": "4d6b366c82c8f5a6b592f1c5f813e08d4a2214742512ddc1bcab108f3e7d457f",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/runtime-image.json",
+      "original_sha256": "d51fe42ee7c3255db3d664db44476b6046d85f446c4462ee6b11f68f4ca24f9a",
+      "published_sha256": "52082e057ea0c91a92b212aec1a435af2bfbd5f571013ee59a0c83aa36d65eae",
+      "handling": "inspect: allowlist only; no Env, mounts, network, labels"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/short-c1-run1.json",
+      "original_sha256": "d39a8af58e70402df9eba72a36537856f61cab8dd8c7dda33e0cf4f812db8b6c",
+      "published_sha256": "d39a8af58e70402df9eba72a36537856f61cab8dd8c7dda33e0cf4f812db8b6c",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/short-c1-run2.json",
+      "original_sha256": "48131e1cce3f2f506b93f381f1925a6fd98af7a9e17c2eb895e559900b88ca6b",
+      "published_sha256": "48131e1cce3f2f506b93f381f1925a6fd98af7a9e17c2eb895e559900b88ca6b",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/short-c1-run3.json",
+      "original_sha256": "642505277fb4257b48936a4dffdc32635808442c34b2ff8c915c6243596557ab",
+      "published_sha256": "642505277fb4257b48936a4dffdc32635808442c34b2ff8c915c6243596557ab",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/started",
+      "original_sha256": "6d68cca247f66ea9f243224b7c30a208d6b0f890ad472d7fba9eecc206b7217a",
+      "published_sha256": "6d68cca247f66ea9f243224b7c30a208d6b0f890ad472d7fba9eecc206b7217a",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/summary.json",
+      "original_sha256": "aacb0a450d3ba4bf340d4a4c1c7605bcce759232e9d3ad0bea9252107c51dd06",
+      "published_sha256": "aacb0a450d3ba4bf340d4a4c1c7605bcce759232e9d3ad0bea9252107c51dd06",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/sustained-60s.json",
+      "original_sha256": "6fef396dd33ad5ba36f6d5890f0dd2741af54e24b6ddb48ae526a28c0a84b573",
+      "published_sha256": "6fef396dd33ad5ba36f6d5890f0dd2741af54e24b6ddb48ae526a28c0a84b573",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/v1-models.json",
+      "original_sha256": "fe1d954bcc28271e43620d6369fefadbe20bc410c803e339d0bd8ee019d2a760",
+      "published_sha256": "fe1d954bcc28271e43620d6369fefadbe20bc410c803e339d0bd8ee019d2a760",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/warmup.json",
+      "original_sha256": "1d47048c9b58ab0dfb0532b318c8dd6df6b6a0162ddb8b2d46ba4f5bf2aa9f43",
+      "published_sha256": "1d47048c9b58ab0dfb0532b318c8dd6df6b6a0162ddb8b2d46ba4f5bf2aa9f43",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/complete",
+      "original_sha256": "9f56e761d79bfdb34304a012586cb04d16b435ef6130091a97702e559260a2f2",
+      "published_sha256": "9f56e761d79bfdb34304a012586cb04d16b435ef6130091a97702e559260a2f2",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/download.log",
+      "original_sha256": "fa02f39b66ba8113454d98d35f2b21da33ef2e81a3f1441baf61ba70d09b6bf8",
+      "published_sha256": "9018ba032b71c68ac9c4c1ffa44923e528f8ec4cc19aee2ae59d52f2d0ecf172",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/fixture-1280.png",
+      "original_sha256": "ed88071a0be0b10af1c7ac4269bd7cc94aeec1581098d6ad07ec110e134dfb06",
+      "published_sha256": "ed88071a0be0b10af1c7ac4269bd7cc94aeec1581098d6ad07ec110e134dfb06",
+      "handling": "unchanged binary synthetic fixture"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/fixture-512.png",
+      "original_sha256": "3e97670e355d78262a9fd885357a66336e5b0b0b65382a77a443b0ff3f3e9d85",
+      "published_sha256": "3e97670e355d78262a9fd885357a66336e5b0b0b65382a77a443b0ff3f3e9d85",
+      "handling": "unchanged binary synthetic fixture"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/glm-before.txt",
+      "original_sha256": "319182dee3aa3f248ed719f699e1602cecf3d781baf351310d83d9a8305bd58f",
+      "published_sha256": "319182dee3aa3f248ed719f699e1602cecf3d781baf351310d83d9a8305bd58f",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/glm-health-after.json",
+      "original_sha256": "b6d3d70b1f41eca8655c407a842a33c47c8a106de4cd46144b0a289f097fd38a",
+      "published_sha256": "b6d3d70b1f41eca8655c407a842a33c47c8a106de4cd46144b0a289f097fd38a",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/glm-health-before.json",
+      "original_sha256": "e9c1ad0c99e485de687c679ff01b72604f688070ac71c5831f035ecd4ed8da71",
+      "published_sha256": "e9c1ad0c99e485de687c679ff01b72604f688070ac71c5831f035ecd4ed8da71",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/glm-restore-smoke.json",
+      "original_sha256": "94d99da00879781b1b440d08094b7a9ae76a158fb50f5c65369ad416aae6617a",
+      "published_sha256": "94d99da00879781b1b440d08094b7a9ae76a158fb50f5c65369ad416aae6617a",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/glm-restore-warmup.json",
+      "original_sha256": "47b6c3b1d851a019f54a3300ea8b78140d7a9213ff7a6a05cd80c74aac675a8a",
+      "published_sha256": "47b6c3b1d851a019f54a3300ea8b78140d7a9213ff7a6a05cd80c74aac675a8a",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/health.json",
+      "original_sha256": "90b3d08532137de5d1cf0a779a506df3d16e5ff50e6ef8258681a5aac5c6e815",
+      "published_sha256": "90b3d08532137de5d1cf0a779a506df3d16e5ff50e6ef8258681a5aac5c6e815",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/http-download.log",
+      "original_sha256": "fa4dadd6d3f90f18ce75b4b5a6589d3144fa7e3092b604e7827592f6476f2604",
+      "published_sha256": "fa4dadd6d3f90f18ce75b4b5a6589d3144fa7e3092b604e7827592f6476f2604",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/http-smoke.json",
+      "original_sha256": "12bbae80da7e7145e96899ebf9aaf2735cfb3b3c664a77d938bf403949f6d596",
+      "published_sha256": "12bbae80da7e7145e96899ebf9aaf2735cfb3b3c664a77d938bf403949f6d596",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/kanana-memory-20261108-1489062-image-1280x1280-n1-run1.json",
+      "original_sha256": "0b747f79c38a4e9f4d4617aad8f75b5d12951e596012005f5c1e9c525f4311c6",
+      "published_sha256": "0b747f79c38a4e9f4d4617aad8f75b5d12951e596012005f5c1e9c525f4311c6",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/kanana-memory-20261108-1489062-image-1280x1280-n1-run2.json",
+      "original_sha256": "830be3757fb803f53eb78c45ae08e3520e1d1f269b68c514dc4b433facfd34aa",
+      "published_sha256": "830be3757fb803f53eb78c45ae08e3520e1d1f269b68c514dc4b433facfd34aa",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/kanana-memory-20261108-1489062-image-1280x1280-n1-run3.json",
+      "original_sha256": "f4ba56e2da47a248562a1dfa6328baf9c00361682b4d6e6f96a42dcca2196f3f",
+      "published_sha256": "f4ba56e2da47a248562a1dfa6328baf9c00361682b4d6e6f96a42dcca2196f3f",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/kanana-memory-20261108-1489062-image-512x512-n1-run1.json",
+      "original_sha256": "e3f303d6899c154d444c4e758034b4df7fc0a9053baef73fb5f0c52c819600d6",
+      "published_sha256": "e3f303d6899c154d444c4e758034b4df7fc0a9053baef73fb5f0c52c819600d6",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/kanana-memory-20261108-1489062-image-512x512-n1-run2.json",
+      "original_sha256": "fb5c48385dc1422a0aa8f12e600eae014ac83cfad584f2eab8ff7edae2486051",
+      "published_sha256": "fb5c48385dc1422a0aa8f12e600eae014ac83cfad584f2eab8ff7edae2486051",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/kanana-memory-20261108-1489062-image-512x512-n1-run3.json",
+      "original_sha256": "e74a9761737c89d44a00cd4b4c314924702390b31dd753dbdca87a7553d9b3c7",
+      "published_sha256": "e74a9761737c89d44a00cd4b4c314924702390b31dd753dbdca87a7553d9b3c7",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/kanana-memory-20261108-1489062-image-512x512-n10-run1.json",
+      "original_sha256": "9d61b31e2030f010022cb25c4639aa813097599b952ca6dbd6fbe6a2ffe4a672",
+      "published_sha256": "9d61b31e2030f010022cb25c4639aa813097599b952ca6dbd6fbe6a2ffe4a672",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/kanana-memory-20261108-1489062-image-512x512-n10-run2.json",
+      "original_sha256": "3bcc384b4ffb44907462992143ce171eefc81bab0ca847bda355c964ba914918",
+      "published_sha256": "3bcc384b4ffb44907462992143ce171eefc81bab0ca847bda355c964ba914918",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/kanana-memory-20261108-1489062-image-512x512-n10-run3.json",
+      "original_sha256": "7986b966ab3fa6a3c8a092988eb85aebcbc1c1ecd5d4a3a396bbc92983140e25",
+      "published_sha256": "7986b966ab3fa6a3c8a092988eb85aebcbc1c1ecd5d4a3a396bbc92983140e25",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/kanana-memory-20261108-1489062-load-run0.json",
+      "original_sha256": "cd54d47bddb5bbd03d7e8c2d017833971dfc0535b0db4d763faf8c555572825b",
+      "published_sha256": "cd54d47bddb5bbd03d7e8c2d017833971dfc0535b0db4d763faf8c555572825b",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/kanana-memory-20261108-1489062-text-20000-run1.json",
+      "original_sha256": "9b61713437a52de440c52acf78c89de38430aedb75a51a6eb8b06f1d4150bbc9",
+      "published_sha256": "9b61713437a52de440c52acf78c89de38430aedb75a51a6eb8b06f1d4150bbc9",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/kanana-memory-20261108-1489062-text-20000-run2.json",
+      "original_sha256": "cf0ad2ec05aba89bfb75e1f189e2e21bda77445509d27d21ee795fa05eae6738",
+      "published_sha256": "cf0ad2ec05aba89bfb75e1f189e2e21bda77445509d27d21ee795fa05eae6738",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/kanana-memory-20261108-1489062-text-20000-run3.json",
+      "original_sha256": "bd38ae6d2f2443483bffd483ab56abc60f4e8d1f1f7e0f50dbbb7002baabb1c4",
+      "published_sha256": "bd38ae6d2f2443483bffd483ab56abc60f4e8d1f1f7e0f50dbbb7002baabb1c4",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/kanana-memory-20261108-1489062-text-2048-run1.json",
+      "original_sha256": "d4d5aa0d5a7556ff4434ffe05e7b40d5451029dd3625017d7afc89e3b95c01fd",
+      "published_sha256": "d4d5aa0d5a7556ff4434ffe05e7b40d5451029dd3625017d7afc89e3b95c01fd",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/kanana-memory-20261108-1489062-text-2048-run2.json",
+      "original_sha256": "a77cf40339751fba84d69e301b125d7bf40c7708ca65338945e68cabb2afbbf7",
+      "published_sha256": "a77cf40339751fba84d69e301b125d7bf40c7708ca65338945e68cabb2afbbf7",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/kanana-memory-20261108-1489062-text-2048-run3.json",
+      "original_sha256": "8e4f7729b9ec2f6b44a0aa217e4515a6c0d193b1556f4b1a3d281f0747eeed77",
+      "published_sha256": "8e4f7729b9ec2f6b44a0aa217e4515a6c0d193b1556f4b1a3d281f0747eeed77",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/kanana-memory-20261108-1489062-text-256-run1.json",
+      "original_sha256": "ac30051488da768b4a511fbbe7cc15111047f3f25d498c737e9f946ac63b07ee",
+      "published_sha256": "ac30051488da768b4a511fbbe7cc15111047f3f25d498c737e9f946ac63b07ee",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/kanana-memory-20261108-1489062-text-256-run2.json",
+      "original_sha256": "7d28b519dd98d1d78b2c8167353617246949b6be0cbca32b595219a7f50eb7b2",
+      "published_sha256": "7d28b519dd98d1d78b2c8167353617246949b6be0cbca32b595219a7f50eb7b2",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/kanana-memory-20261108-1489062-text-256-run3.json",
+      "original_sha256": "46048b5238e28d561095e631ceb52051a896ad82c2b024b08473e53a4922ee4e",
+      "published_sha256": "46048b5238e28d561095e631ceb52051a896ad82c2b024b08473e53a4922ee4e",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/kanana-memory-20261108-1489062-text-8192-run1.json",
+      "original_sha256": "17911a1efe632fcd4d9716ab6690193947bbe41c0afc647e8aa7b863050a5372",
+      "published_sha256": "17911a1efe632fcd4d9716ab6690193947bbe41c0afc647e8aa7b863050a5372",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/kanana-memory-20261108-1489062-text-8192-run2.json",
+      "original_sha256": "ef101557968e0bc07a262dc3b212b84abcdc1af5b9fc3c7b77cb154477166d8b",
+      "published_sha256": "ef101557968e0bc07a262dc3b212b84abcdc1af5b9fc3c7b77cb154477166d8b",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/kanana-memory-20261108-1489062-text-8192-run3.json",
+      "original_sha256": "de7022e90c27a60e032ac484b7ce7fa1d8b5d0e1c9a34ab106388850fd2a0658",
+      "published_sha256": "de7022e90c27a60e032ac484b7ce7fa1d8b5d0e1c9a34ab106388850fd2a0658",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/kanana-memory-20261108-1489062-text-short-cached-run1.json",
+      "original_sha256": "ea72d4ed8c597e35238ad404b16f67aba68feaadae055968e30b51116bce3607",
+      "published_sha256": "ea72d4ed8c597e35238ad404b16f67aba68feaadae055968e30b51116bce3607",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/kanana-memory-20261108-1489062-text-short-cached-run2.json",
+      "original_sha256": "90a0583ed022a6fbed39ce9b4433804df522ef16e9bea6b333a670581079c091",
+      "published_sha256": "90a0583ed022a6fbed39ce9b4433804df522ef16e9bea6b333a670581079c091",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/kanana-memory-20261108-1489062-text-short-cached-run3.json",
+      "original_sha256": "ed0562459f24afa9e2fc5e97d037d8e13ed8b542c76d83c505607f6210503c17",
+      "published_sha256": "ed0562459f24afa9e2fc5e97d037d8e13ed8b542c76d83c505607f6210503c17",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/kanana-memory-20261108-1489062-warmup-run0.json",
+      "original_sha256": "8f364a3c3831fd7b66ee6570128a710aa934f1a99b92042e7262d2e7c1e94945",
+      "published_sha256": "8f364a3c3831fd7b66ee6570128a710aa934f1a99b92042e7262d2e7c1e94945",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/metadata.json",
+      "original_sha256": "25c23c4c461a40039f324d747b052f509f5acbecbdc6a79039f6744a95209534",
+      "published_sha256": "25c23c4c461a40039f324d747b052f509f5acbecbdc6a79039f6744a95209534",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/pip-freeze.txt",
+      "original_sha256": "6fbc2c65e9d3b6e3b65d2512ab0cd9f51cc11c13eb09c1af754a70b69d26165f",
+      "published_sha256": "6fbc2c65e9d3b6e3b65d2512ab0cd9f51cc11c13eb09c1af754a70b69d26165f",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/probe.log",
+      "original_sha256": "93057be5fdcc5c853c358565a6b2a611f8c7f18bfd8195751062102cf675a616",
+      "published_sha256": "93057be5fdcc5c853c358565a6b2a611f8c7f18bfd8195751062102cf675a616",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/runtime-image.txt",
+      "original_sha256": "c692d59a3c19bd6f63a87658f67d718dc8e64a8b402176d0f7744326be2c57aa",
+      "published_sha256": "c692d59a3c19bd6f63a87658f67d718dc8e64a8b402176d0f7744326be2c57aa",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/runtime-setup.log",
+      "original_sha256": "6f7d99052b3a4075f81a9405572474f61f975062bfb12bed248fb6edefcccfd8",
+      "published_sha256": "6f7d99052b3a4075f81a9405572474f61f975062bfb12bed248fb6edefcccfd8",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/stopped-memory.txt",
+      "original_sha256": "545385d7cf8d6206e11355ec86c4bc25c38f791f5c97468747681b141b7b494a",
+      "published_sha256": "545385d7cf8d6206e11355ec86c4bc25c38f791f5c97468747681b141b7b494a",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/v1-models.json",
+      "original_sha256": "fe1d954bcc28271e43620d6369fefadbe20bc410c803e339d0bd8ee019d2a760",
+      "published_sha256": "fe1d954bcc28271e43620d6369fefadbe20bc410c803e339d0bd8ee019d2a760",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-reading-20261108-1489062/reading-case.json",
+      "original_sha256": "fabd328cde5c9a42934ee56ba1132ae6680e40692eb79e0ee0d3f16fc4df9757",
+      "published_sha256": "fabd328cde5c9a42934ee56ba1132ae6680e40692eb79e0ee0d3f16fc4df9757",
+      "handling": "text: internal host/address/user path substitution"
+    },
+    {
+      "path": "kanana-reading-20261108-1489062/reading-result.json",
+      "original_sha256": "91a304d435ef5f03637d4c2179ef86642ba0e0879565f8b760768e49eacdff9e",
+      "published_sha256": "91a304d435ef5f03637d4c2179ef86642ba0e0879565f8b760768e49eacdff9e",
+      "handling": "text: internal host/address/user path substitution"
+    }
+  ],
+  "omitted": [
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/probe.pid",
+      "reason": "operational wrapper/PID/duplicate source/PDF; results retained"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/probe.py",
+      "reason": "operational wrapper/PID/duplicate source/PDF; results retained"
+    },
+    {
+      "path": "kanana-co-load-20261108-1489062/worker/probe.sha256",
+      "reason": "operational wrapper/PID/duplicate source/PDF; results retained"
+    },
+    {
+      "path": "kanana-coexist-20261108-1489062/leader/guard.log",
+      "reason": "operational wrapper/PID/duplicate source/PDF; results retained"
+    },
+    {
+      "path": "kanana-coexist-20261108-1489062/leader/guard.pid",
+      "reason": "operational wrapper/PID/duplicate source/PDF; results retained"
+    },
+    {
+      "path": "kanana-coexist-20261108-1489062/leader/kanana-trial-guard.py",
+      "reason": "operational wrapper/PID/duplicate source/PDF; results retained"
+    },
+    {
+      "path": "kanana-coexist-20261108-1489062/worker/guard.log",
+      "reason": "operational wrapper/PID/duplicate source/PDF; results retained"
+    },
+    {
+      "path": "kanana-coexist-20261108-1489062/worker/guard.pid",
+      "reason": "operational wrapper/PID/duplicate source/PDF; results retained"
+    },
+    {
+      "path": "kanana-coexist-20261108-1489062/worker/kanana-serve.py",
+      "reason": "operational wrapper/PID/duplicate source/PDF; results retained"
+    },
+    {
+      "path": "kanana-coexist-20261108-1489062/worker/kanana-trial-guard.py",
+      "reason": "operational wrapper/PID/duplicate source/PDF; results retained"
+    },
+    {
+      "path": "kanana-csat-20261108-1489062/kanana-csat-bench.py",
+      "reason": "operational wrapper/PID/duplicate source/PDF; results retained"
+    },
+    {
+      "path": "kanana-csat-20261108-1489062/official-answer.pdf",
+      "reason": "operational wrapper/PID/duplicate source/PDF; results retained"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/glm-memory-guard.pid",
+      "reason": "operational wrapper/PID/duplicate source/PDF; results retained"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/glm-memory-guard.py",
+      "reason": "operational wrapper/PID/duplicate source/PDF; results retained"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/probe.py",
+      "reason": "operational wrapper/PID/duplicate source/PDF; results retained"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run.sh",
+      "reason": "operational wrapper/PID/duplicate source/PDF; results retained"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run1/probe.py",
+      "reason": "operational wrapper/PID/duplicate source/PDF; results retained"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run2/probe.py",
+      "reason": "operational wrapper/PID/duplicate source/PDF; results retained"
+    },
+    {
+      "path": "kanana-direct-memory-20261108-1489062/run3/probe.py",
+      "reason": "operational wrapper/PID/duplicate source/PDF; results retained"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/glm-memory-guard.pid",
+      "reason": "operational wrapper/PID/duplicate source/PDF; results retained"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/guard.log",
+      "reason": "operational wrapper/PID/duplicate source/PDF; results retained"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/guard.pid",
+      "reason": "operational wrapper/PID/duplicate source/PDF; results retained"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/guard.py",
+      "reason": "operational wrapper/PID/duplicate source/PDF; results retained"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/probe.py",
+      "reason": "operational wrapper/PID/duplicate source/PDF; results retained"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/probe.sha256",
+      "reason": "operational wrapper/PID/duplicate source/PDF; results retained"
+    },
+    {
+      "path": "kanana-load-20261108-1489062/run.sh",
+      "reason": "operational wrapper/PID/duplicate source/PDF; results retained"
+    },
+    {
+      "path": "kanana-memory-20261108-1489062/probe.py",
+      "reason": "operational wrapper/PID/duplicate source/PDF; results retained"
+    }
+  ]
+}

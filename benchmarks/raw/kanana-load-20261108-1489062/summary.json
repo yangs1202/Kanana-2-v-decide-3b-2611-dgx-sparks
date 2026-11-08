@@ -1,0 +1,26 @@
+{
+  "baseline": {
+    "time": 1794112882.0512874,
+    "MemAvailable": 125368487936,
+    "SwapFree": 16795164672,
+    "VmHWM": 20922368,
+    "VmRSS": 20922368
+  },
+  "requests": 57,
+  "peak_system_delta_gib": 17.122177124023438,
+  "final": {
+    "time": 1794113628.582592,
+    "MemAvailable": 108116647936,
+    "SwapFree": 16811487232,
+    "VmHWM": 8215580672,
+    "VmRSS": 4645941248
+  },
+  "max_query_tokens": 20480,
+  "candidate_cache_entries": 3,
+  "request_median_seconds": 14.521477536007296,
+  "torch": "2.13.0a0+9186a08b2c.nv26.07",
+  "transformers": "5.5.3",
+  "model_commit": "1489062def4145ae3a0a9261fbac4f4d88a8c6d1",
+  "server_serialized": true,
+  "allocator_cache_cleared_between_phases": false
+}

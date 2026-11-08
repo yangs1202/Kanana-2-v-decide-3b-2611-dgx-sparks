@@ -1,0 +1,32 @@
+START short-c1-run1
+{"phase": "short-c1-run1", "start": 1794114778.7012491, "end": 1794114778.8103068, "seconds": 0.10905766487121582, "concurrency": 1, "min_available": 15247585280, "after": {"time": 1794114778.8103042, "MemAvailable": 15247585280, "SwapFree": 17030742016, "VmHWM": 8227381248, "VmRSS": 1766084608}}
+START short-c1-run2
+{"phase": "short-c1-run2", "start": 1794114778.810515, "end": 1794114778.9014926, "seconds": 0.09097790718078613, "concurrency": 1, "min_available": 15247556608, "after": {"time": 1794114778.9014902, "MemAvailable": 15247556608, "SwapFree": 17030742016, "VmHWM": 8227381248, "VmRSS": 1766084608}}
+START short-c1-run3
+{"phase": "short-c1-run3", "start": 1794114778.9017193, "end": 1794114778.9919684, "seconds": 0.09024906158447266, "concurrency": 1, "min_available": 15247560704, "after": {"time": 1794114778.9919667, "MemAvailable": 15247560704, "SwapFree": 17030742016, "VmHWM": 8227381248, "VmRSS": 1763987456}}
+START long-c1-run1
+{"phase": "long-c1-run1", "start": 1794114778.9921145, "end": 1794114790.358843, "seconds": 11.366729259490967, "concurrency": 1, "min_available": 13195796480, "after": {"time": 1794114790.358839, "MemAvailable": 13204279296, "SwapFree": 17028407296, "VmHWM": 8227381248, "VmRSS": 1843773440}}
+START long-c1-run2
+{"phase": "long-c1-run2", "start": 1794114790.3592095, "end": 1794114800.6223783, "seconds": 10.263169527053833, "concurrency": 1, "min_available": 13187239936, "after": {"time": 1794114800.622376, "MemAvailable": 13213487104, "SwapFree": 17028407296, "VmHWM": 8227381248, "VmRSS": 1847902208}}
+START long-c1-run3
+{"phase": "long-c1-run3", "start": 1794114800.62268, "end": 1794114810.8972058, "seconds": 10.274526119232178, "concurrency": 1, "min_available": 13160529920, "after": {"time": 1794114810.897204, "MemAvailable": 13374226432, "SwapFree": 17028407296, "VmHWM": 8227381248, "VmRSS": 1847910400}}
+START images10-c1-run1
+{"phase": "images10-c1-run1", "start": 1794114810.8974006, "end": 1794114831.350949, "seconds": 20.453548669815063, "concurrency": 1, "min_available": 7981522944, "after": {"time": 1794114831.3509467, "MemAvailable": 8028721152, "SwapFree": 17003606016, "VmHWM": 8227381248, "VmRSS": 3132272640}}
+START images10-c1-run2
+{"phase": "images10-c1-run2", "start": 1794114831.3513398, "end": 1794114854.3617969, "seconds": 23.010457277297974, "concurrency": 1, "min_available": 7896530944, "after": {"time": 1794114854.3617942, "MemAvailable": 7973326848, "SwapFree": 16998940672, "VmHWM": 8227381248, "VmRSS": 3294052352}}
+START images10-c1-run3
+{"phase": "images10-c1-run3", "start": 1794114854.3620818, "end": 1794114878.06917, "seconds": 23.707088232040405, "concurrency": 1, "min_available": 7700520960, "after": {"time": 1794114878.0691679, "MemAvailable": 8010399744, "SwapFree": 16996073472, "VmHWM": 8227381248, "VmRSS": 3034820608}}
+START mixed-c6-run1
+{"phase": "mixed-c6-run1", "start": 1794114878.0695324, "end": 1794115116.6543994, "seconds": 238.5848672389984, "concurrency": 6, "min_available": 7070146560, "after": {"time": 1794115116.654394, "MemAvailable": 7630770176, "SwapFree": 16993107968, "VmHWM": 8227381248, "VmRSS": 3385102336}}
+START mixed-c6-run2
+{"phase": "mixed-c6-run2", "start": 1794115116.6649933, "end": 1794115319.7629433, "seconds": 203.09794998168945, "concurrency": 6, "min_available": 6722994176, "after": {"time": 1794115319.7629342, "MemAvailable": 7155830784, "SwapFree": 16989147136, "VmHWM": 8227381248, "VmRSS": 3863764992}}
+START mixed-c6-run3
+{"phase": "mixed-c6-run3", "start": 1794115319.763698, "end": 1794115521.7145011, "seconds": 201.95080304145813, "concurrency": 6, "min_available": 6418575360, "after": {"time": 1794115521.714494, "MemAvailable": 7075270656, "SwapFree": 16987234304, "VmHWM": 8227381248, "VmRSS": 3619217408}}
+START sustained-c1-run1
+{"phase": "sustained-c1-run1", "start": 1794115521.724923, "end": 1794115552.5773013, "seconds": 30.852378368377686, "concurrency": 1, "min_available": 6345687040, "after": {"time": 1794115552.5772972, "MemAvailable": 6749384704, "SwapFree": 16987176960, "VmHWM": 8227381248, "VmRSS": 4076679168}}
+START sustained-c1-run2
+{"phase": "sustained-c1-run2", "start": 1794115552.5776186, "end": 1794115552.6744084, "seconds": 0.09678983688354492, "concurrency": 1, "min_available": 7247368192, "after": {"time": 1794115552.6744068, "MemAvailable": 7247368192, "SwapFree": 16987176960, "VmHWM": 8227381248, "VmRSS": 3625095168}}
+START sustained-c1-run3
+{"phase": "sustained-c1-run3", "start": 1794115552.6745522, "end": 1794115582.625092, "seconds": 29.95054030418396, "concurrency": 1, "min_available": 6322409472, "after": {"time": 1794115582.62509, "MemAvailable": 6700544000, "SwapFree": 16987103232, "VmHWM": 8227381248, "VmRSS": 4058144768}}
+IDLE 30s
+COMPLETE {"baseline": {"time": 1794114778.0008273, "MemAvailable": 15366262784, "SwapFree": 17030742016, "VmHWM": 8227381248, "VmRSS": 1765560320}, "failed": false, "kanana_requests": 30, "glm_requests": 202, "kanana_errors": 0, "glm_errors": 0, "kanana_overlapping_glm": 30, "min_available": 6322409472, "final": {"time": 1794115618.0600438, "MemAvailable": 7557402624, "SwapFree": 16987103232, "VmHWM": 8227381248, "VmRSS": 3623047168}, "glm_request_mean_seconds": 8.013054734409446, "kanana_usage": [90, 16110, 20480], "model_commit": "1489062def4145ae3a0a9261fbac4f4d88a8c6d1", "glm_context": 524288, "kanana_server_serialized": true, "allocator_cache_cleared": false}

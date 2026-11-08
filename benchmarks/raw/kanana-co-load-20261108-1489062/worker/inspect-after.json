@@ -1,0 +1,50 @@
+[
+  {
+    "Id": "d404327e05a5622515415258bd86cd34d262cd9b38045bcbc9301133ea0d4034",
+    "Created": "2026-11-08T05:07:59.397023486Z",
+    "State": {
+      "Status": "running",
+      "Running": true,
+      "Paused": false,
+      "Restarting": false,
+      "OOMKilled": false,
+      "Dead": false,
+      "Pid": 2277216,
+      "ExitCode": 0,
+      "Error": "",
+      "StartedAt": "2026-11-08T05:08:00.284851027Z",
+      "FinishedAt": "0001-01-01T00:00:00Z"
+    },
+    "Image": "sha256:349154e3f5a2cf08d1971453a9ed568f3ceed703e74569540ba7d9eafc44f2c5",
+    "Name": "/kanana-decide",
+    "RestartCount": 0,
+    "Config": {
+      "Image": "kanana-memory:20261108-direct-accelerate112",
+      "WorkingDir": "/workspace"
+    }
+  },
+  {
+    "Id": "37783b8ea6bfa76811a976a30f7f7afd1dc50446ec2432541e20dd9b45fc4593",
+    "Created": "2026-11-08T04:18:12.737750097Z",
+    "State": {
+      "Status": "running",
+      "Running": true,
+      "Paused": false,
+      "Restarting": false,
+      "OOMKilled": false,
+      "Dead": false,
+      "Pid": 2151535,
+      "ExitCode": 0,
+      "Error": "",
+      "StartedAt": "2026-11-08T04:53:50.686473137Z",
+      "FinishedAt": "2026-11-08T04:41:17.045213821Z"
+    },
+    "Image": "sha256:6f08848c663bdc3d60cacfc863c28f9764fb86ed0fd426abf25da0f44dc07e73",
+    "Name": "/glm53-spark",
+    "RestartCount": 0,
+    "Config": {
+      "Image": "tensorfold-glm53-spark:8734689e7a73",
+      "WorkingDir": "/workspace"
+    }
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "case": "text-short-cached",
+  "run": 2,
+  "seconds": 0.038980537006864324,
+  "before": {
+    "MemTotal": 130659606528,
+    "MemAvailable": 113909903360,
+    "SwapFree": 16982044672,
+    "rss": 2460545024
+  },
+  "after": {
+    "MemTotal": 130659606528,
+    "MemAvailable": 113882583040,
+    "SwapFree": 16982044672,
+    "rss": 2460545024
+  },
+  "min_available": 113882378240,
+  "peak_rss": 2460549120,
+  "cuda_allocated": 7398064128,
+  "cuda_reserved": 7428112384,
+  "cuda_peak_allocated": 7404912640,
+  "cuda_peak_reserved": 7428112384,
+  "result": {
+    "model": "/model",
+    "answers": {
+      "category": {
+        "type": "choice",
+        "choice": "exchange",
+        "confidence": 0.9389698535471309,
+        "probabilities": {
+          "exchange": 0.9593132356980872,
+          "delivery": 0.03767286753027873,
+          "payment": 0.0030138967716339736
+        }
+      }
+    },
+    "usage": {
+      "billing_units": 1,
+      "input_tokens": 90,
+      "output_tokens": 0
+    }
+  }
+}

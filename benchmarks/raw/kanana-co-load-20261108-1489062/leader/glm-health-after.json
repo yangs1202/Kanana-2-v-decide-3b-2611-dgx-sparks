@@ -1,0 +1,1 @@
+{"status": "ok", "model": "GLM-5.3-Flash", "model_ids": ["GLM-5.3-Flash"], "max_batch_size": 8, "warming": false, "memory": {"active": 99450150968, "cache": 0, "peak": 99785695288}, "live": {"connections": 0, "waiting": 0, "decode_tokens_per_second": 0.0, "prefill_tokens_per_second": 0.0}, "version": "1.1.9", "backend": "cuda", "device": "NVIDIA GB10"}

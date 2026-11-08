@@ -1,0 +1,18 @@
+Powered by Kanana
+
+Kanana is licensed in accordance with the Kanana Open License Agreement.
+Copyright © KAKAO Corp. All Rights Reserved.
+
+The model weights and upstream custom model/server code are downloaded from
+kakaocorp/kanana-2-v-decide-3b-2611 at the immutable revision documented in README.
+They are not included in this repository. Their license is reproduced at
+docs/KANANA-LICENSE.txt; Kakao's Responsible AI guidelines apply as stated there.
+
+NVIDIA NGC images retain their own licenses and runtime notices.
+
+2026 CSAT Korean exam passages, questions, choices, and answer key:
+Copyright Korea Institute for Curriculum and Evaluation and the respective
+underlying works' rightsholders. They retain their original terms and are
+not covered by this repository's MIT license. Benchmark text transcriptions
+may differ from the original visual exam. The original problem PDF is not
+redistributed; use the linked official KICE source.

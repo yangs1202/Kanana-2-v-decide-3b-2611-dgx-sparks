@@ -1,0 +1,27 @@
+{
+  "phase": "fixtures",
+  "seconds": 0.3750575729936827,
+  "result": {
+    "payload_bytes": {
+      "short": 289,
+      "long": 138820,
+      "images10": 19590099,
+      "mixed": 19728630
+    }
+  },
+  "min_available": 114594451456,
+  "system_delta_gib": 10.034103393554688,
+  "after": {
+    "time": 1794112944.242113,
+    "MemAvailable": 114594451456,
+    "SwapFree": 16795164672,
+    "VmHWM": 8215580672,
+    "VmRSS": 1819471872
+  },
+  "rss_peak": 1866096640,
+  "cuda_allocated": 7364509184,
+  "cuda_reserved": 7394557952,
+  "cuda_peak_allocated": 7364509184,
+  "cuda_peak_reserved": 7394557952,
+  "forwards": []
+}

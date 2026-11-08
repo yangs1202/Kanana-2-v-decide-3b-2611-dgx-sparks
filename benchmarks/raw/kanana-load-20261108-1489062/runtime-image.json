@@ -1,0 +1,13 @@
+{
+  "Id": "sha256:349154e3f5a2cf08d1971453a9ed568f3ceed703e74569540ba7d9eafc44f2c5",
+  "RepoTags": [
+    "kanana-memory:20261108-direct-accelerate112"
+  ],
+  "RepoDigests": [],
+  "Created": "2026-11-08T04:25:50.032378183Z",
+  "Architecture": "arm64",
+  "Os": "linux",
+  "Config": {
+    "WorkingDir": "/workspace"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "phase": "long-c1-run1",
+  "seconds": 4.8292831080034375,
+  "result": [
+    {
+      "seconds": 4.828698832003283,
+      "response": {
+        "model": "kanana-2-v-decide-3b-2611",
+        "answers": {
+          "category": {
+            "type": "choice",
+            "choice": "exchange",
+            "confidence": 0.9052227846916586,
+            "probabilities": {
+              "exchange": 0.9368151897944391,
+              "delivery": 0.06007186522372362,
+              "payment": 0.003112944981837276
+            }
+          }
+        },
+        "usage": {
+          "billing_units": 1,
+          "input_tokens": 20480,
+          "output_tokens": 0
+        }
+      }
+    }
+  ],
+  "min_available": 112650801152,
+  "system_delta_gib": 11.844268798828125,
+  "after": {
+    "time": 1794112949.190597,
+    "MemAvailable": 112651472896,
+    "SwapFree": 16795164672,
+    "VmHWM": 8215580672,
+    "VmRSS": 1907105792
+  },
+  "rss_peak": 1907126272,
+  "cuda_allocated": 7364509184,
+  "cuda_reserved": 9302966272,
+  "cuda_peak_allocated": 8801549824,
+  "cuda_peak_reserved": 9302966272,
+  "forwards": [
+    {
+      "tokens": 20480,
+      "pixels": null
+    }
+  ]
+}

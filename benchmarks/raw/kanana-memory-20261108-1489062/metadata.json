@@ -1,0 +1,14 @@
+{
+  "torch": "2.13.0a0+9186a08b2c.nv26.07",
+  "device": "NVIDIA GB10",
+  "dtype": "bfloat16",
+  "attention": "sdpa",
+  "concurrency": 1,
+  "model_commit": "1489062def4145ae3a0a9261fbac4f4d88a8c6d1",
+  "baseline": {
+    "MemTotal": 130659606528,
+    "MemAvailable": 124734750720,
+    "SwapFree": 16980246528,
+    "rss": 708493312
+  }
+}

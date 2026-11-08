@@ -1,0 +1,20 @@
+{
+  "model": "kanana-2-v-decide-3b-2611",
+  "answers": {
+    "category": {
+      "type": "choice",
+      "choice": "exchange",
+      "confidence": 0.9514607821005497,
+      "probabilities": {
+        "exchange": 0.9676405214003665,
+        "delivery": 0.029610022867875202,
+        "payment": 0.0027494557317582994
+      }
+    }
+  },
+  "usage": {
+    "billing_units": 1,
+    "input_tokens": 87,
+    "output_tokens": 0
+  }
+}

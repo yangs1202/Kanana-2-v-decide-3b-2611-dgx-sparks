@@ -1,0 +1,29 @@
+{
+  "case": "load",
+  "run": 0,
+  "seconds": 48.982408887997735,
+  "before": {
+    "MemTotal": 130659606528,
+    "MemAvailable": 124523499520,
+    "SwapFree": 16982044672,
+    "rss": 801980416
+  },
+  "after": {
+    "MemTotal": 130659606528,
+    "MemAvailable": 115603775488,
+    "SwapFree": 16982044672,
+    "rss": 885772288
+  },
+  "min_available": 108251009024,
+  "peak_rss": 8213929984,
+  "cuda_allocated": 7330924032,
+  "cuda_reserved": 7333740544,
+  "cuda_peak_allocated": 7331643392,
+  "cuda_peak_reserved": 7333740544,
+  "result": {
+    "parameter_bytes": 7330861280,
+    "parameter_devices": [
+      "cuda:0"
+    ]
+  }
+}

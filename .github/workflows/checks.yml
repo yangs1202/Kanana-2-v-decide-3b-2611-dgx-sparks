@@ -1,0 +1,22 @@
+name: Recipe checks
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  checks:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check shell and Python syntax
+        run: |
+          for script in *.sh scripts/*.sh benchmarks/*.sh; do bash -n "$script"; done
+          python -m compileall -q scripts benchmarks/scripts tests
+      - name: Validate artifacts and lifecycle safeguards
+        run: |
+          python tests/check_artifacts.py
+          python -m unittest discover -s tests -v
